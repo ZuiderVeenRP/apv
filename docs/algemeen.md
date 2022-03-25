@@ -260,6 +260,7 @@
 > 9 Machete </br>
 > 10 Stiletto </br>
 > 11 Knuppel </br>
+
 </br>
 
 ### **Artikel 38: Officiële gangs**				**(Straf-categorie: 5 + Gang-warn)**
