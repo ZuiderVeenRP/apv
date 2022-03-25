@@ -261,8 +261,6 @@
 > 10 Stiletto </br>
 > 11 Knuppel </br>
 
-</br>
-
 ### **Artikel 38: Officiële gangs**				**(Straf-categorie: 5 + Gang-warn)**
 - Het misbruiken van het gang-menu is niet toegestaan.
 - Een persoon mag je maximaal 90 minuten ontvoeren (alleen tijdens overvallen en ontvoeringen). Het misbruiken van het vasthouden van mensen wordt bestraft (F6 abuse)
