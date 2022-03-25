@@ -291,7 +291,7 @@
 - Roleplay met de ambulance moet realistisch zijn. Er wordt verwacht dat je eerlijk bent over je verwondingen en deze logisch inschat. Ook dien je mee te werken met de roleplay en mag je ambulancier niet forceren om spelers te reviven. Ambulancemedewerkers hebben ten alle tijde het recht om je dood te verklaren als je door verwondingen/situaties dood zou moeten zijn.
 </br>
 
-### **Artikel 41: Streamers en content creators**             **(Straf-categorie: 8)** <br> 
+### **Artikel 41: Streamers en content creators**             **(Straf-categorie: 6)** <br> 
 - Zorg er voor dat de mensen met wie je in discord zit van je streaming afweten. <br>
 - Je bent als streamer een visitekaartje voor ZuiderVeen. Mochten er dingen gebeuren, laat het ons weten via een ticket.<br>
 - Doordat je jezelf vrij makkelijk in de picture zet, kunnen wij wat strenger zijn tegen streamers, aangezien we live beelden van ze hebben.<br>
