@@ -1,5 +1,10 @@
 # Project information
 
+site_name: Regelgeving
+site_author: 'ZuiderVeen'
+site_url: 'https://zuiderveenrp.github.io/Kaas/'
+use_directory_urls: false
+
 # Copyright
 copyright: Copyright &copy; 2022 ZuiderVeen
 
