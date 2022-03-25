@@ -1,6 +1,6 @@
 # Algemeen
 
-### **Artikel 1: Cheats** 		      			**(Straf-categorie: 8)**
+### **Artikel 1: Cheats** 		      			**(Straf-categorie: 9)**
    - Een burger die gebruik maakt van software/hulpmiddelen van derde partijen om een voordeel in het spel te krijgen zullen worden bestraft.</br>
    - Het gebruik maken van een crosshair is ten allen tijde verboden.</br>
    - Onder cheats vallen externe programma’s, zoals hack clients.</br>
@@ -22,7 +22,7 @@
    - Het is verboden om starters geld over te maken naar je eigen account of dat van een ander met als doel niet verder te spelen voor minimaal 3 maanden of langer.</br>
 </br>
 
-### **Artikel 4: DDOS bedreigingen**			**(Straf-categorie: 8)**
+### **Artikel 4: DDOS bedreigingen**			**(Straf-categorie: 9)**
    - DDOS of dreigen met DDOS/booten is verboden.
    - Het ‘doxen’ van burgers of staff leden is verboden.
 </br>
@@ -69,7 +69,7 @@
    - Een speler kan niet meer deelnemen in hetzelfde scenario in de daaropvolgende tijd. Ditzelfde geldt voor een scenario verdeeld over meerdere dagen.
 </br>
 
-### **Artikel 11A: Microfoon**				**(Straf-categorie: 8)**
+### **Artikel 11A: Microfoon**				**(Straf-categorie: 2)**
    - Iedere speler dient een werkende microfoon te gebruiken in de stad.
    - Het stafflid dient ten alle tijden mogelijkheden te zoeken om de persoon in kwestie te kunnen bereiken, indien de microfoon niet werkende is.
    - Wanneer de speler in kwestie kan bewijzen dat de microfoon weer werkende is, krijgt de persoon in kwestie een unban. 
@@ -147,30 +147,30 @@
    - Het uitschelden van burgers met racistische opmerkingen levert een straf op volgens **categorie 6**.
 </br>
 
-### Artikel 21: Het dragen van de standaard outfit	       (Straf-categorie:1)
+### **Artikel 21: Het dragen van de standaard outfit**	       **(Straf-categorie:1)**
 - Het dragen van de standaard outfit (zwart-wit geblokt) is niet toegestaan. Je dient een volledige outfit te maken, waarbij je armen en benen zichtbaar zijn en de kleding goed aansluit. </br>
 </br>
 
-### Artikel 22: Combatloggen   			      (Straf-categorie: 2)
+### **Artikel 22: Combatloggen**   			      **(Straf-categorie: 2)**
 - Het is verboden om tijdens een scenario het spel af te sluiten en of te verlaten. Wanneer dit gebeurt heb je 5 minuten om terug te keren naar het scenario. Wanneer men in een scenario zit dient men het scenario af te maken.
 - Indien echt niet anders kan, en persoon moet echt vertrekken, moet dit overlegd worden met de betrokkenen in dit scenario.
 - Het verlaten van de stad, nadat je karakter overleden is wordt gezien als combatloggen.
 </br>
 
-### Artikel 23: Stream sniping  				     (Straf-categorie: 1)
+### **Artikel 23: Stream sniping**  				     **(Straf-categorie: 1)**
 - Het gebruiken van informatie vanuit streamers/content creators wordt gezien als stream sniping.
 </br>
 
-### Artikel 24: Gebruik van discord			      (Straf-categorie: 1)
+### **Artikel 24: Gebruik van discord**			      **(Straf-categorie: 1)**
 - Het gebruik van discord om informatie door te spelen over een situatie in de stad is niet toegestaan. Iedereen dient gebruik te maken van een portofoon of voicechat om informatie te verstrekken of vrij te geven aan de medespelers. In een scenario is het verplicht om volledig gemute te zijn op discord. Het doorgeven van deze informatie in de ZuiderVeen Onderwereld chats wordt ook bestraft.
 - Als gang is het verplicht om gebruik te maken van de spraakkanalen in de onderwereld discord die voor hen zijn aangewezen. Het gebruiken van een eigen discord voor calls is niet toegestaan. 
 </br>
 
-### Artikel 25: Gebruik job voertuigen	bij non whitelisted jobs       (Straf-categorie:1)
+### **Artikel 25: Gebruik job voertuigen	bij non whitelisted jobs**       **(Straf-categorie:1)**
 - Het is niet toegestaan om met je eigen voertuig andere werkzaamheden uit te voeren anders dan die voor jouw baan geschikt is.
 </br>
 
-### Artikel 27: Refund
+### **Artikel 27: Refund**
 - Om een recent scenario te kunnen behandelen, vragen wij een ticket in de categorieën klachten over spelers / in game refunds binnen 7 dagen aan te maken. Tickets buiten de 7 dagen worden niet behandeld. Met uitzondering tot toestemming van een hogerop stafflid.
 - Het uitlenen van eigen bezittingen is op eigen risico. Als de persoon wordt verbannen zal hij/zij hier geen refund voor krijgen.
 - Om in aanmerking te komen voor een refund moet de waarde minimaal €10.000 bedragen.
@@ -179,35 +179,35 @@
 - Wanneer een speler aangereden wordt terwijl je door rood licht rijdt, wordt dit gezien als een verkeersongeluk zonder een refund mogelijk.
 </br>
 
-### Artikel 28: Manier van gebruik van /report 
+### **Artikel 28: Manier van gebruik van /report** 
 - Reports dienen duidelijk verwoord te zijn. 
 - Voor RDM, metagaming en combatloggen hoef je geen report aan te maken, maar maak je een ticket aan in de support discord. 
 - Er komt geen hulp wanneer je de volgende uitspraken maakt: staff kom eens, of staff ik heb een vraag of alleen rdm/vdm.
 </br>
 
-### Artikel 29: Spammen				(Straf-categorie: 1)
+### **Artikel 29: Spammen**				**(Straf-categorie: 1)**
 - Wanneer je meer dan 3 reports binnen 10 seconde achter elkaar verstuurt valt dit onder spammen.
 - Het spammen van berichten in /me.
 </br>
 
-### Artikel 30: Het gebruiken van de Nederlandse taal           (Straf-categorie: 1)
+### **Artikel 30: Het gebruiken van de Nederlandse taal**           **(Straf-categorie: 1)**
 - Tijdens het spelen van de stad ZuiderVeen, is het vereist om de Nederlandse taal te beheersen en toepassen.
 - Het standaard Engels spreken is niet toegestaan, binnen een bepaald karakter is dit wel mogelijk. 
 </br>
 
-### Artikel 31: Twitter media
+### **Artikel 31: Twitter media**
 - Informatie uit twitter media mag in de stad gebruikt worden door een burger. 
 - Zo is het je eigen verantwoordelijkheid om wapens en dergelijke te laten zien. Gangs en het korps mogen deze informatie gebruiken om je op te sporen.
 </br>
 
-### Artikel 32: Criminele activiteiten				(Straf-categorie: 2)
+### **Artikel 32: Criminele activiteiten**				**(Straf-categorie: 2)**
 - Het is niet toegestaan om voertuigen bij illegale deals te betrekken, onderwereld goederen dienen gekocht te worden met geld of andere onderwereld goederen. 
 - Met betrekking tot de volgende punten is het niet toegestaan om burgers te overvallen of op te lichten:
 - Voertuigen (ook niet iemand dwingen zijn auto sleutel aan jou te geven)
 - Onder dwang iemand zijn huis binnen treden en alles leegroven. Wanneer een speler zelf de keuze maakt om iemand binnen te laten valt dit onder je eigen verantwoordelijkheid.
 </br>
 
-### Artikel 33: Oplichten	en scammen				(Straf-categorie: 1)
+### **Artikel 33: Oplichten	en scammen**				**(Straf-categorie: 1)**
 - Het is niet toegestaan om te scammen met voertuigen.
 - Op een bovenwereld gerelateerde scam zit een limiet van €30.000.
 - Wanneer je een voertuig koopt, ben je zelf verantwoordelijk om te controleren of de aangeboden upgrades van toepassing bij het uitwisselen van het geldbedrag en de auto, dit zal via een request uitgevoerd gaan worden.
@@ -215,7 +215,7 @@
 - Na het oplichten is het niet toegestaan om de desbetreffende burger te vermoorden.
 </br>
 
-### Artikel 34: Overvallen op winkels en banken	(Straf-categorie: 2)
+### **Artikel 34: Overvallen op winkels en banken**	**(Straf-categorie: 2)**
 - Er is geen maximum aan overvallers in een kleine bank, grote bank, juwelier of winkel.
 - Tijdens een winkeloverval zal er geen DSI aanwezig zijn, tenzij er automatische wapens aanwezig zijn. Een OVD kan de keuze maken om hier vanaf te wijken. 
 - Max hostages bij een kleine bank, juwelier of winkel is 5.
@@ -229,19 +229,19 @@
 - Outside hostages zijn niet toegestaan.
 </br>
 
-### Artikel 35: Onderwereld Spelers			      (Straf-categorie: 4)
+### **Artikel 35: Onderwereld Spelers**			      **(Straf-categorie: 4)**
 - Het campen van locaties (voor rippen / stelen / scammen) is niet toegestaan.
 - Als je dood bent gegaan mag je niet meer meedoen aan wraakacties. Dood is dood. Het inlichten van de persoon in kwestie is niet toegestaan, je mag het gehele wraakactie die dagen erna niet meedoen. Dit geldt in gangwars en hunt-sessies.
 - Het is van belang dat je je outfit aanpast en/of je ID-kaart verandert, zodat niemand je meer kan doden. Een andere gang kan mogelijk niet op de hoogte zijn dat je al doodgeschoten bent.
 </br>
 
-### Artikel 36: Maximaal toegestaan aantal leden criminele organisaties
+### **Artikel 36: Maximaal toegestaan aantal leden criminele organisaties**
 - Het aantal toegestane leden in een criminele organisatie is 20 members.
 - Bovenstaand geldt voor erkende gangs en niet erkende gangs.
 - Het verbreken van bovenstaand artikel zal leiden tot een gang waarschuwing voor de gang in kwestie.
 </br>
 
-### Artikel 37: Rippen van wapens		(Straf-categorie: 1 + deal terugdraaien)
+### **Artikel 37: Rippen van wapens**		**(Straf-categorie: 1 + deal terugdraaien)**
 - Regels over het rippen van wapens:
 - Wanneer je een wapen wil rippen moet deze fysiek gezien zijn.
 - Discord kanalen (behalve twitter media) tellen niet mee als ‘’gezien hebben’’
@@ -262,7 +262,7 @@
 > 11 Knuppel </br>
 </br>
 
-### Artikel 38: Officiële gangs				(Straf-categorie: 5 + Gang-warn)
+### **Artikel 38: Officiële gangs**				**(Straf-categorie: 5 + Gang-warn)**
 - Het misbruiken van het gang-menu is niet toegestaan.
 - Een persoon mag je maximaal 90 minuten ontvoeren (alleen tijdens overvallen en ontvoeringen). Het misbruiken van het vasthouden van mensen wordt bestraft (F6 abuse)
 - Het meermaals foutief innemen van spullen kan leiden tot een gangwaarschuwing voor je officiële gang.
@@ -270,27 +270,27 @@
 - Het is voor een officiële gang niet toegestaan om een 2e gang te creëren om hieruit een groei te kunnen maken voor de eigen gang. 
 </br>
 
-### Artikel 39A: Wraakacties tegen whitelisted jobs   (Straf-categorie: 5)
+### **Artikel 39A: Wraakacties tegen whitelisted jobs**   **(Straf-categorie: 5)**
 - Het is ten alle tijden verboden om wraakacties uit te voeren tegen whitelisted jobs.
 </br>
 
-### Artikel 39B: Wraakacties tegen andere gangs 	 (Straf-categorie: 4)
+### **Artikel 39B: Wraakacties tegen andere gangs** 	 **(Straf-categorie: 4)**
 - Het is ten alle tijden verboden om weer te mengen in een scenario, wanneer je eerder overleden bent in dit scenario (gangwars).
 </br>
 
-### Artikel 40: fouilleren
+### **Artikel 40: fouilleren**
 - Je dient alleen te fouilleren wanneer je in bezit bent van een wapen.
 - Bij het innemen van wapens dien je het wapen visueel gezien te hebben, dit wordt anders volgens categorie 2 gestraft.
 - Het is niet toegestaan om spelers te dwingen goederen te geven, wanneer je niet in bezit bent van een F6 menu.
 </br>
 
-### Artikel 40: Ambulance				  (Straf-categorie: 2)
+### **Artikel 40: Ambulance**				  **(Straf-categorie: 2)**
 - Het is niet toegestaan om een ambulancemedewerker te vermoorden, beledigen of niet mee te werken met de roleplay van een ambulancier. De ambulance dient hier geen gebruik van te maken door bepaald ongepast gedrag te vertonen. 
 - Meldingen naar een overheidsinstantie dienen ten alle tijden realistisch en uitgebreid te zijn. Je dient minimaal te melden wat je ziet, wat er is gebeurd en wat je doet.
 - Roleplay met de ambulance moet realistisch zijn. Er wordt verwacht dat je eerlijk bent over je verwondingen en deze logisch inschat. Ook dien je mee te werken met de roleplay en mag je ambulancier niet forceren om spelers te reviven. Ambulancemedewerkers hebben ten alle tijde het recht om je dood te verklaren als je door verwondingen/situaties dood zou moeten zijn.
 </br>
 
-### Artikel 41: Streamers en content creators             (Straf-categorie: 8) <br> 
+### **Artikel 41: Streamers en content creators**             **(Straf-categorie: 8)** <br> 
 - Zorg er voor dat de mensen met wie je in discord zit van je streaming afweten. <br>
 - Je bent als streamer een visitekaartje voor ZuiderVeen. Mochten er dingen gebeuren, laat het ons weten via een ticket.<br>
 - Doordat je jezelf vrij makkelijk in de picture zet, kunnen wij wat strenger zijn tegen streamers, aangezien we live beelden van ze hebben.<br>
@@ -300,19 +300,19 @@
 - Het is NIET toegestaan om drugs locaties vast te leggen op stream. Doe je dit wel zal er een ban volgens categorie 5 worden uitgedeeld.<br>
 </br>
 
-### Artikel 42: Erotische roleplay 			            [Straf-categorie: 5]
+### **Artikel 42: Erotische roleplay** 			            **(Straf-categorie: 5)**
 - Het is niet toegestaan om roleplay volgens artikel 42 uit te voeren. 
 - Een stafflid kan een uitzondering maken in een situatie, zoals het dansen in een stripclub.  
 - Houd je hier niet aan? Dan levert dit een straf op volgens categorie 5.
 </br>
 
-### Artikel 43: Voordoen als overheidsmedewerker		 [Straf-categorie: 1] 
+### **Artikel 43: Voordoen als overheidsmedewerker**		 **(Straf-categorie: 1)** 
 - Het is niet toegestaan om je voor te doen als een overheidsmedewerker met/zonder de kleding. 
 - Het is niet toegestaan om de body armor of tas van de DSI te dragen als kleding. 
 - Het dragen van ambulance en anwb kleding is niet toegestaan.
 </br>
 
-### Artikel 44: AFK kick voorkomen 				[straf-categorie: 3] 
+### **Artikel 44: AFK kick voorkomen** 				**(straf-categorie: 3)** 
 - Het is niet toegestaan om de automatisch kick te omzeilen. 
 - Het is niet toegestaan om te ghosten bij een bovenwereldse baan om het loon te verkrijgen. 
 - Een stafflid in kwestie beslist of iets valt onder de AFK kick valt.
