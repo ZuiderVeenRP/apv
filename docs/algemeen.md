@@ -44,6 +44,7 @@
    - Binnen 10 minuten na het trekken van je wapen je wapen wegleggen.</br>
    - Het keybinden of klaarzetten van teksten in /me is niet toegestaan, de handelingen dienen uitgetypt te worden.</br>
    - Wanneer er een wapen op jou gericht gestaan heeft en de persoon die het wapen richtte staat nog naast jou zonder dat hij richt, wordt dit alsnog gezien als een dreiging. Het ondernemen van acties zoals bijvoorbeeld het trekken van een eigen wapen en schieten is dus niet toegestaan. Dit zal spelers de tijd geven om /me acties uit te typen. Het verbreken van deze regel zal vallen onder powergamen.</br>
+   - Indien je een speler meeneemt naar het eiland om zijn hogere categorie wapen te rippen wordt dit gezien als powergamen.
 </br>
 
 ### **Artikel 7: Karakter breken / OOC**			**(Straf-categorie: 1)** 
