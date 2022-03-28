@@ -369,7 +369,7 @@
 - Het afsluiten van abbonementen kan uitsluitend bij hoofd-monteur of hoger.
 - Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan.
 
-#Eilandregels
+# Eilandregels
 
 ### **Artikel 1 (Straf-categorie: 2)**
 - Je mag hier 50 zakjes per persoon rippen. De regel op het vaste land blijft staan op het rippen van 20 zakjes.
