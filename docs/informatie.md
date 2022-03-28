@@ -31,6 +31,7 @@ Een stafflid is niet verplicht om verzameld bewijsmateriaal te tonen aan een spe
 
 ### **Klacht maken over een speler.**<br>
 Een klacht over een speler dient binnen een week aangemaakt te worden. Daarna zal het niet meer bekeken worden door een stafflid in kwestie.
+</br>
 
 ### **Liegen tegen staff** </br>
 Liegen tegen staffleden is ten alle tijden niet toegestaan, hier staat een straf op van minimaal categorie 5.</br>
