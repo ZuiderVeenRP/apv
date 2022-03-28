@@ -332,15 +332,15 @@
 </br> 
 
 ### **Artikel 45: Algemene regels hulpdiensten**
-➥ Het agressief benaderen van Politie, Ambulance, Taxi en ANWB is niet toegestaan. Blijf ten alle tijde vriendelijk.
-➥ Het stelen van overheidsvoertuigen is niet toegestaan. Hieronder vallen de voertuigen van de Politie, Ambulance, ANWB en rijkswaterstaat.
-➥ op het moment van het uitvoeren van een overheidsbaan MOET je gebruik maken van de porto dit om de roleplay te verbeteren.
-➥ Het is ten alle tijden niet toegestaan om corrupt te zijn. Als je dit wel doet ben je per direct ontslagen.
-➥ Het oproepen van collega's via discord omdat er bijvoorbeeld een overval is valt onder "Metagamen".
-➥ Het in dienst gaan zonder de correcte dienst kleding is ten strengste verboden.
-➥ Het is niet toegestaan om als hulpdienst criminele activiteiten uit te voeren, zowel in als uit dienst niet.
-➥ Het scammen van hulpdiensten als ze indienst zijn is niet toegestaan.
-➥ Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan.
+- Het agressief benaderen van Politie, Ambulance, Taxi en ANWB is niet toegestaan. Blijf ten alle tijde vriendelijk.
+- Het stelen van overheidsvoertuigen is niet toegestaan. Hieronder vallen de voertuigen van de Politie, Ambulance, ANWB en rijkswaterstaat.
+- op het moment van het uitvoeren van een overheidsbaan MOET je gebruik maken van de porto dit om de roleplay te verbeteren.
+- Het is ten alle tijden niet toegestaan om corrupt te zijn. Als je dit wel doet ben je per direct ontslagen.
+- Het oproepen van collega's via discord omdat er bijvoorbeeld een overval is valt onder "Metagamen".
+- Het in dienst gaan zonder de correcte dienst kleding is ten strengste verboden.
+- Het is niet toegestaan om als hulpdienst criminele activiteiten uit te voeren, zowel in als uit dienst niet.
+- Het scammen van hulpdiensten als ze indienst zijn is niet toegestaan.
+- Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan.
 </br> 
 
 ### **Regels Politie / KMar**
@@ -357,11 +357,9 @@
 - Je mag alleen zware wapens gebruiken als je indienst bent als DSI of HRB anders is dit niet toegestaan, met uitzondering van de reguliere eenheden van de KMAR met MP5.
 
 ### **Wapens per categorie:**
-Categorie 1 (Slag, stoot en steek wapens): - Knuppel - Knuckle duster - Wapenstok (KMAR/Politie) - Switchblade - Machete
-
-Categorie 2 (Lichte vuurwapens): - Taser (KMAR/Politie) - Walter P99 (KMAR/Politie) - Glock G17 (KMAR/Politie) - Baretta - MP5 (KMAR/Dienst Speciale Interventies)
-
-Categorie 3 (Zware vuurwapens): - Desert Eagle - Shotgun - Uzi - P90 - Mini-AK - Ak-47 - SIG (Dienst Speciale Interventies / HRB) - G28 (Dienst Speciale Interventies) - Sniper rifle (Dienst Speciale Interventies)
+- Categorie 1 (Slag, stoot en steek wapens): - Knuppel - Knuckle duster - Wapenstok (KMAR/Politie) - Switchblade - Machete
+- Categorie 2 (Lichte vuurwapens): - Taser (KMAR/Politie) - Walter P99 (KMAR/Politie) - Glock G17 (KMAR/Politie) - Baretta - MP5 (KMAR/Dienst Speciale Interventies)
+- Categorie 3 (Zware vuurwapens): - Desert Eagle - Shotgun - Uzi - P90 - Mini-AK - Ak-47 - SIG (Dienst Speciale Interventies / HRB) - G28 (Dienst Speciale Interventies) - Sniper rifle (Dienst Speciale Interventies)
 </br> 
 
 ### **Regels Anwb**
