@@ -261,6 +261,7 @@
 > 11 Machete </br>
 > 12 Stiletto </br>
 > 13 Knuppel </br>
+</br>
 
 ### **Artikel 36: Officiële gangs**				**(Straf-categorie: 5 + Gang-warn)**
 - Het misbruiken van het gang-menu is niet toegestaan.
@@ -353,6 +354,7 @@
 - Het indrukken van de noodknop terwijl er wapens op je worden gericht is niet toegestaan mits je geblindeerde ramen hebt en/of in een gepanserd voertuig zit.
 - Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan.
 - Je mag alleen zware wapens gebruiken als je indienst bent als DSI of HRB anders is dit niet toegestaan, met uitzondering van de reguliere eenheden van de KMAR met MP5.
+</br>
 
 ### **Wapens per categorie:**
 - Categorie 1 (Slag, stoot en steek wapens): - Knuppel - Knuckle duster - Wapenstok (KMAR/Politie) - Switchblade - Machete
