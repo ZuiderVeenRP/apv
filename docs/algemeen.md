@@ -42,7 +42,8 @@
    - Het opzettelijk veranderen van een scenario door onrealistische componenten toe te voegen, waardoor het voor de andere partij niet realistisch te spelen is.</br> 
    - Het vluchten in je appartement tijdens een scenario.</br>
    - Binnen 10 minuten na het trekken van je wapen je wapen wegleggen.</br>
-   - Het keybinden of klaarzetten van teksten in /me is niet toegestaan, de handelingen dienen uitgesproken of uitgetypt te worden.</br>
+   - Het keybinden of klaarzetten van teksten in /me is niet toegestaan, de handelingen dienen uitgetypt te worden.</br>
+   - Wanneer er een wapen op jou gericht gestaan heeft en de persoon die het wapen richtte staat nog naast jou zonder dat hij richt, wordt dit alsnog gezien als een dreiging. Het ondernemen van acties zoals bijvoorbeeld het trekken van een eigen wapen en schieten is dus niet toegestaan. Dit zal spelers de tijd geven om /me acties uit te typen. Het verbreken van deze regel zal vallen onder powergamen.</br>
 </br>
 
 ### **Artikel 7: Karakter breken / OOC**			**(Straf-categorie: 1)** 
@@ -241,25 +242,27 @@
 - Het verbreken van bovenstaand artikel zal leiden tot een gang waarschuwing voor de gang in kwestie.
 </br>
 
-### **Artikel 37: Rippen van wapens**		**(Straf-categorie: 1 + deal terugdraaien)**
+### **Artikel 37: Rippen van wapens**		**(Straf-categorie: 1)**
 - Regels over het rippen van wapens:
 - Wanneer je een wapen wil rippen moet deze fysiek gezien zijn.
 - Discord kanalen (behalve twitter media) tellen niet mee als ‘’gezien hebben’’
 - Je bent verplicht te clippen vanaf het zien van het wapen tot aan het rippen van het wapen.
 - Het wapen dat je ript moet lager zijn dan het wapen dat je zelf gebruikt om te rippen.
-- Attachment die je fysiek kan zien mogen geript worden. 
+- Attachment mogen geript worden wanneer je ze op een wapen ziet of bij het rippen tegen komt. 
 - Deze lijst moet je aanhouden tijdens het rippen:
-> 1 Assault Rifle </br>
-> 2 Compact Rifle </br>
-> 3 P90 </br>
-> 4 Sawn Off Shotgun </br>
-> 5 Micro SMG </br>
-> 6 Deagle </br>
-> 7 Beretta </br>
-> 8 Knuckle duster </br>
-> 9 Machete </br>
-> 10 Stiletto </br>
-> 11 Knuppel </br>
+> 1 AKM </br>
+> 2 Assault Rifle </br>
+> 3 Compact Rifle </br>
+> 4 P90 </br>
+> 5 Sawn Off Shotgun </br>
+> 6 Micro SMG </br>
+> 7 Scorpion </br>
+> 8 Deagle </br>
+> 9 Beretta </br>
+> 10 Knuckle duster </br>
+> 11 Machete </br>
+> 12 Stiletto </br>
+> 13 Knuppel </br>
 
 ### **Artikel 38: Officiële gangs**				**(Straf-categorie: 5 + Gang-warn)**
 - Het misbruiken van het gang-menu is niet toegestaan.
