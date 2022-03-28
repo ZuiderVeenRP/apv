@@ -320,3 +320,33 @@
 - Een stafflid in kwestie beslist of iets valt onder de AFK kick valt.
 
 
+#Eilandregels
+
+### **Artikel 1 (Straf-categorie: 2)**
+- Je mag hier 50 zakjes per persoon rippen. De regel op het vaste land blijft staan op het rippen van 20 zakjes.
+
+### **Artikel 2 (Straf-categorie: 1, afhankelijk aantal bans)**
+1. RDM regel (op het eiland) iedereen die op het eiland komt en die geen zaken bij jou doet weg sturen. Indien de persoon in kwestie niet vertrekt sta je in je recht om de persoon te doden.
+2. Mensen met wapens in de hand mag je direct doodschieten.
+3. Als je iemand zijn ID vraagt je zelf mag beslissen schiet je hem dood of stuur je hem weg. (Dit is meer gang gericht denk aan rivaliserende gangs  connecties worden belangrijker dus meer RP geneigd om een band aan te gaan. 
+
+### **Artikel 3 (Straf-categorie: 2)**
+- Het is verboden om vanaf het eiland op de patrouillerende schepen of heli’s van de KMAR te schieten. 
+- Het is toegestaan om op binnenkomende schepen en boten te schieten die gang/burger gerelateerd zijn.
+- Het is voor de KMAR niet toegestaan om te schieten op het eiland.
+
+### **Artikel 4 (Straf-categorie: 2)**
+1. Ieder wapen mag ieder wapen rippen.
+2. Kom je wapens tegen met het fouilleren mag je deze afpakken (eigen risico van het meenemen op het eiland). 
+
+### **Artikel 5: (Straf-categorie: 2)**
+- Claimen van het eiland is niet toegestaan. 
+
+### **Artikel 6: (Straf-categorie: 2)**
+- Campen van locaties is niet toegestaan. 
+
+### **Artikel 7: (Straf-categorie: 2 voor alle betrokkene)**
+- Op het eiland mag je niet samenwerken met andere gangs, om groepen van 30 tegen 30 te voorkomen.
+
+### **Artikel 8: landen met luchtvoertuigen (Straf-categorie: 2 + waarschuwing vliegbrevet)**
+- Het is verplicht om te landen op een helipad of een landingsbaan.
