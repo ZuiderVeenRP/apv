@@ -331,7 +331,7 @@
 - Een stafflid in kwestie beslist of iets valt onder de AFK kick valt.
 </br> 
 
-###**Artikel 45: Algemene regels hulpdiensten**
+### **Artikel 45: Algemene regels hulpdiensten**
 ➥ Het agressief benaderen van Politie, Ambulance, Taxi en ANWB is niet toegestaan. Blijf ten alle tijde vriendelijk.
 ➥ Het stelen van overheidsvoertuigen is niet toegestaan. Hieronder vallen de voertuigen van de Politie, Ambulance, ANWB en rijkswaterstaat.
 ➥ op het moment van het uitvoeren van een overheidsbaan MOET je gebruik maken van de porto dit om de roleplay te verbeteren.
@@ -344,17 +344,17 @@
 </br> 
 
 ### **Regels Politie / KMar**
-➥ Bij een winkel overval bepaald de OvD wat de inzet qua politie/kmar zal zijn, wanneer geen OvD aanwezig is zal de hoogste aanwezig binnen het korps dit op zich nemen. let er op dat dit wel realistisch gebeurt. (voorbeeld, geen 5 DSI bij en kleine winkel overval.)
-➥ Je mag je collega's niet reviven als zij zijn neergeschoten ook niet als zij een kogelwerend vest dragen. Als zij zijn neergestoken terwijl zij een steekvest dragen mag je ze wel reviven. Doe dit wel na het scenario.
-➥ Het gebruik van vuurwapens door de politie is in de volgende scenarios toegestaan: de verdachte vuurwapen gevaarlijk of mogelijk gevaarlijk is, een collega of burger in gevaar is,
-➥ Het gebruik van vuurwapens in een achtervoling door de politie is toegestaan mits er op de banden word geschoten anders niet! pas als de auto stilstaat mogen er wapens op de verdachte gericht worden.
-➥ Het pitten door de politie is toegestaan mits het onder de 130 KM/U is.
-➥ Het brake checken (het remmen voor een auto die achter je zit) is toegestaan.
-➥ Het preventief fouilleren is toegestaan als er een dreigingsniveau is van 4 of hoger.
-➥ Het liegen tegen de gijzelnemers vanuit de politie is toegestaan.
-➥ Het indrukken van de noodknop terwijl er wapens op je worden gericht is niet toegestaan mits je geblindeerde ramen hebt en/of in een gepanserd voertuig zit.
-➥ Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan.
-➥ Je mag alleen zware wapens gebruiken als je indienst bent als DSI of HRB anders is dit niet toegestaan, met uitzondering van de reguliere eenheden van de KMAR met MP5.
+- Bij een winkel overval bepaald de OvD wat de inzet qua politie/kmar zal zijn, wanneer geen OvD aanwezig is zal de hoogste aanwezig binnen het korps dit op zich nemen. let er op dat dit wel realistisch gebeurt. (voorbeeld, geen 5 DSI bij en kleine winkel overval.)
+- je mag je collega's niet reviven als zij zijn neergeschoten ook niet als zij een kogelwerend vest dragen. Als zij zijn neergestoken terwijl zijn een steekvest dragen mag je ze reviven. Doe dit wel an het scenario.
+- Het gebruik van vuurwapens door de politie is in de volgende scenarios toegestaan: de verdachte vuurwapen gevaarlijk of mogelijk gevaarlijk is, een collega of burger in gevaar is,
+- Het gebruik van vuurwapens in een achtervoling door de politie is toegestaan mits er op de banden word geschoten anders niet! pas als de auto stilstaat mogen er wapens op de verdachte gericht worden.
+- Het pitten door de politie is toegestaan mits het onder de 130 KM/U is.
+- Het brake checken (het remmen voor een auto die achter je zit) is toegestaan.
+- Het preventief fouilleren is toegestaan als er een dreigingsniveau is van 4 of hoger.
+- Het liegen tegen de gijzelnemers vanuit de politie is toegestaan.
+- Het indrukken van de noodknop terwijl er wapens op je worden gericht is niet toegestaan mits je geblindeerde ramen hebt en/of in een gepanserd voertuig zit.
+- Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan.
+- Je mag alleen zware wapens gebruiken als je indienst bent als DSI of HRB anders is dit niet toegestaan, met uitzondering van de reguliere eenheden van de KMAR met MP5.
 </br> 
 ### **Wapens per categorie:**
 Catergorie 1 (Slag, stoot en steek wapens): - Knuppel - Knuckle duster - Wapenstok (KMAR/Politie) - Switchblade - Machete
@@ -363,11 +363,11 @@ Categorie 3 (Zware vuurwapens): - Desert Eagle - Shotgun - Uzi - P90 - Mini-AK -
 </br> 
 
 ### **Regels Anwb**
-➥ Het weigeren van mensen is toegestaan als er een dreiging word geuit of er een gevaarlijke situatie voorkomt.
-➥ Bij het maken van een melding moet je de locatie er bij vermelden anders word je melding niet opgenomen.
-➥ Het vdmen tegen een auto van de ANWB staat een boete op van 1500 euro, ook als je je niet gedraagd op het Hoofdbureau zal deze worden uitgeschreven.
-➥ Het afsluiten van abbonementen kan uitsluitend bij hoofd-monteur of hoger.
-➥ Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan.
+- Het weigeren van mensen is toegestaan als er een dreiging word geuit of er een gevaarlijke situatie voorkomt.
+- Bij het maken van een melding moet je de locatie er bij vermelden anders word je melding niet opgenomen.
+- Het vdmen tegen een auto van de ANWB staat een boete op van 1500 euro, ook als je je niet gedraagd op het Hoofdbureau zal deze worden uitgeschreven.
+- Het afsluiten van abbonementen kan uitsluitend bij hoofd-monteur of hoger.
+- Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan.
 
 #Eilandregels
 
@@ -375,9 +375,9 @@ Categorie 3 (Zware vuurwapens): - Desert Eagle - Shotgun - Uzi - P90 - Mini-AK -
 - Je mag hier 50 zakjes per persoon rippen. De regel op het vaste land blijft staan op het rippen van 20 zakjes.
 
 ### **Artikel 2 (Straf-categorie: 1, afhankelijk aantal bans)**
-1. RDM regel (op het eiland) iedereen die op het eiland komt en die geen zaken bij jou doet weg sturen. Indien de persoon in kwestie niet vertrekt sta je in je recht om de persoon te doden.
-2. Mensen met wapens in de hand mag je direct doodschieten.
-3. Als je iemand zijn ID vraagt je zelf mag beslissen schiet je hem dood of stuur je hem weg. (Dit is meer gang gericht denk aan rivaliserende gangs  connecties worden belangrijker dus meer RP geneigd om een band aan te gaan. 
+- RDM regel (op het eiland) iedereen die op het eiland komt en die geen zaken bij jou doet weg sturen. Indien de persoon in kwestie niet vertrekt sta je in je recht om de persoon te doden.
+- Mensen met wapens in de hand mag je direct doodschieten.
+- Als je iemand zijn ID vraagt je zelf mag beslissen schiet je hem dood of stuur je hem weg. (Dit is meer gang gericht denk aan rivaliserende gangs  connecties worden belangrijker dus meer RP geneigd om een band aan te gaan. 
 
 ### **Artikel 3 (Straf-categorie: 2)**
 - Het is verboden om vanaf het eiland op de patrouillerende schepen of heli’s van de KMAR te schieten. 
