@@ -36,6 +36,6 @@ extra_javascript:
   - javascripts/tables.js
 nav:
   - Hoofdpagina: index.md
-  - Algemeen: algemeen.md
+  - Regels: algemeen.md
   - Informatie: informatie.md
   - Straffen: straffen.md
