@@ -1,4 +1,4 @@
-# Algemeen
+# Regels
 
 ### **Artikel 1: Cheats** 		      			**(Straf-categorie: 9)**
    - Een burger die gebruik maakt van software/hulpmiddelen van derde partijen om een voordeel in het spel te krijgen zullen worden bestraft.</br>
