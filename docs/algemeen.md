@@ -103,8 +103,7 @@
 
 ### **Artikel 15: Metagamen**				**(Straf-categorie: 2)**
    - Informatie verkregen buiten het karakter om (alle informatie die niet verkregen is door jouw karakter binnen FiveM) mag niet gebruikt worden door het karakter.
-   - Tijdens het uitvoeren van onderwereld zaken is het niet toegestaan om te livestreamen in calls.
-   - Tijdens het uitvoeren van je whitelisted job is het niet toegestaan om te livestreamen in calls. 
+   - Wanneer je in ZuiderVeen bent mag je niet meer screen sharen!
    - Het praten in call tijdens een scenario zal als metagamen worden gezien (gemute blijven tijdens een scenario).
    - Het versturen van in game informatie in de ZuiderVeen onderwereld discord wordt ook gezien als meta en levert een straf op volgens categorie 1.
 </br>
@@ -290,6 +289,17 @@
 - Het is niet toegestaan om een ambulancemedewerker te vermoorden, beledigen of niet mee te werken met de roleplay van een ambulancier. De ambulance dient hier geen gebruik van te maken door bepaald ongepast gedrag te vertonen. 
 - Meldingen naar een overheidsinstantie dienen ten alle tijden realistisch en uitgebreid te zijn. Je dient minimaal te melden wat je ziet, wat er is gebeurd en wat je doet.
 - Roleplay met de ambulance moet realistisch zijn. Er wordt verwacht dat je eerlijk bent over je verwondingen en deze logisch inschat. Ook dien je mee te werken met de roleplay en mag je ambulancier niet forceren om spelers te reviven. Ambulancemedewerkers hebben ten alle tijde het recht om je dood te verklaren als je door verwondingen/situaties dood zou moeten zijn.
+
+**Regels Ambulance**
+➥ Het is niet toegestaan om iemand te reviven als de desbetreffende persoon…
+- niet meer aanspreekbaar is
+- minder dan 20% bloed heeft
+- een hartslag onder de 20 bpm heeft
+- is neergeschoten, gestoken, geknuppeld of geslagen met een boksbeugel. Bij deze regel maakt het niet uit of ze voldoende bloed/hartslag hebben.
+- aangeeft dat diegene dood is door RDM, VDM, FailRP, bugs etc. Laat diegene een ticket maken.
+➥ Het samenwerken met de onderwereld is niet toegestaan, dit valt onder corruptie.
+➥ Het betaald krijgen om iemand te reviven is niet toegestaan, dit valt onder corruptie.
+➥ Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan. 
 </br>
 
 ### **Artikel 41: Streamers en content creators**             **(Straf-categorie: 6)** <br> 
@@ -335,6 +345,8 @@
 - Het is verboden om vanaf het eiland op de patrouillerende schepen of heli’s van de KMAR te schieten. 
 - Het is toegestaan om op binnenkomende schepen en boten te schieten die gang/burger gerelateerd zijn.
 - Het is voor de KMAR niet toegestaan om te schieten op het eiland.
+- Indien je agenten meeneemt naar het eiland, geldt bovenstaande regel niet. Dan staat de KMAR in hun recht om actie te ondernemen. 
+
 
 ### **Artikel 4 (Straf-categorie: 2)**
 1. Ieder wapen mag ieder wapen rippen.
