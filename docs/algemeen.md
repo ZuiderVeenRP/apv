@@ -342,7 +342,7 @@
 ➥ Het is niet toegestaan om als hulpdienst criminele activiteiten uit te voeren, zowel in als uit dienst niet.
 ➥ Het scammen van hulpdiensten als ze indienst zijn is niet toegestaan.
 ➥ Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan.
-
+</br> 
 **Regels Politie / KMar**
 ➥ Bij een winkel overval bepaald de OvD wat de inzet qua politie/kmar zal zijn, wanneer geen OvD aanwezig is zal de hoogste aanwezig binnen het korps dit op zich nemen. let er op dat dit wel realistisch gebeurt. (voorbeeld, geen 5 DSI bij en kleine winkel overval.)
 ➥ Je mag je collega's niet reviven als zij zijn neergeschoten ook niet als zij een kogelwerend vest dragen. Als zij zijn neergestoken terwijl zij een steekvest dragen mag je ze wel reviven. Doe dit wel na het scenario.
@@ -355,19 +355,19 @@
 ➥ Het indrukken van de noodknop terwijl er wapens op je worden gericht is niet toegestaan mits je geblindeerde ramen hebt en/of in een gepanserd voertuig zit.
 ➥ Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan.
 ➥ Je mag alleen zware wapens gebruiken als je indienst bent als DSI of HRB anders is dit niet toegestaan, met uitzondering van de reguliere eenheden van de KMAR met MP5.
-
+</br> 
 **Wapens per categorie:**
 Catergorie 1 (Slag, stoot en steek wapens): - Knuppel - Knuckle duster - Wapenstok (KMAR/Politie) - Switchblade - Machete
 Categorie 2 (Lichte vuurwapens): - Taser (KMAR/Politie) - Walter P99 (KMAR/Politie) - Glock G17 (KMAR/Politie) - Baretta - MP5 (KMAR/Dienst Speciale Interventies)
 Categorie 3 (Zware vuurwapens): - Desert Eagle - Shotgun - Uzi - P90 - Mini-AK - Ak-47 - SIG (Dienst Speciale Interventies / HRB) - G28 (Dienst Speciale Interventies) - Sniper rifle (Dienst Speciale Interventies)
-
+</br> 
 **Regels Anwb**
 ➥ Het weigeren van mensen is toegestaan als er een dreiging word geuit of er een gevaarlijke situatie voorkomt.
 ➥ Bij het maken van een melding moet je de locatie er bij vermelden anders word je melding niet opgenomen.
 ➥ Het vdmen tegen een auto van de ANWB staat een boete op van 1500 euro, ook als je je niet gedraagd op het Hoofdbureau zal deze worden uitgeschreven.
 ➥ Het afsluiten van abbonementen kan uitsluitend bij hoofd-monteur of hoger.
 ➥ Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan.
-
+</br> 
 #Eilandregels
 ### **Artikel 1 (Straf-categorie: 2)**
 - Je mag hier 50 zakjes per persoon rippen. De regel op het vaste land blijft staan op het rippen van 20 zakjes.
