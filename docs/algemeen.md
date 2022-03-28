@@ -212,7 +212,7 @@
 - Het is niet toegestaan om te scammen met voertuigen.
 - Op een bovenwereld gerelateerde scam zit een limiet van €30.000.
 - Wanneer je een voertuig koopt, ben je zelf verantwoordelijk om te controleren of de aangeboden upgrades van toepassing bij het uitwisselen van het geldbedrag en de auto, dit zal via een request uitgevoerd gaan worden.
-- Het uitlenen van bezittingen is op eigen risico. Hier refunden we niet voor (er vindt ook geen refund/transfer plaats, wanneer iemand gebanned is.
+- Het uitlenen van bezittingen is op eigen risico. Hier refunden we niet voor (er vindt ook geen refund/transfer plaats, wanneer iemand gebanned is.)
 - Na het oplichten is het niet toegestaan om de desbetreffende burger te vermoorden.
 </br>
 
