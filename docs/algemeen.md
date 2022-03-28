@@ -357,8 +357,10 @@
 - Je mag alleen zware wapens gebruiken als je indienst bent als DSI of HRB anders is dit niet toegestaan, met uitzondering van de reguliere eenheden van de KMAR met MP5.
 
 ### **Wapens per categorie:**
-Catergorie 1 (Slag, stoot en steek wapens): - Knuppel - Knuckle duster - Wapenstok (KMAR/Politie) - Switchblade - Machete
+Categorie 1 (Slag, stoot en steek wapens): - Knuppel - Knuckle duster - Wapenstok (KMAR/Politie) - Switchblade - Machete
+
 Categorie 2 (Lichte vuurwapens): - Taser (KMAR/Politie) - Walter P99 (KMAR/Politie) - Glock G17 (KMAR/Politie) - Baretta - MP5 (KMAR/Dienst Speciale Interventies)
+
 Categorie 3 (Zware vuurwapens): - Desert Eagle - Shotgun - Uzi - P90 - Mini-AK - Ak-47 - SIG (Dienst Speciale Interventies / HRB) - G28 (Dienst Speciale Interventies) - Sniper rifle (Dienst Speciale Interventies)
 </br> 
 
