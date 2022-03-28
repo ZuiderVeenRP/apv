@@ -364,36 +364,43 @@
 - Bij het maken van een melding moet je de locatie er bij vermelden anders word je melding niet opgenomen.
 - Het afsluiten van abbonementen kan uitsluitend bij hoofd-monteur of hoger.
 - Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan.
-
+</br>
+</br>
 # Eilandregels
 
 ### **Artikel 45: (Straf-categorie: 2)**
 - Je mag hier 50 zakjes per persoon rippen. De regel op het vaste land blijft staan op het rippen van 20 zakjes.
+</br>
 
 ### **Artikel 46: (Straf-categorie: 1, afhankelijk aantal bans)**
 - RDM regel (op het eiland) iedereen die op het eiland komt en die geen zaken bij jou doet weg sturen. Indien de persoon in kwestie niet vertrekt sta je in je recht om de persoon te doden.
 - Mensen met wapens in de hand mag je direct doodschieten.
 - Als je iemand zijn ID vraagt je zelf mag beslissen schiet je hem dood of stuur je hem weg. (Dit is meer gang gericht denk aan rivaliserende gangs  connecties worden belangrijker dus meer RP geneigd om een band aan te gaan. 
+</br>
 
 ### **Artikel 47: (Straf-categorie: 2)**
 - Het is verboden om vanaf het eiland op de patrouillerende schepen of heli’s van de KMAR te schieten. 
 - Het is toegestaan om op binnenkomende schepen en boten te schieten die gang/burger gerelateerd zijn.
 - Het is voor de KMAR niet toegestaan om te schieten op het eiland.
 - Indien je agenten meeneemt naar het eiland, geldt bovenstaande regel niet. Dan staat de KMAR in hun recht om actie te ondernemen. 
-
+</br>
 
 ### **Artikel 48: (Straf-categorie: 2)**
 1. Ieder wapen mag ieder wapen rippen.
 2. Kom je wapens tegen met het fouilleren mag je deze afpakken (eigen risico van het meenemen op het eiland). 
+</br>
 
 ### **Artikel 49: (Straf-categorie: 2)**
 - Claimen van het eiland is niet toegestaan. 
+</br>
 
 ### **Artikel 50: (Straf-categorie: 2)**
 - Campen van locaties is niet toegestaan. 
+</br>
 
 ### **Artikel 51: (Straf-categorie: 2 voor alle betrokkene)**
 - Op het eiland mag je niet samenwerken met andere gangs, om groepen van 30 tegen 30 te voorkomen.
+</br>
 
 ### **Artikel 52: landen met luchtvoertuigen (Straf-categorie: 2 + waarschuwing vliegbrevet)**
 - Het is verplicht om te landen op een helipad of een landingsbaan.
