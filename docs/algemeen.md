@@ -318,8 +318,9 @@
 - Het is niet toegestaan om de automatisch kick te omzeilen. 
 - Het is niet toegestaan om te ghosten bij een bovenwereldse baan om het loon te verkrijgen. 
 - Een stafflid in kwestie beslist of iets valt onder de AFK kick valt.
-
-
+</br> 
+</br> 
+</br> 
 #Eilandregels
 
 ### **Artikel 1 (Straf-categorie: 2)**
