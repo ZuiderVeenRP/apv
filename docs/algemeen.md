@@ -135,6 +135,7 @@
    - Voorbeeld hiervan zijn het vragen voor witwas, drugs locatie kopen en/of het verkopen en aanbieden van wapens.
    - Vervormingen hiervan zijn niet toegestaan _(sokken wassen, honkbalspullen, poedersuiker etc.)_ </br>
    - Het is verboden om ingame een reactie te geven op bans / warns die in twitter te zien zijn.</br>
+   </br>
    
 ### **Artikel 19: Overheids Kleding dragen**		  **(Straf-categorie: 1)**
    - Jezelf voordoen als overheidspersoneel is verboden.
