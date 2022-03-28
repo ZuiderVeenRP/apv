@@ -377,7 +377,7 @@
 ### **Artikel 46: (Straf-categorie: 1, afhankelijk aantal bans)**
 - RDM regel (op het eiland) iedereen die op het eiland komt en die geen zaken bij jou doet weg sturen. Indien de persoon in kwestie niet vertrekt sta je in je recht om de persoon te doden.
 - Mensen met wapens in de hand mag je direct doodschieten.
-- Als je iemand zijn ID vraagt je zelf mag beslissen schiet je hem dood of stuur je hem weg. (Dit is meer gang gericht denk aan rivaliserende gangs  connecties worden belangrijker dus meer RP geneigd om een band aan te gaan. 
+- Als je iemand zijn ID vraagt je zelf mag beslissen schiet je hem dood of stuur je hem weg. (Dit is meer gang gericht, denk aan rivaliserende gangs / connecties worden belangrijker dus meer RP geneigd om een band aan te gaan. 
 </br>
 
 ### **Artikel 47: (Straf-categorie: 2)**
