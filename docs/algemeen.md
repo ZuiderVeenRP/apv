@@ -365,7 +365,7 @@
 - Het afsluiten van abbonementen kan uitsluitend bij hoofd-monteur of hoger.
 - Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan.
 </br>
-</br>
+
 # Eilandregels
 
 ### **Artikel 45: (Straf-categorie: 2)**
