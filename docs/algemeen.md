@@ -364,9 +364,7 @@
 </br> 
 
 ### **Regels Anwb**
-- Het weigeren van mensen is toegestaan als er een dreiging word geuit of er een gevaarlijke situatie voorkomt.
 - Bij het maken van een melding moet je de locatie er bij vermelden anders word je melding niet opgenomen.
-- Het vdmen tegen een auto van de ANWB staat een boete op van 1500 euro, ook als je je niet gedraagd op het Hoofdbureau zal deze worden uitgeschreven.
 - Het afsluiten van abbonementen kan uitsluitend bij hoofd-monteur of hoger.
 - Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan.
 
