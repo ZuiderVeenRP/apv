@@ -55,7 +55,7 @@
    - Het karakter breken in porto behoort hier onder. Een stafflid staat **altijd** in zijn recht een warn uit te delen op **ieder** moment die er is, wanneer een speler karakter breekt.</br>
 </br>
 
-### **Artikel 8: Copbaiten** 				**(Straf-categorie: 1)**
+### **Artikel 8: Copbaiten** 				 **(Straf-categorie: 1)**
    - Het doelbewust uitlokken van reacties van ambtenaren in functie.</br>
    - Het moedwillig veroorzaken van achtervolgingen zonder illegale praktijken uit te voeren.</br> 
    - Het verstoren van een scenario ongeacht hoe groot of klein. Het afleiden van ambtenaren, tijdens een overval, valt niet onder copbaiten.</br>
