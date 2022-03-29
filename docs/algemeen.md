@@ -351,7 +351,6 @@
 - Het pitten door de politie is toegestaan mits het onder de 130 KM/U is.
 - Het brake checken (het remmen voor een auto die achter je zit) is toegestaan.
 - Het preventief fouilleren is toegestaan als er een dreigingsniveau is van 4 of hoger.
-- Het liegen tegen de gijzelnemers vanuit de politie is toegestaan.
 - Het indrukken van de noodknop terwijl er wapens op je worden gericht is niet toegestaan mits je geblindeerde ramen hebt en/of in een gepanserd voertuig zit.
 - Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan.
 - Je mag alleen zware wapens gebruiken als je indienst bent als DSI of HRB anders is dit niet toegestaan, met uitzondering van de reguliere eenheden van de KMAR met MP5.
