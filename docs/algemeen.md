@@ -130,6 +130,8 @@
    - Alle voertuigen mogen op zandpaden rijden zonder een limiet, voertuigen in de off-road car dealer mogen volledig off-road. Donateur G-Wagon/Brabus G500 vallen onder off-road voertuigen.
    - Off-road banden zijn puur cosmetisch en hebben geen effect op de weg. 
    - Het is niet toegestaan om gebouwen te betreden met voertuigen die daar niet voor bedoeld zijn. Dit zal bestraft worden met **categorie 1**.
+   - Motoren mogen op geen enkele manier gepit worden door een andere motor.
+Indien bovenstaand wordt verbroken wordt hier op gestraft door middel van categorie 1.
 </br>
 
 ### **Artikel 17: GTA style driving** 	      		**(Straf-categorie: 1)**
