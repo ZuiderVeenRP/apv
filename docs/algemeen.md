@@ -17,6 +17,10 @@
     ➥ Leden van het staff team staan in hun recht om een account wipe goed te keuren, afhankelijk van de bug die gebruikt is.</br>
 </br>
 
+### **Artikel 2A: IRL Trade (categorie 9)
+   - Deals waarbij geld betaald wordt voor ingame goederen wordt niet toegelaten.
+</br>
+
 ### **Artikel 3: Alt Characters**				 **(Straf-categorie: 9)**
    - Onder een alt character wordt verstaan, dat een 2e of 3e account aangemaakt wordt door een speler, die eerder een ander account heeft gehad in de stad.</br>
    - Het is verboden om starters geld over te maken naar je eigen account of dat van een ander met als doel niet verder te spelen voor minimaal 3 maanden of langer.</br>
