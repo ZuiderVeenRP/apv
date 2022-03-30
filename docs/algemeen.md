@@ -15,6 +15,7 @@
     ➥ Handelingen uitvoeren terwijl je dood bent.</br>
    - De bug ‘one punch’ zal bestraft worden onder **categorie 5**.</br>
     ➥ Leden van het staff team staan in hun recht om een account wipe goed te keuren, afhankelijk van de bug die gebruikt is.</br>
+</br>
 
 ### **Artikel 2A: IRL Trade (categorie 9)**
    - Deals waarbij geld betaald wordt voor ingame goederen wordt niet toegelaten.
