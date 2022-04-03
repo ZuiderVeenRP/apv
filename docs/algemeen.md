@@ -111,7 +111,7 @@
 
 ### **Artikel 15: Metagamen**				**(Straf-categorie: 2)**
    - Informatie verkregen buiten het karakter om (alle informatie die niet verkregen is door jouw karakter binnen FiveM) mag niet gebruikt worden door het karakter.
-   - Wanneer je in ZuiderVeen bent mag je niet meer screen sharen!
+   - Wanneer je in ZuiderVeen bent mag je niet screen sharen!
    - Het praten in call tijdens een scenario zal als metagamen worden gezien (gemute blijven tijdens een scenario).
    - Het versturen van in game informatie in de ZuiderVeen onderwereld discord wordt ook gezien als meta en levert een straf op volgens categorie 2.</br>
 </br>
