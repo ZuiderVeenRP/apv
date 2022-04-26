@@ -109,7 +109,7 @@
    - Het verbaal provoceren richting andere spelers, is op eigen risico. </br>
 </br>
 
-### **Artikel 15: Metagamen**				**(Straf-categorie: 2)**
+### **Artikel 15: Metagamen**				**(Straf-categorie: 3)**
    - Informatie verkregen buiten het karakter om (alle informatie die niet verkregen is door jouw karakter binnen FiveM) mag niet gebruikt worden door het karakter.
    - Wanneer je in ZuiderVeen bent mag je niet screen sharen!
    - Het praten in call tijdens een scenario zal als metagamen worden gezien (gemute blijven tijdens een scenario).
@@ -131,6 +131,8 @@
    - Off-road banden zijn puur cosmetisch en hebben geen effect op de weg. 
    - Het is niet toegestaan om gebouwen te betreden met voertuigen die daar niet voor bedoeld zijn. Dit zal bestraft worden met **categorie 1**.
    - Motoren mogen op geen enkele manier gepit worden door een andere motor.
+   - Het is toegestaan om je auto te verkopen via twitter.
+   - Het achterlaten van auto's, vaartuigen en heli's/vliegtuigen zal vallen onder de nieuwe delfine-boetes. Indien je je voertuig ergens achterlaat zal dit een boete opleveren afhankelijk van je geld.
 </br>
 
 ### **Artikel 17: GTA style driving** 	      		**(Straf-categorie: 1)**
@@ -141,6 +143,7 @@
 ### **Artikel 18: Illegale activiteiten via twitter**		 **(Straf-categorie: 1)**
    - Het opzetten en of uitvoeren van criminele activiteiten via Twitter is niet toegestaan.
    - Voorbeeld hiervan zijn het vragen voor witwas, drugs locatie kopen en/of het verkopen en aanbieden van wapens.
+   - Onder illegale activiteiten valt het vragen van aanwezigheid van gangs in twitter, of het aanwezig zijn als gang.
    - Vervormingen hiervan zijn niet toegestaan _(sokken wassen, honkbalspullen, poedersuiker etc.)_ </br>
    - Het is verboden om ingame een reactie te geven op bans / warns die in twitter te zien zijn.</br>
 </br>
@@ -238,6 +241,8 @@
 - Het campen van locaties (voor rippen / stelen / scammen) is niet toegestaan.
 - Als je dood bent gegaan mag je niet meer meedoen aan wraakacties. Dood is dood. Het inlichten van de persoon in kwestie is niet toegestaan, je mag het gehele wraakactie die dagen erna niet meedoen. Dit geldt in gangwars en hunt-sessies.
 - Het is van belang dat je je outfit aanpast en/of je ID-kaart verandert, zodat niemand je meer kan doden. Een andere gang kan mogelijk niet op de hoogte zijn dat je al doodgeschoten bent.
+- Het is niet toegestaan om als burger bodyarmor te dragen waarop verschillende flashbangs, granaten en ammoboxen te zien zijn.
+- -->  Indien bovenstaand aspect verbroken wordt levert dit een straf op volgens categorie 1.
 </br>
 
 ### **Artikel 34: Maximaal toegestaan aantal leden criminele organisaties**
@@ -374,9 +379,13 @@
 - Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan.
 </br>
 
+### **Artikel 45: weggeven van goederen bij het stoppen (Straf categorie 9)**
+Het weggeven en aannemen van goederen, van een speler die stopt, is niet toegestaan en zal worden bestraft met een permanente ban.
+</br>
+
 # Eilandregels
 
-### **Artikel 45: (Straf-categorie: 2)**
+### **Artikel 46: (Straf-categorie: 2)**
 - Je mag hier 50 zakjes per persoon rippen. De regel op het vaste land blijft staan op het rippen van 20 zakjes.
 </br>
 
