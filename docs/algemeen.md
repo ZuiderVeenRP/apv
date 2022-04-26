@@ -376,7 +376,7 @@
 ### **Regels Anwb**
 - Bij het maken van een melding moet je de locatie er bij vermelden anders word je melding niet opgenomen.
 - Het afsluiten van abbonementen kan uitsluitend bij hoofd-monteur of hoger.
-- Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan.
+- Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan. Dit levert een straf op volgens categorie 3.
 </br>
 
 ### **Artikel 45: weggeven van goederen bij het stoppen (Straf categorie 9)**
