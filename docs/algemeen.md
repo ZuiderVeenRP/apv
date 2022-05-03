@@ -47,7 +47,6 @@
    - Het vluchten in je appartement tijdens een scenario.</br>
    - Binnen 10 minuten na het trekken van je wapen je wapen wegleggen.</br>
    - Het keybinden of klaarzetten van teksten in /me is niet toegestaan, de handelingen dienen uitgetypt te worden.</br>
-   - Wanneer er een wapen op jou gericht gestaan heeft en de persoon die het wapen richtte staat nog naast jou zonder dat hij richt, wordt dit alsnog gezien als een dreiging. Het ondernemen van acties zoals bijvoorbeeld het trekken van een eigen wapen en schieten is dus niet toegestaan. Dit zal spelers de tijd geven om /me acties uit te typen. Het verbreken van deze regel zal vallen onder powergamen.</br>
    - Indien je een speler meeneemt naar het eiland om zijn hogere categorie wapen te rippen wordt dit gezien als powergamen.
    - Indien je een speler meeneemt naar het eiland om hem daar te doden, met de intentie de RDM regel te vermijden, valt dit onder powergamen.
    - Wanneer je een overval bent gestart mag je niet meer geript worden, doe je dit wel valt dit onder scenario verstoren. (straf-catagorie 1)
@@ -70,6 +69,7 @@
    - Het moedwillig / opzettelijk beëindigen van je eigen leven of dat van een ander met voorbestemde reden om een nieuw leven te kunnen starten.
    - Het niet luisteren/meewerken terwijl er een wapen op je gericht staat ongeacht of je in een auto zit of niet.
    - De range van gunpoint moet minimaal op 2e voice range zijn, alles daarbuiten wordt gezien als niet verstaanbaar en is je eigen verantwoordelijkheid wanneer het anders verloopt.
+   - Wanneer er een wapen op jou gericht gestaan heeft en de persoon die het wapen richtte staat nog naast jou zonder dat hij richt, wordt dit alsnog gezien als een dreiging. Het ondernemen van acties zoals bijvoorbeeld het trekken van een eigen wapen en schieten is dus niet toegestaan. Dit zal spelers de tijd geven om /me acties uit te typen. Het verbreken van deze regel zal vallen onder powergamen.</br>
 </br>
 
 ### **Artikel 10: New life rule**				**(Straf-categorie: 1)**
@@ -235,12 +235,13 @@
 - Minimale aantal politie/kmar indienst voor een grote bank, jacht of humane labs is 7.
 - Je mag maximaal 2 outside shooters hebben.
 - Outside hostages zijn niet toegestaan.
+- Je mag een overval binnenvallen tot de politie aanwezig is. Dat is het moment dat het scenario start en daarna valt het onder scenario verstoren.
 </br>
 
 ### **Artikel 33: Onderwereld Spelers**			      **(Straf-categorie: 4)**
 - Het campen van locaties (voor rippen / stelen / scammen) is niet toegestaan.
 - Als je dood bent gegaan mag je niet meer meedoen aan wraakacties. Dood is dood. Het inlichten van de persoon in kwestie is niet toegestaan, je mag het gehele wraakactie die dagen erna niet meedoen. Dit geldt in gangwars en hunt-sessies.
-- Het is van belang dat je je outfit aanpast en/of je ID-kaart verandert, zodat niemand je meer kan doden. Een andere gang kan mogelijk niet op de hoogte zijn dat je al doodgeschoten bent.
+- Het is van belang dat je je outfit aanpast en/of je ID-kaart verandert, zodat niemand je meer kan doden. Een andere gang kan mogelijk niet op de hoogte zijn dat je al doodgeschoten bent, dit is je eigen risico.
 - Het is niet toegestaan om als burger bodyarmor te dragen waarop verschillende flashbangs, granaten en ammoboxen te zien zijn.
 - -->  Indien bovenstaand aspect verbroken wordt levert dit een straf op volgens categorie 1.
 </br>
@@ -365,6 +366,7 @@
 - Het indrukken van de noodknop terwijl er wapens op je worden gericht is niet toegestaan mits je geblindeerde ramen hebt en/of in een gepanserd voertuig zit.
 - Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan.
 - Je mag alleen zware wapens gebruiken als je indienst bent als DSI of HRB anders is dit niet toegestaan, met uitzondering van de reguliere eenheden van de KMAR met MP5.
+- Je mag alleen uit een helikopter schieten als je van een speciale eenheid bent. Je mag alleen (waarschuwings)schoten lossen uit een heli als een andere heli/auto vorderingen weigert.
 </br>
 
 ### **Wapens per categorie:**
@@ -403,7 +405,7 @@ Het weggeven en aannemen van goederen, van een speler die stopt, is niet toegest
 </br>
 
 ### **Artikel 48: (Straf-categorie: 2)**
-1. Ieder wapen mag ieder wapen rippen.
+1. Ieder wapen mag ieder wapen rippen. Je mag diegene daarna doodschieten.
 2. Kom je wapens tegen met het fouilleren mag je deze afpakken (eigen risico van het meenemen op het eiland). 
 </br>
 
