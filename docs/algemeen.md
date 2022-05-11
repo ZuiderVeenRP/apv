@@ -24,7 +24,6 @@
 ### **Artikel 3: Alt Characters**				 **(Straf-categorie: 9)**
    - Onder een alt character wordt verstaan, dat een 2e of 3e account aangemaakt wordt door een speler, die eerder een ander account heeft gehad in de stad.</br>
    - Het is verboden om starters geld over te maken naar je eigen account of dat van een ander met als doel niet verder te spelen voor minimaal 3 maanden of langer.</br>
-</br>
 
 ### **Artikel 4: DDOS bedreigingen**			**(Straf-categorie: 9)**
    - DDOS of dreigen met DDOS/booten is verboden.
@@ -106,7 +105,7 @@
    - Het uitdagen via twitter kan gezien worden als een geldige reden, mits hier bewijsmaterialen van zijn dat het om deze persoon gaat. Twitter media mag je in de stad gebruiken als informatie. Het korps staat in hun recht om de informatie te verwerken in het MEOS-systeem.
    - Een moord op een persoon die niet wil ‘blaffen’, ‘zingen’ en dergelijke worden gezien als RDM.
    - Het doelbewust uitdagen van een gang valt onder een geldige moord.
-   - Het verbaal provoceren richting andere spelers, is op eigen risico. </br>
+   - Het verbaal provoceren richting andere spelers, is op eigen risico. 
 </br>
 
 ### **Artikel 15: Metagamen**				**(Straf-categorie: 3)**
@@ -130,7 +129,7 @@
    - Alle voertuigen mogen op zandpaden rijden zonder een limiet, voertuigen in de off-road car dealer mogen volledig off-road. Donateur G-Wagon/Brabus G500 vallen onder off-road voertuigen.
    - Off-road banden zijn puur cosmetisch en hebben geen effect op de weg. 
    - Het is niet toegestaan om gebouwen te betreden met voertuigen die daar niet voor bedoeld zijn. Dit zal bestraft worden met **categorie 1**.
-   - Motoren mogen op geen enkele manier gepit worden door een andere motor.
+   - Motoren mogen op geen enkele manier gepit worden door een ander voertuig.
    - Het is toegestaan om je auto te verkopen via twitter.
    - Het achterlaten van auto's, vaartuigen en heli's/vliegtuigen zal vallen onder de nieuwe delfine-boetes. Indien je je voertuig ergens achterlaat zal dit een boete opleveren afhankelijk van je geld.
 </br>
