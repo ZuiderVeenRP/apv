@@ -242,6 +242,7 @@
 - Het campen van locaties (voor rippen / stelen / scammen) is niet toegestaan.
 - Als je dood bent gegaan mag je niet meer meedoen aan wraakacties. Dood is dood. Het inlichten van de persoon in kwestie is niet toegestaan, je mag het gehele wraakactie die dagen erna niet meedoen. Dit geldt in gangwars en hunt-sessies.
 - Het is van belang dat je je outfit aanpast en/of je ID-kaart verandert, zodat niemand je meer kan doden. Een andere gang kan mogelijk niet op de hoogte zijn dat je al doodgeschoten bent, dit is je eigen risico.
+- Zodra je dood bent ben je niet verplicht om je te identificeren naar een burger toe doormiddel van /me (pakt ID kaart of zoekt naar ID).
 - Het is niet toegestaan om als burger bodyarmor te dragen waarop verschillende flashbangs, granaten en ammoboxen te zien zijn.
 - -->  Indien bovenstaand aspect verbroken wordt levert dit een straf op volgens categorie 1.
 </br>
@@ -389,6 +390,7 @@ Het weggeven en aannemen van goederen, van een speler die stopt, is niet toegest
 
 ### **Artikel 46: (Straf-categorie: 2)**
 - Je mag hier 50 zakjes per persoon rippen. De regel op het vaste land blijft staan op het rippen van 20 zakjes.
+- Je mag aan zwartgeld 10k rippen.
 </br>
 
 ### **Artikel 46: (Straf-categorie: 1, afhankelijk aantal bans)**
@@ -419,6 +421,9 @@ Het weggeven en aannemen van goederen, van een speler die stopt, is niet toegest
 
 ### **Artikel 51: (Straf-categorie: 2 voor alle betrokkene)**
 - Op het eiland mag je niet samenwerken met andere gangs, om groepen van 30 tegen 30 te voorkomen.
+▫️ Het vermoorden van burgers op het eiland met een rivaliserende achternaam is niet toegestaan.
+▫️ Het vermoorden van burgers op het eiland met de reden  'dat ze geen zaken bij jou doen' is niet toegestaan.
+▫️  Het wegsturen van rivaliserende groeperingen Is toegestaan op het eiland, mits ze niet weggaan binnen 5 minuten sta je in je recht om ze te vermoorden. 
 </br>
 
 ### **Artikel 52: landen met luchtvoertuigen (Straf-categorie: 2 + waarschuwing vliegbrevet)**
