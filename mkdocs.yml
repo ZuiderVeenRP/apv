@@ -2,7 +2,7 @@
 
 site_name: Regelgeving
 site_author: 'ZuiderVeen'
-site_url: 'apv.zuiderveenrp.nl'
+site_url: 'https://apv.zuiderveenrp.nl'
 use_directory_urls: false
 
 # Copyright
