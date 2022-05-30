@@ -248,6 +248,16 @@
 - -->  Indien bovenstaand aspect verbroken wordt levert dit een straf op volgens categorie 1.
 </br>
 
+### **Artikel 33.1: gangwars**			    
+- Wanneer een lid van je gang gekilled wordt en je hebt hier in roleplay bewijs van mag je wraakactie nemen op de andere gang.
+- Gangwars mogen maximaal 72 uur duren en daarna vervallen de redenen. Dit omdat er vandaag de dag gangwars zijn van 2 weken en niemand normaal zijn/haar gang kan gaan. Indien er andere redenen bij komen vervallen die ook.
+- Tijdens een officiële gangwar is het niet toegestaan dat ally gangs elkaar helpen.
+- Kills van de politie tellen ook mee in de gang war aangezien je dood gaat in hetzelfde scenario. 
+- Wanneer je dood bent gegaan tijdens een war met meerdere gangs mag je niet meer meedoen tot de war over is (ook niet met nieuwe redenen) bovenstaande feiten zullen bestraft worden met (straf categorie 2).
+dood = dood. (verkeersongevallen en dergelijken vallen ook hieronder)
+- Indien je onbewust voor de 2e keer wordt doodgeschoten in een gangwar is dit een eigen risico die je neemt door op die plek te zijn. Indien men er vanaf weet en je bewust nog een keer shoot, zal dit vallen onder artikel 14.
+</br>
+
 ### **Artikel 34: Maximaal toegestaan aantal leden criminele organisaties**
 - Het aantal toegestane leden in een criminele organisatie is 20 members.
 - Bovenstaand geldt voor erkende gangs en niet erkende gangs.
