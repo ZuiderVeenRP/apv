@@ -315,16 +315,16 @@ dood = dood. (verkeersongevallen en dergelijken vallen ook hieronder)
 - Roleplay met de ambulance moet realistisch zijn. Er wordt verwacht dat je eerlijk bent over je verwondingen en deze logisch inschat. Ook dien je mee te werken met de roleplay en mag je ambulancier niet forceren om spelers te reviven. Ambulancemedewerkers hebben ten alle tijde het recht om je dood te verklaren als je door verwondingen/situaties dood zou moeten zijn.
 </br> 
 
-**Regels Ambulance**
-➥ Het is niet toegestaan om iemand te reviven als de desbetreffende persoon…
+### **Artikel 39.1: Ambulance**				  **(Straf-categorie: 2)**
+- Het is niet toegestaan om iemand te reviven als de desbetreffende persoon…
 - niet meer aanspreekbaar is
 - minder dan 20% bloed heeft
 - een hartslag onder de 20 bpm heeft
 - is neergeschoten, gestoken, geknuppeld of geslagen met een boksbeugel. Bij deze regel maakt het niet uit of ze voldoende bloed/hartslag hebben.
 - aangeeft dat diegene dood is door RDM, VDM, FailRP, bugs etc. Laat diegene een ticket maken.
-➥ Het samenwerken met de onderwereld is niet toegestaan, dit valt onder corruptie.
-➥ Het betaald krijgen om iemand te reviven is niet toegestaan, dit valt onder corruptie.
-➥ Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan. 
+- Het samenwerken met de onderwereld is niet toegestaan, dit valt onder corruptie.
+- Het betaald krijgen om iemand te reviven is niet toegestaan, dit valt onder corruptie.
+- Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan. 
 </br>
 
 ### **Artikel 40: Streamers en content creators**             **(Straf-categorie: 6)** <br> 
