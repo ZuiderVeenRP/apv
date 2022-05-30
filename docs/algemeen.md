@@ -124,6 +124,7 @@
       3 Personenauto’s, zoals Sedan en Coupes. </br>
       4 SUV’s</br>
       5 Bussen en vrachtwagens.</br>
+   </br>
 
    - Brake checken is toegestaan indien dit realistisch blijft. Wanneer jij iemand brake checkt is dit op eigen risico, hier zal geen refund voor mogelijk zijn. 
    - Alle voertuigen mogen op zandpaden rijden zonder een limiet, voertuigen in de off-road car dealer mogen volledig off-road. Donateur G-Wagon/Brabus G500 vallen onder off-road voertuigen.
@@ -427,3 +428,4 @@ Het weggeven en aannemen van goederen, van een speler die stopt, is niet toegest
 
 ### **Artikel 52: landen met luchtvoertuigen (Straf-categorie: 2 + waarschuwing vliegbrevet)**
 - Het is verplicht om te landen op een helipad of een landingsbaan.
+</br>
