@@ -234,7 +234,7 @@
 - Minimale aantal politie/kmar indienst voor een kleine bank en winkel is 4.
 - Minimale aantal politie/kmar indienst voor een juwelier is 5.
 - Minimale aantal politie/kmar indienst voor een grote bank, jacht of humane labs is 7.
-- Je mag maximaal 2 outside shooters hebben.
+- Je mag maximaal 2 outside shooters hebben bij een winkel, 3 bij jacht en kleine bank en 4 outside shooters bij Humane + grote bank.
 - Outside hostages zijn niet toegestaan.
 - Je mag een overval binnenvallen tot de politie aanwezig is. Dat is het moment dat het scenario start en daarna valt het onder scenario verstoren.
 </br>
@@ -378,7 +378,7 @@ dood = dood. (verkeersongevallen en dergelijken vallen ook hieronder)
 - Het indrukken van de noodknop terwijl er wapens op je worden gericht is niet toegestaan mits je geblindeerde ramen hebt en/of in een gepanserd voertuig zit.
 - Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan.
 - Je mag alleen zware wapens gebruiken als je indienst bent als DSI of HRB anders is dit niet toegestaan, met uitzondering van de reguliere eenheden van de KMAR met MP5.
-- Je mag alleen uit een helikopter schieten als je van een speciale eenheid bent. Je mag alleen (waarschuwings)schoten lossen uit een heli als een andere heli/auto vorderingen weigert.
+- Je mag alleen uit een helikopter schieten als je van een speciale eenheid bent. Dodelijk vuur mag uit een helikopter gebruikt worden, indien er schoten zijn gelost op andere collega's van het korps of KMAR.
 </br>
 
 ### **Wapens per categorie:**
