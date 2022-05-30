@@ -421,9 +421,9 @@ Het weggeven en aannemen van goederen, van een speler die stopt, is niet toegest
 
 ### **Artikel 51: (Straf-categorie: 2 voor alle betrokkene)**
 - Op het eiland mag je niet samenwerken met andere gangs, om groepen van 30 tegen 30 te voorkomen.
-▫️ Het vermoorden van burgers op het eiland met een rivaliserende achternaam is niet toegestaan.
-▫️ Het vermoorden van burgers op het eiland met de reden  'dat ze geen zaken bij jou doen' is niet toegestaan.
-▫️  Het wegsturen van rivaliserende groeperingen Is toegestaan op het eiland, mits ze niet weggaan binnen 5 minuten sta je in je recht om ze te vermoorden. 
+- Het vermoorden van burgers op het eiland met een rivaliserende achternaam is niet toegestaan.
+- Het vermoorden van burgers op het eiland met de reden  'dat ze geen zaken bij jou doen' is niet toegestaan.
+-  Het wegsturen van rivaliserende groeperingen Is toegestaan op het eiland, mits ze niet weggaan binnen 5 minuten sta je in je recht om ze te vermoorden. 
 </br>
 
 ### **Artikel 52: landen met luchtvoertuigen (Straf-categorie: 2 + waarschuwing vliegbrevet)**
