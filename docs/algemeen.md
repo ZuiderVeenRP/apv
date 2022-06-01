@@ -69,7 +69,7 @@
    - Het niet luisteren/meewerken terwijl er een wapen op je gericht staat ongeacht of je in een auto zit of niet.
    - De range van gunpoint moet minimaal op 2e voice range zijn, alles daarbuiten wordt gezien als niet verstaanbaar en is je eigen verantwoordelijkheid wanneer het anders verloopt.
    - Wanneer er een wapen op jou gericht gestaan heeft en de persoon die het wapen richtte staat nog naast jou zonder dat hij richt, wordt dit alsnog gezien als een dreiging. Het ondernemen van acties zoals bijvoorbeeld het trekken van een eigen wapen en schieten is dus niet toegestaan. Dit zal spelers de tijd geven om /me acties uit te typen. Het verbreken van deze regel zal vallen onder powergamen.</br>
-   - Wanneer er een mes op je staat binnen steekafstand mag je niet wegrennen. Buiten steekafstand mag je wegrennen.
+   - Wanneer er een mes op je staat binnen steekafstand (fluistercirkel) mag je niet wegrennen. Buiten steekafstand mag je wegrennen.
 </br>
 
 ### **Artikel 10: New life rule**				**(Straf-categorie: 1)**
@@ -439,4 +439,14 @@ Het weggeven en aannemen van goederen, van een speler die stopt, is niet toegest
 
 ### **Artikel 52: landen met luchtvoertuigen (Straf-categorie: 2 + waarschuwing vliegbrevet)**
 - Het is verplicht om te landen op een helipad of een landingsbaan.
+</br>
+
+# Aircraftregels
+
+### **Artikel 52 Vliegdekschip (strafcategorie 2)
+- De Aircraft Carrier is militair, justitieel gebied. Het betreden hiervan is geheel op eigen riscio.
+- Op de Aircraft Carrier (vliegdekschip) gelden stedelijke regels.
+- De KMAR/POLITIE heeft in uiterste situaties toestemming om dodelijk vuur te gebruiken.
+- De Aircraft Carrier betreft een NoFlightZone. 
+- Het landen, blijven hangen of andere bewegingen rondom de Aircraft Carrier is geheel op eigen riscio. 
 </br>
