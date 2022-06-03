@@ -35,3 +35,6 @@ Een klacht over een speler dient binnen een week aangemaakt te worden. Daarna za
 
 ### **Liegen tegen staff** </br>
 Liegen tegen staffleden is ten alle tijden niet toegestaan, hier staat een straf op van minimaal categorie 5.</br>
+
+### **Refund aanmaken wapens.**<br>
+Een stafflid mag alleen een refund goedkeuren indien het eigen perspectief gebruikt wordt. Het perspectief van een ander is niet toegestaan. </br>
