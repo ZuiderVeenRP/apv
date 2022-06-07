@@ -405,7 +405,7 @@ Het weggeven en aannemen van goederen, van een speler die stopt, is niet toegest
 - Je mag aan zwartgeld 10k rippen.
 </br>
 
-### **Artikel 46: (Straf-categorie: 1, afhankelijk aantal bans)**
+### **Artikel 46.1: (Straf-categorie: 1, afhankelijk aantal bans)**
 - RDM regel (op het eiland) iedereen die op het eiland komt en die geen zaken bij jou doet weg sturen. Indien de persoon in kwestie niet vertrekt sta je in je recht om de persoon te doden.
 - Mensen met wapens in de hand mag je direct doodschieten.
 - Als je iemand zijn ID vraagt je zelf mag beslissen schiet je hem dood of stuur je hem weg. (Dit is meer gang gericht, denk aan rivaliserende gangs / connecties worden belangrijker dus meer RP geneigd om een band aan te gaan. 
@@ -444,10 +444,23 @@ Het weggeven en aannemen van goederen, van een speler die stopt, is niet toegest
 
 # Aircraftregels
 
-### **Artikel 52 Vliegdekschip (strafcategorie 2)
+### **Artikel 53 Vliegdekschip (strafcategorie 2)
 - De Aircraft Carrier is militair, justitieel gebied. Het betreden hiervan is geheel op eigen riscio.
 - Op de Aircraft Carrier (vliegdekschip) gelden stedelijke regels.
 - De KMAR/POLITIE heeft in uiterste situaties toestemming om dodelijk vuur te gebruiken.
 - De Aircraft Carrier betreft een NoFlightZone. 
 - Het landen, blijven hangen of andere bewegingen rondom de Aircraft Carrier is geheel op eigen riscio. 
 </br>
+
+### **Artikel 54: (Straf-categorie: 1)**
+**Artikel 54: haat veroorzakend gedrag (straf categorie: 1)**
+- Het toxic reageren op doodverklaringen in Twitter valt onder haat veroorzakend gedrag en wordt bestraft volgens categorie 1.
+Voorbeelden onder bovenstaand zijn uitspraken als "L" in Twitter.
+
+**Artikel 54.1: haat veroorzakend gedrag in discord (straf categorie: 1)**
+- Het toxic reageren op algemene zaken naar de bovenwereld of onderwereld wordt niet meer getolereerd.
+Discussies voeren mag, maar voorlopig vindt er meer vervelend gedrag naar elkaar.
+
+**Artikel 54.2: haat veroorzakend gedrag in discord (straf categorie: 1)**
+- Indien je het niet eens bent met een verkregen straf is het onnodig om in de algemene discord het stafflid belachelijk te maken of een discussie erover te beginnen.
+Hier hebben we ons ticketsysteem voor.
