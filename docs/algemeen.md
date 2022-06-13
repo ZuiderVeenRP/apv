@@ -370,7 +370,7 @@ dood = dood. (verkeersongevallen en dergelijken vallen ook hieronder)
 
 ### **Regels Politie / KMar**
 - Bij een winkel overval bepaald de OvD wat de inzet qua politie/kmar zal zijn, wanneer geen OvD aanwezig is zal de hoogste aanwezig binnen het korps dit op zich nemen. Let er op dat dit wel realistisch gebeurt. (voorbeeld, geen 5 DSI bij en kleine winkel overval.)
-- je mag je collega's niet reviven als zij zijn neergeschoten ook niet als zij een kogelwerend vest dragen. Als zij zijn neergestoken terwijl zijn een steekvest dragen mag je ze reviven. Doe dit wel an het scenario.
+- je mag je collega's niet reviven als zij zijn neergeschoten ook niet als zij een kogelwerend vest dragen. Als zij zijn neergestoken terwijl zijn een steekvest dragen mag je ze reviven. Doe dit wel na het scenario.
 - Het gebruik van vuurwapens door de politie is in de volgende scenarios toegestaan: de verdachte vuurwapen gevaarlijk of mogelijk gevaarlijk is, een collega of burger in gevaar is,
 - Het gebruik van vuurwapens in een achtervoling door de politie is toegestaan mits er op de banden word geschoten anders niet! pas als de auto stilstaat mogen er wapens op de verdachte gericht worden.
 - Het pitten door de politie is toegestaan mits het onder de 130 KM/U is.
