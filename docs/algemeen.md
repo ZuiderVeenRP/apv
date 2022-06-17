@@ -33,6 +33,7 @@
 ### **Artikel 5: Fail RP**					**(Straf-categorie: 1)**
    - Onder fail roleplay vallen alle facetten die als een onrealistische situatie kunnen worden ervaren. Eenieder dient zich tijdens het roleplayen het volgende af te vragen: "Zou dit in het echt ook op deze manier kunnen gebeuren".</br>
    - Enkele voorbeelden van Fail RP:</br>
+ 
     ➥ Het roleplay scenario vermijden tijdens ernstige verwondingen en aanrijdingen met andere burgers en ambulance.</br>
     ➥ Het doelbewust meermaals inklikken van de porto wanneer een wapen op je gericht staat.</br>
     ➥ Ongepast emotes spammen.</br> 
@@ -64,12 +65,13 @@
    - Het verstoren van een scenario ongeacht hoe groot of klein. Het afleiden van ambtenaren, tijdens een overval, valt niet onder copbaiten.</br>
 </br>
 
-### **Artikel 9: No value of life** 				**(Straf-categorie: 2)**
+### **Artikel 9: No value of life** 				**(Straf-categorie: 2, bij 2e keer inname wapen.)**
    - Het moedwillig / opzettelijk beëindigen van je eigen leven of dat van een ander met voorbestemde reden om een nieuw leven te kunnen starten.
    - Het niet luisteren/meewerken terwijl er een wapen op je gericht staat ongeacht of je in een auto zit of niet.
    - De range van gunpoint moet minimaal op 2e voice range zijn, alles daarbuiten wordt gezien als niet verstaanbaar en is je eigen verantwoordelijkheid wanneer het anders verloopt.
-   - Wanneer er een wapen op jou gericht gestaan heeft en de persoon die het wapen richtte staat nog naast jou zonder dat hij richt, wordt dit alsnog gezien als een dreiging. Het ondernemen van acties zoals bijvoorbeeld het trekken van een eigen wapen en schieten is dus niet toegestaan. Dit zal spelers de tijd geven om /me acties uit te typen. Het verbreken van deze regel zal vallen onder powergamen.</br>
+   - Wanneer er een wapen op jou gericht gestaan heeft en de persoon die het wapen richtte staat nog naast jou zonder dat hij richt, wordt dit alsnog gezien als een dreiging. Het ondernemen van acties zoals bijvoorbeeld het trekken van een eigen wapen en schieten is dus niet toegestaan. Dit zal spelers de tijd geven om /me acties uit te typen. 
    - Wanneer er een mes op je staat binnen steekafstand (fluistercirkel) mag je niet wegrennen. Buiten steekafstand mag je wegrennen.
+   - Het indrukken van de noodknop, terwijl een wapen op je gericht staat valt onder no value of life.
 </br>
 
 ### **Artikel 10: New life rule**				**(Straf-categorie: 1)**
@@ -111,9 +113,10 @@
 
 ### **Artikel 15: Metagamen**				**(Straf-categorie: 3)**
    - Informatie verkregen buiten het karakter om (alle informatie die niet verkregen is door jouw karakter binnen FiveM) mag niet gebruikt worden door het karakter.
-   - Wanneer je in ZuiderVeen bent mag je niet screen sharen!
-   - Het praten in call tijdens een scenario zal als metagamen worden gezien (gemute blijven tijdens een scenario).
-   - Het versturen van in game informatie in de ZuiderVeen onderwereld discord wordt ook gezien als meta en levert een straf op volgens categorie 2.</br>
+   - Wanneer je in ZuiderVeen bent mag je niet screen sharen.
+   - Het praten in call tijdens een scenario zal als metagamen worden gezien. Wanneer je met meerdere mensen op ZuiderVeen speelt is het verplicht om te muten tijdens scenario's.
+   - Het versturen van in game informatie in de ZuiderVeen onderwereld discord wordt  gezien als meta en levert een straf op volgens categorie 3.
+   - Het gebruik maken van de portolijst zal vallen onder metagamen. </br>
 </br>
 
 ### **Artikel 16: Auto gebruik** 				**(Straf-categorie: 1)**
@@ -271,7 +274,7 @@ dood = dood. (verkeersongevallen en dergelijken vallen ook hieronder)
 - Discord kanalen (behalve twitter media) tellen niet mee als ‘’gezien hebben’’
 - Je bent verplicht te clippen vanaf het zien van het wapen tot aan het rippen van het wapen.
 - Het wapen dat je ript moet lager zijn dan het wapen dat je zelf gebruikt om te rippen.
-- Attachments mogen geript worden wanneer je ze op een wapen ziet of je ze komt ze tegen bij het rippen. 
+- Attachments mogen geript worden wanneer je ze op een wapen ziet, op de rug, of tijdens het fouilleren.
 - Deze lijst moet je aanhouden tijdens het rippen:
 > 1 AKM </br>
 > 2 Assault Rifle </br>
@@ -408,7 +411,6 @@ Het weggeven en aannemen van goederen, van een speler die stopt, is niet toegest
 ### **Artikel 46.1: (Straf-categorie: 1, afhankelijk aantal bans)**
 - RDM regel (op het eiland) iedereen die op het eiland komt en die geen zaken bij jou doet weg sturen. Indien de persoon in kwestie niet vertrekt sta je in je recht om de persoon te doden.
 - Mensen met wapens in de hand mag je direct doodschieten.
-- Als je iemand zijn ID vraagt je zelf mag beslissen schiet je hem dood of stuur je hem weg. (Dit is meer gang gericht, denk aan rivaliserende gangs / connecties worden belangrijker dus meer RP geneigd om een band aan te gaan. 
 </br>
 
 ### **Artikel 47: (Straf-categorie: 2)**
