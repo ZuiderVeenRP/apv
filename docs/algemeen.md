@@ -8,13 +8,13 @@
 
 ### **Artikel 2: Exploits/bugs** 				**(Straf-categorie: 7)**
    - Het doelbewust gebruik maken van een bug/exploit die in je voordeel werkt.</br> 
-   - Voorbeelden hiervan zijn:</br> 
-    ➥ Het moedwillig dupliceren van ingame items.</br>
-    ➥ Het niet aangeven van gedupliceerde items na restarts.</br>
-    ➥ Het gebruik maken van een emotie om aan de andere kant van een muur te komen of uit te breken van bijvoorbeeld de gevangenis.</br>
-    ➥ Handelingen uitvoeren terwijl je dood bent.</br>
-   - De bug ‘one punch’ zal bestraft worden onder **categorie 5**.</br>
-    ➥ Leden van het staff team staan in hun recht om een account wipe goed te keuren, afhankelijk van de bug die gebruikt is.</br>
+   - Voorbeelden hiervan zijn:
+    ➥ Het moedwillig dupliceren van ingame items.
+    ➥ Het niet aangeven van gedupliceerde items na restarts.
+    ➥ Het gebruik maken van een emotie om aan de andere kant van een muur te komen of uit te breken van bijvoorbeeld de gevangenis.
+    ➥ Handelingen uitvoeren terwijl je dood bent.
+   - De bug ‘one punch’ zal bestraft worden onder **categorie 5**.
+    ➥ Leden van het staff team staan in hun recht om een account wipe goed te keuren, afhankelijk van de bug die gebruikt is.
 </br>
 
 ### **Artikel 2A: IRL Trade (categorie 9)**
@@ -22,7 +22,7 @@
 </br>
 
 ### **Artikel 3: Alt Characters**				 **(Straf-categorie: 9)**
-   - Onder een alt character wordt verstaan, dat een 2e of 3e account aangemaakt wordt door een speler, die eerder een ander account heeft gehad in de stad.</br>
+   - Onder een alt character wordt verstaan, dat een 2e of 3e account aangemaakt wordt door een speler, die eerder een ander account heeft gehad in de stad.
    - Het is verboden om starters geld over te maken naar je eigen account of dat van een ander met als doel niet verder te spelen voor minimaal 3 maanden of langer.</br>
 
 ### **Artikel 4: DDOS bedreigingen**			**(Straf-categorie: 9)**
@@ -31,37 +31,36 @@
 </br>
 
 ### **Artikel 5: Fail RP**					**(Straf-categorie: 1)**
-   - Onder fail roleplay vallen alle facetten die als een onrealistische situatie kunnen worden ervaren. Eenieder dient zich tijdens het roleplayen het volgende af te vragen: "Zou dit in het echt ook op deze manier kunnen gebeuren".</br>
-   - Enkele voorbeelden van Fail RP:</br>
- 
-    ➥ Het roleplay scenario vermijden tijdens ernstige verwondingen en aanrijdingen met andere burgers en ambulance.</br>
-    ➥ Het doelbewust meermaals inklikken van de porto wanneer een wapen op je gericht staat.</br>
-    ➥ Ongepast emotes spammen.</br> 
-    ➥ Praten in de porto of bellen onder water.</br>
-    ➥ Iemand vastbinden in /me zonder in het bezit te zijn van een wapen.</br>
-   - Het stelen van voertuigen valt onder eigen risico. wanneer je hem niet op slot doet is het je eigen probleem en valt dit niet onder failrp.</br>
+   - Onder fail roleplay vallen alle facetten die als een onrealistische situatie kunnen worden ervaren. Eenieder dient zich tijdens het roleplayen het volgende af te vragen: "Zou dit in het echt ook op deze manier kunnen gebeuren".
+   - Enkele voorbeelden van Fail RP:
+    ➥ Het roleplay scenario vermijden tijdens ernstige verwondingen en aanrijdingen met andere burgers en ambulance.
+    ➥ Het doelbewust meermaals inklikken van de porto wanneer een wapen op je gericht staat.
+    ➥ Ongepast emotes spammen.
+    ➥ Praten in de porto of bellen onder water.
+    ➥ Iemand vastbinden in /me zonder in het bezit te zijn van een wapen.
+   - Het stelen van voertuigen valt onder eigen risico. wanneer je hem niet op slot doet is het je eigen probleem en valt dit niet onder fail RP.
 </br>
 
 ### **Artikel 6: Powergamen**			 	**(Straf-categorie: 1)**
-   - Het opzettelijk veranderen van een scenario door onrealistische componenten toe te voegen, waardoor het voor de andere partij niet realistisch te spelen is.</br> 
-   - Het vluchten in je appartement tijdens een scenario.</br>
-   - Binnen 10 minuten na het trekken van je wapen je wapen wegleggen.</br>
-   - Het keybinden of klaarzetten van teksten in /me is niet toegestaan, de handelingen dienen uitgetypt te worden.</br>
+   - Het opzettelijk veranderen van een scenario door onrealistische componenten toe te voegen, waardoor het voor de andere partij niet realistisch te spelen is. 
+   - Het vluchten in je appartement tijdens een scenario.
+   - Binnen 10 minuten na het trekken van je wapen je wapen wegleggen.
+   - Het keybinden of klaarzetten van teksten in /me is niet toegestaan, de handelingen dienen uitgetypt te worden.
    - Indien je een speler meeneemt naar het eiland om zijn hogere categorie wapen te rippen wordt dit gezien als powergamen.
    - Indien je een speler meeneemt naar het eiland om hem daar te doden, met de intentie de RDM regel te vermijden, valt dit onder powergamen.
    - Wanneer je een overval bent gestart mag je niet meer geript worden, doe je dit wel valt dit onder scenario verstoren. (straf-catagorie 1)
 </br>
 
 ### **Artikel 7: Karakter breken / OOC**			**(Straf-categorie: 1)** 
-   - Ten alle tijden is het niet toegestaan om karakter te breken. Alles onder Out Of Character valt hieronder. Woorden als staff, broodje, tickets, refund, bug zijn niet toegestaan en valt onder Out Of Character.</br>
-   - Het foutief breken van karakter in SMS en twitter.</br>
-   - Het is alleen toegestaan om de Nederlandse/Engelse taal te spreken/typen in de stad ZuiderVeen.</br>
-   - Het karakter breken in porto behoort hier onder. Een stafflid staat **altijd** in zijn recht een warn uit te delen op **ieder** moment die er is, wanneer een speler karakter breekt.</br>
+   - Ten alle tijden is het niet toegestaan om karakter te breken. Alles onder Out Of Character valt hieronder. Woorden als staff, broodje, tickets, refund, bug zijn niet toegestaan en valt onder Out Of Character.
+   - Het foutief breken van karakter in SMS en twitter.
+   - Het is alleen toegestaan om de Nederlandse/Engelse taal te spreken/typen in de stad ZuiderVeen.
+   - Het karakter breken in porto behoort hier onder. Een stafflid staat **altijd** in zijn recht een warn uit te delen op **ieder** moment die er is, wanneer een speler karakter breekt.
 </br>
 
 ### **Artikel 8: Copbaiten** 				 **(Straf-categorie: 1)**
-   - Het doelbewust uitlokken van reacties van ambtenaren in functie.</br>
-   - Het moedwillig veroorzaken van achtervolgingen zonder illegale praktijken uit te voeren.</br> 
+   - Het doelbewust uitlokken van reacties van ambtenaren in functie.
+   - Het moedwillig veroorzaken van achtervolgingen zonder illegale praktijken uit te voeren.
    - Het verstoren van een scenario ongeacht hoe groot of klein. Het afleiden van ambtenaren, tijdens een overval, valt niet onder copbaiten.</br>
 </br>
 
@@ -116,18 +115,18 @@
    - Wanneer je in ZuiderVeen bent mag je niet screen sharen.
    - Het praten in call tijdens een scenario zal als metagamen worden gezien. Wanneer je met meerdere mensen op ZuiderVeen speelt is het verplicht om te muten tijdens scenario's.
    - Het versturen van in game informatie in de ZuiderVeen onderwereld discord wordt  gezien als meta en levert een straf op volgens categorie 3.
-   - Het gebruik maken van de portolijst zal vallen onder metagamen. </br>
+   - Het gebruik maken van de portolijst zal vallen onder metagamen. 
 </br>
 
 ### **Artikel 16: Auto gebruik** 				**(Straf-categorie: 1)**
    - Het pitten boven 130 km/h is niet toegestaan.
    - Een groter klasse voertuig pitten is niet toegestaan, ongeacht de snelheid. 
-   - Een voertuig mag geen hogere categorie pitten of brake checken.</br>
-      1 Motorvoertuigen </br>
-      2 Sportauto’s en hypercars</br>
-      3 Personenauto’s, zoals Sedan en Coupes. </br>
-      4 SUV’s</br>
-      5 Bussen en vrachtwagens.</br>
+   - Een voertuig mag geen hogere categorie pitten of brake checken.
+      1 Motorvoertuigen 
+      2 Sportauto’s en hypercars
+      3 Personenauto’s, zoals Sedan en Coupes. 
+      4 SUV’s
+      5 Bussen en vrachtwagens.
    </br>
 
    - Brake checken is toegestaan indien dit realistisch blijft. Wanneer jij iemand brake checkt is dit op eigen risico, hier zal geen refund voor mogelijk zijn. 
@@ -139,7 +138,7 @@
    - Het achterlaten van auto's, vaartuigen en heli's/vliegtuigen zal vallen onder de nieuwe delfine-boetes. Indien je je voertuig ergens achterlaat zal dit een boete opleveren afhankelijk van je geld.
 </br>
 
-### **Artikel 17: GTA style driving** 	      		**(Straf-categorie: 1)**
+### **Artikel 17: GTA style driving** 	   	**(Straf-categorie: 1)**
    - Het onrealistisch rijden met je voertuig valt onder GTA style driving. Stunt jumps nemen, onrealistisch offroad rijden en het rammen/onnodig beuken van andere voertuigen zonder reden.
    - Wanneer je een of meerdere lekke banden hebt, mag je niet harder dan 130 km/h rijden.
 </br>
@@ -148,8 +147,8 @@
    - Het opzetten en of uitvoeren van criminele activiteiten via Twitter is niet toegestaan.
    - Voorbeeld hiervan zijn het vragen voor witwas, drugs locatie kopen en/of het verkopen en aanbieden van wapens.
    - Onder illegale activiteiten valt het vragen van aanwezigheid van gangs in twitter, of het aanwezig zijn als gang.
-   - Vervormingen hiervan zijn niet toegestaan _(sokken wassen, honkbalspullen, poedersuiker etc.)_ </br>
-   - Het is verboden om ingame een reactie te geven op bans / warns die in twitter te zien zijn.</br>
+   - Vervormingen hiervan zijn niet toegestaan _(sokken wassen, honkbalspullen, poedersuiker etc.)
+   - Het is verboden om ingame een reactie te geven op bans / warns die in twitter te zien zijn.
 </br>
    
 ### **Artikel 19: Overheids Kleding dragen**		  **(Straf-categorie: 1)**
@@ -165,7 +164,7 @@
 </br>
 
 ### **Artikel 21: Het dragen van de standaard outfit**	       **(Straf-categorie:1)**
-- Het dragen van de standaard outfit (zwart-wit geblokt) is niet toegestaan. Je dient een volledige outfit te maken, waarbij je armen en benen zichtbaar zijn en de kleding goed aansluit. </br>
+- Het dragen van de standaard outfit (zwart-wit geblokt) is niet toegestaan. Je dient een volledige outfit te maken, waarbij je armen en benen zichtbaar zijn en de kleding goed aansluit. 
 </br>
 
 ### **Artikel 22: Combatloggen**   			      **(Straf-categorie: 2)**
