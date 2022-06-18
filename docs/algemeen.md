@@ -151,8 +151,8 @@
    - Het is verboden om ingame een reactie te geven op bans / warns die in twitter te zien zijn.
 </br>
    
-### **Artikel 19: Overheids Kleding dragen**		  **(Straf-categorie: 1)**
-   - Jezelf voordoen als overheidspersoneel is verboden.
+### **Artikel 19: Overheidskleding dragen**		  **(Straf-categorie: 1)**
+   - Jezelf voordoen als overheidspersoneel is niet toegestaan.
    - Het dragen van kogelwerende vesten met een politie/kmar livery is niet toegestaan.
    - Het dragen van ANWB en/of Ambulance kleding en/of accessoires, zoals tassen is niet toegestaan.
 </br>
@@ -204,6 +204,11 @@
 ### **Artikel 28: Het gebruiken van de Nederlandse taal**           **(Straf-categorie: 1)**
 - Tijdens het spelen van de stad ZuiderVeen, is het vereist om de Nederlandse taal te beheersen en toepassen.
 - Het standaard Engels spreken is niet toegestaan, binnen een bepaald karakter is dit wel mogelijk. 
+</br>
+
+### **Artikel 28.1: Stemherkenning**           **(Straf-categorie: 1)**
+- Je mag iemand herkennen op basis van stemherkenning.
+- Indien een speler een voicechanger en gezichtsbedekking gebruikt mag je stemherkenning niet toepassing, indien je de stem herkent.
 </br>
 
 ### **Artikel 29: Twitter media**
