@@ -470,3 +470,10 @@ Discussies voeren mag, maar voorlopig vindt er meer vervelend gedrag naar elkaar
 **Artikel 54.2: haat veroorzakend gedrag in discord (straf categorie: 1)**
 - Indien je het niet eens bent met een verkregen straf is het onnodig om in de algemene discord het stafflid belachelijk te maken of een discussie erover te beginnen.
 Hier hebben we ons ticketsysteem voor.
+
+### **Artikel 55: het stelen van overheidsvoertuigen (straf-categorie: 1)**
+- Het is toegestaan om overheidsvoertuigen te stelen tijdens een achtervolging om weg te komen.
+- Het is niet toegestaan om zonder reden een overheidsvoertuig te stelen.
+- Het is niet toegestaan om bulletproof auto's te stelen.
+- Je kan alleen een overheidsvoertuig stelen indien je een wapen op zak hebt.
+</br>
