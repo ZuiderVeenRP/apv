@@ -64,7 +64,7 @@
    - Het verstoren van een scenario ongeacht hoe groot of klein. Het afleiden van ambtenaren, tijdens een overval, valt niet onder copbaiten.</br>
 </br>
 
-### **Artikel 9: No value of life** 				**(Straf-categorie: 2, bij 2e keer inname wapen.)**
+### **Artikel 9: No value of life** 				**(Straf-categorie: 4, bij 1e keer geen inname van wapen)**
    - Het moedwillig / opzettelijk beëindigen van je eigen leven of dat van een ander met voorbestemde reden om een nieuw leven te kunnen starten.
    - Het niet luisteren/meewerken terwijl er een wapen op je gericht staat ongeacht of je in een auto zit of niet.
    - De range van gunpoint moet minimaal op 2e voice range zijn, alles daarbuiten wordt gezien als niet verstaanbaar en is je eigen verantwoordelijkheid wanneer het anders verloopt.
@@ -208,7 +208,7 @@
 
 ### **Artikel 28.1: Stemherkenning**           **(Straf-categorie: 1)**
 - Je mag iemand herkennen op basis van stemherkenning.
-- Indien een speler een voicechanger en gezichtsbedekking gebruikt mag je stemherkenning niet toepassing, indien je de stem herkent.
+- Indien een speler een voicechanger en gezichtsbedekking gebruikt mag je stemherkenning niet toepassen.
 </br>
 
 ### **Artikel 29: Twitter media**
