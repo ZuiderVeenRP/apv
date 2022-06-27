@@ -49,6 +49,7 @@
    - Indien je een speler meeneemt naar het eiland om zijn hogere categorie wapen te rippen wordt dit gezien als powergamen.
    - Indien je een speler meeneemt naar het eiland om hem daar te doden, met de intentie de RDM regel te vermijden, valt dit onder powergamen.
    - Wanneer je een overval bent gestart mag je niet meer geript worden, doe je dit wel valt dit onder scenario verstoren. (straf-catagorie 1)
+   - Het toepassen van emoties, zoals F5, is niet toegestaan wanneer je beschoten wordt --> emote abuse.
 </br>
 
 ### **Artikel 7: Karakter breken / OOC**			**(Straf-categorie: 1)** 
