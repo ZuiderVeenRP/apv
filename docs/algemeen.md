@@ -285,6 +285,7 @@ dood = dood. (verkeersongevallen en dergelijken vallen ook hieronder)
 > 4 Knuppel </br>
 - Wanneer je een wapen wilt rippen moet deze fysiek gezien zijn. (met uitzondering op eiland en onderstaand lid)
 - Indien je een masker, holster of kogelvrij vest draagt mag je op elk moment gefouilleerd worden, waarbij je wapen dus geript kan worden zonder dat deze fysiek gezien is.
+- Wanneer je op een motor rijdt geld een helm niet als masker, anders wel. Het is je eigen verantwoordelijkheid om je helm af te zetten als je van je motor af stapt.
 - Attachments mogen geript worden wanneer je ze op een wapen ziet, op de rug, of tijdens het fouilleren.
 - Discord kanalen (behalve twitter media en instagram media) tellen niet mee als ‘’gezien hebben’’
 - Je bent verplicht te clippen vanaf het zien van het wapen tot aan het rippen van het wapen.
