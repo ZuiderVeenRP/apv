@@ -278,7 +278,11 @@ dood = dood. (verkeersongevallen en dergelijken vallen ook hieronder)
 
 ### **Artikel 35: Rippen van wapens (Straf-categorie: 1)**
 - Regels over het rippen van wapens:
-- Ieder wapen mag ieder wapen rippen.
+- Ieder vuurwapen mag ieder vuurwapen rippen. voor slag en stootwapens blijft deze volgorde gelden:
+> 1 Knuckle duster </br>
+> 2 Machete </br>
+> 3 Stiletto </br>
+> 4 Knuppel </br>
 - Wanneer je een wapen wilt rippen moet deze fysiek gezien zijn. (met uitzondering op eiland en onderstaand lid)
 - Indien je een masker, holster of kogelvrij vest draagt mag je op elk moment gefouilleerd worden, waarbij je wapen dus geript kan worden zonder dat deze fysiek gezien is.
 - Attachments mogen geript worden wanneer je ze op een wapen ziet, op de rug, of tijdens het fouilleren.
