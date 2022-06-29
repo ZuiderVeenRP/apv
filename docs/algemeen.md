@@ -278,26 +278,12 @@ dood = dood. (verkeersongevallen en dergelijken vallen ook hieronder)
 
 ### **Artikel 35: Rippen van wapens (Straf-categorie: 1)**
 - Regels over het rippen van wapens:
-- Wanneer je een wapen wil rippen moet deze fysiek gezien zijn.
-- Discord kanalen (behalve twitter media) tellen niet mee als ‘’gezien hebben’’
-- Je bent verplicht te clippen vanaf het zien van het wapen tot aan het rippen van het wapen.
-- Het wapen dat je ript moet lager zijn dan het wapen dat je zelf gebruikt om te rippen.
+- Ieder wapen mag ieder wapen rippen.
+- Wanneer je een wapen wilt rippen moet deze fysiek gezien zijn. (met uitzondering op eiland en onderstaand lid)
+- Indien je een masker, holster of kogelvrij vest draagt mag je op elk moment gefouilleerd worden, waarbij je wapen dus geript kan worden zonder dat deze fysiek gezien is.
 - Attachments mogen geript worden wanneer je ze op een wapen ziet, op de rug, of tijdens het fouilleren.
-- Deze lijst moet je aanhouden tijdens het rippen:
-> 1 AKM </br>
-> 2 Assault Rifle </br>
-> 3 Compact Rifle </br>
-> 4 P90 </br>
-> 5 Sawn Off Shotgun </br>
-> 6 Micro SMG </br>
-> 7 Scorpion </br>
-> 8 Deagle </br>
-> 9 Beretta </br>
-> 10 Knuckle duster </br>
-> 11 Machete </br>
-> 12 Stiletto </br>
-> 13 Knuppel </br>
-</br>
+- Discord kanalen (behalve twitter media en instagram media) tellen niet mee als ‘’gezien hebben’’
+- Je bent verplicht te clippen vanaf het zien van het wapen tot aan het rippen van het wapen.
 
 ### **Artikel 36: Officiële gangs (Straf-categorie: 5 + Gang-warn)**
 - Het misbruiken van het gang-menu is niet toegestaan.
