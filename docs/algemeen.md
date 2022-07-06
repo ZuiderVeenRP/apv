@@ -251,17 +251,15 @@
 - Je mag een overval binnenvallen tot de politie aanwezig is. Dat is het moment dat het scenario start en daarna valt het onder scenario verstoren.
 </br>
 
-### **Artikel 33: Onderwereld Spelers (Straf-categorie: 4)**
-- Het campen van locaties (voor rippen / stelen / scammen) is niet toegestaan. Wanneer je op een locatie geript hebt mag je de aankomende 30 minuten daar niet nogmaals rippen op dezelfde locatie.
+### **Artikel 33: Onderwereld Spelers (Straf-categorie: 3)**
+- Het is niet toegestaan om op dezelfde locatie(reikwijdte van 500 meter) te rippen binnen een tijdsspan van 30 minuten.
 - Als je dood bent gegaan mag je niet meer meedoen aan wraakacties. Dood is dood. Het inlichten van de persoon in kwestie is niet toegestaan, je mag het gehele wraakactie die dagen erna niet meedoen. Dit geldt in gangwars en hunt-sessies.
-- Zodra je dood bent ben je niet verplicht om je te identificeren naar een burger toe doormiddel van /me (pakt ID kaart of zoekt naar ID).
 - Het is niet toegestaan om als burger bodyarmor te dragen waarop verschillende flashbangs, granaten en ammoboxen te zien zijn.
-- Mensen rippen mag voor een maximaal van €5.000, voor zowel zwart als wit geld.
+- Mensen rippen mag voor een maximaal van €10.000, voor zowel zwart als wit geld.
 - Na het rippen van een persoon mag je deze dan ook niet vermoorden.
-- Kan een persoon het niet betalen of wil die het niet betalen mag je deze met goede Roleplay vermoorden.
 - Schiet je de persoon simpel direct dood na dat hij niet kan betalen zal dit bestraft worden als RDM.
 - Wanneer je met meerdere mensen gaat rippen, mag je niet dezelfde mensen rippen. Zodra iemand is overvallen laat iedereen die persoon met rust.
-- Je mag en maximaal van 20 items rippen, als je die persoon bedreigt met een wapen!
+- Je mag maximaal van 20 items rippen mits je een wapen hebt. Wapens, attachments en kogels staat geen limiet op.
 </br>
 
 ### **Artikel 33.1: Gangwars**			    
