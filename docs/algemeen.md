@@ -252,15 +252,19 @@
 </br>
 
 ### **Artikel 33: Onderwereld Spelers (Straf-categorie: 4)**
-- Het campen van locaties (voor rippen / stelen / scammen) is niet toegestaan.
+- Het campen van locaties (voor rippen / stelen / scammen) is niet toegestaan. Wanneer je op een locatie geript hebt mag je de aankomende 30 minuten daar niet nogmaals rippen op dezelfde locatie.
 - Als je dood bent gegaan mag je niet meer meedoen aan wraakacties. Dood is dood. Het inlichten van de persoon in kwestie is niet toegestaan, je mag het gehele wraakactie die dagen erna niet meedoen. Dit geldt in gangwars en hunt-sessies.
-- Het is van belang dat je je outfit aanpast en/of je ID-kaart verandert, zodat niemand je meer kan doden. Een andere gang kan mogelijk niet op de hoogte zijn dat je al doodgeschoten bent, dit is je eigen risico.
 - Zodra je dood bent ben je niet verplicht om je te identificeren naar een burger toe doormiddel van /me (pakt ID kaart of zoekt naar ID).
 - Het is niet toegestaan om als burger bodyarmor te dragen waarop verschillende flashbangs, granaten en ammoboxen te zien zijn.
-- -->  Indien bovenstaand aspect verbroken wordt levert dit een straf op volgens categorie 1.
+- Mensen rippen mag voor een maximaal van €5.000, voor zowel zwart als wit geld.
+- Na het rippen van een persoon mag je deze dan ook niet vermoorden.
+- Kan een persoon het niet betalen of wil die het niet betalen mag je deze met goede Roleplay vermoorden.
+- Schiet je de persoon simpel direct dood na dat hij niet kan betalen zal dit bestraft worden als RDM.
+- Wanneer je met meerdere mensen gaat rippen, mag je niet dezelfde mensen rippen. Zodra iemand is overvallen laat iedereen die persoon met rust.
+- Je mag en maximaal van 20 items rippen, als je die persoon bedreigt met een wapen!
 </br>
 
-### **Artikel 33.1: gangwars**			    
+### **Artikel 33.1: Gangwars**			    
 - Wanneer een lid van je gang gekilled wordt en je hebt hier in roleplay bewijs van mag je wraakactie nemen op de andere gang.
 - Gangwars mogen maximaal 72 uur duren en daarna vervallen de redenen. Dit omdat er vandaag de dag gangwars zijn van 2 weken en niemand normaal zijn/haar gang kan gaan. Indien er andere redenen bij komen vervallen die ook.
 - Tijdens een officiële gangwar is het niet toegestaan dat ally gangs elkaar helpen.
