@@ -70,7 +70,7 @@
    - Het niet luisteren/meewerken terwijl er een wapen op je gericht staat ongeacht of je in een auto zit of niet.
    - De range van gunpoint moet minimaal op 2e voice range zijn, alles daarbuiten wordt gezien als niet verstaanbaar en is je eigen verantwoordelijkheid wanneer het anders verloopt.
    - Wanneer er een wapen op jou gericht gestaan heeft en de persoon die het wapen richtte staat nog naast jou zonder dat hij richt, wordt dit alsnog gezien als een dreiging. Het ondernemen van acties zoals bijvoorbeeld het trekken van een eigen wapen en schieten is dus niet toegestaan. Dit zal spelers de tijd geven om /me acties uit te typen.
-   - Wanneer er een slag, stoot of steekwapen op je staat binnen steekafstand (fluistercirkel) mag je niet wegrennen. Buiten steekafstand mag je wegrennen.
+   - Wanneer er een slag, stoot of steekwapen op je staat binnen fluistercirkel mag je niet wegrennen. Buiten fluistercirkel mag je wel wegrennen.
    - Het indrukken van de noodknop, terwijl een wapen op je gericht staat valt onder no value of life.
 </br>
 
