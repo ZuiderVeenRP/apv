@@ -125,11 +125,11 @@
    - Het pitten boven 130 km/h is niet toegestaan.
    - Een groter klasse voertuig pitten is niet toegestaan, ongeacht de snelheid. 
    - Een voertuig mag geen hogere categorie pitten of brake checken.
-      1 Motorvoertuigen 
-      2 Sportauto’s en hypercars
-      3 Personenauto’s, zoals Sedan en Coupes. 
-      4 SUV’s
-      5 Bussen en vrachtwagens.
+      1. Motorvoertuigen 
+      2. Sportauto’s en hypercars
+      3. Personenauto’s, zoals Sedan en Coupes. 
+      4. SUV’s
+      5. Bussen en vrachtwagens.
    </br>
 
    - Brake checken is toegestaan indien dit realistisch blijft. Wanneer jij iemand brake checkt is dit op eigen risico, hier zal geen refund voor mogelijk zijn. 
