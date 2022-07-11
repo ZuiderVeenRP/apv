@@ -37,13 +37,20 @@ Een klacht over een speler dient binnen een week aangemaakt te worden. Daarna za
 Liegen tegen staffleden is ten alle tijden niet toegestaan, hier staat een straf op van minimaal categorie 5.</br>
 
 ### **Refunds.**<br>
-- Om een recent scenario te kunnen behandelen, vragen wij een ticket in de categorieën klachten over spelers / in game refunds binnen 7 dagen aan te maken. Tickets buiten de 7 dagen worden niet behandeld, tenzij er toestemming is gegeven door hogerop.
-- Het uitlenen van eigen bezittingen is op eigen risico. Als de persoon wordt verbannen zal hij/zij hier geen refund voor krijgen.
-- Om in aanmerking te komen voor een refund moet de waarde minimaal €10.000 bedragen.
-- Zonder een duidelijke clip **met audio** van het gehele scenario gaan we niet refunden. We dienen het scenario vanaf het begin te kunnen zien. Als er geen audio aanwezig is staat een stafflid in zijn/haar recht om je refund af te keuren.
-- Wanneer je een dodelijke crash maakt met je voertuig is het aan de ambulance of je nog te redden valt. Hier delen we geen refund voor. 
-- Wanneer een speler aangereden wordt terwijl je door rood licht rijdt, wordt dit gezien als een verkeersongeluk zonder een refund mogelijk.
-- Een stafflid mag alleen een refund goedkeuren indien het eigen perspectief gebruikt wordt. Het perspectief van een ander is niet toegestaan. </br>
+Om een recent scenario te kunnen behandelen, vragen wij een ticket in de categorieën klachten over spelers / in game refunds binnen 7 dagen aan te maken. Tickets buiten de 7 dagen worden niet behandeld, tenzij er toestemming is gegeven door hogerop.
+
+Om in aanmerking te komen voor een refund moet je aan de volgende eisen voldoen:
+* Je hebt een clip van het gehele scenario **met audio**. We dienen het scenario vanaf het begin te kunnen zien.
+* De clip dient vanuit je eigen perspectief te zijn. Dit mag dus niet het perspectief van een ander zijn.
+* De waarde van je refund moet minimaal €10.000 zijn.
+Als je refund hier niet aan voldoet, staat een stafflid in zijn/haar recht om je refund af te keuren.
+
+Bij de volgende scenario's is er geen refund mogelijk:
+* Wanneer een persoon wordt gebanned waar je spullen aan hebt uitgeleend.
+* Wanneer je aangereden wordt terwijl je door rood licht rijdt. Dit wordt gezien als een verkeersongeluk.
+* Wanneer je een dodelijke crash maakt met je voertuig. Het is aan de ambulance of je nog te redden valt.
+
+Een stafflid mag alleen een refund goedkeuren indien het eigen perspectief gebruikt wordt. Het perspectief van een ander is niet toegestaan. </br>
 
 ### **Delfines.**<br>
 Een delfine is een boete die je wordt opgelegd zodra jij een voertuig (kapot) achterlaat. De hoogte van de boete zal worden bepaald op basis van je banksaldo + cash.</br>
