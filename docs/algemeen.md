@@ -42,13 +42,13 @@
 
 ### **Artikel 6: Powergamen (Straf-categorie: 1)**
    - Het opzettelijk veranderen van een scenario door onrealistische componenten toe te voegen, waardoor het voor de andere partij niet realistisch te spelen is. 
-   - Het vluchten in je appartement tijdens een scenario.
-   - Binnen 10 minuten na het trekken van je wapen je wapen wegleggen.
-   - Het keybinden of klaarzetten van teksten in /me is niet toegestaan, de handelingen dienen uitgetypt te worden.
-   - Indien je een speler meeneemt naar het eiland om zijn hogere categorie wapen te rippen wordt dit gezien als powergamen.
-   - Indien je een speler meeneemt naar het eiland om hem daar te doden, met de intentie de RDM regel te vermijden, valt dit onder powergamen.
-   - Wanneer je een overval bent gestart mag je niet meer geript worden, doe je dit wel valt dit onder scenario verstoren. (straf-catagorie 1)
-   - Het toepassen van emoties, zoals F5, is niet toegestaan wanneer je beschoten wordt --> emote abuse.
+   - Enkele voorbeelden van Powergamen:
+      * Het vluchten in je appartement tijdens een scenario.
+      * Binnen 10 minuten na het trekken van je wapen je wapen wegleggen.
+      * Gebruik maken van het DEL menu waarbij ID's worden getoond om spelers te vinden.
+      * Het keybinden of klaarzetten van teksten in /me is niet toegestaan, de handelingen dienen uitgetypt te worden.
+      * Een speler meenemen naar het eiland om hem daar te doden, met de intentie om de RDM regel te vermijden.
+      * Het toepassen van emoties, zoals F5, is niet toegestaan wanneer je beschoten wordt --> emote abuse.
 </br>
 
 ### **Artikel 7: Karakter breken / OOC (Straf-categorie: 1)** 
@@ -247,7 +247,7 @@
 > 3 jacht en kleine bank </br>
 > 4 humane labs en grote bank </br>
 - Outside hostages zijn niet toegestaan.
-- Je mag een overval binnenvallen tot de politie aanwezig is. Dat is het moment dat het scenario start en daarna valt het onder scenario verstoren.
+- Je mag een overval binnenvallen tot de politie aanwezig is. Wanneer politie aanwezig is en je valt een overval binnen zal je bestraft worden volgens categorie 1.
 </br>
 
 ### **Artikel 33: Onderwereld Spelers (Straf-categorie: 3)**
