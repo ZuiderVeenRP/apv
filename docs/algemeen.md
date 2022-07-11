@@ -13,7 +13,7 @@
       * Het niet aangeven van gedupliceerde items na restarts.
       * Het gebruik maken van een emotie om aan de andere kant van een muur te komen of uit te breken van bijvoorbeeld de gevangenis.
       * Handelingen uitvoeren terwijl je dood bent.
-   - De bug ‘one punch’ zal bestraft worden onder **categorie 5**.</br>
+   - De bug ‘one punch’ zal bestraft worden onder **categorie 5**.
     ➥ Leden van het staff team staan in hun recht om een account wipe goed te keuren, afhankelijk van de bug die gebruikt is.
 </br>
 
@@ -125,11 +125,11 @@
    - Het pitten boven 130 km/h is niet toegestaan.
    - Een groter klasse voertuig pitten is niet toegestaan, ongeacht de snelheid. 
    - Een voertuig mag geen hogere categorie pitten of brake checken.
-      #. Motorvoertuigen 
-      #. Sportauto’s en hypercars
-      #. Personenauto’s, zoals Sedan en Coupes. 
-      #. SUV’s
-      #. Bussen en vrachtwagens.
+      1. Motorvoertuigen 
+      2. Sportauto’s en hypercars
+      3. Personenauto’s, zoals Sedan en Coupes. 
+      4. SUV’s
+      5. Bussen en vrachtwagens.
    </br>
 
    - Brake checken is toegestaan indien dit realistisch blijft. Wanneer jij iemand brake checkt is dit op eigen risico, hier zal geen refund voor mogelijk zijn. 
