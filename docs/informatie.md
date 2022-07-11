@@ -36,8 +36,14 @@ Een klacht over een speler dient binnen een week aangemaakt te worden. Daarna za
 ### **Liegen tegen staff** </br>
 Liegen tegen staffleden is ten alle tijden niet toegestaan, hier staat een straf op van minimaal categorie 5.</br>
 
-### **Refund aanmaken wapens.**<br>
-Een stafflid mag alleen een refund goedkeuren indien het eigen perspectief gebruikt wordt. Het perspectief van een ander is niet toegestaan. </br>
+### **Refunds.**<br>
+- Om een recent scenario te kunnen behandelen, vragen wij een ticket in de categorieën klachten over spelers / in game refunds binnen 7 dagen aan te maken. Tickets buiten de 7 dagen worden niet behandeld, tenzij er toestemming is gegeven door hogerop.
+- Het uitlenen van eigen bezittingen is op eigen risico. Als de persoon wordt verbannen zal hij/zij hier geen refund voor krijgen.
+- Om in aanmerking te komen voor een refund moet de waarde minimaal €10.000 bedragen.
+- Zonder een duidelijke clip van het gehele scenario gaan we niet refunden. We dienen het scenario vanaf het begin te kunnen zien. 
+- Wanneer je een dodelijke crash maakt met je voertuig is het aan de ambulance of je nog te redden valt. Hier delen we geen refund voor. 
+- Wanneer een speler aangereden wordt terwijl je door rood licht rijdt, wordt dit gezien als een verkeersongeluk zonder een refund mogelijk.
+- Een stafflid mag alleen een refund goedkeuren indien het eigen perspectief gebruikt wordt. Het perspectief van een ander is niet toegestaan. </br>
 
 ### **Delfines.**<br>
 Een delfine is een boete die je wordt opgelegd zodra jij een voertuig (kapot) achterlaat. De hoogte van de boete zal worden bepaald op basis van je banksaldo + cash.</br>
