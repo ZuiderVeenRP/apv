@@ -89,7 +89,8 @@
 ### **Artikel 11B: Microfoon (Straf-categorie: 1)**
    - Het gebruiken van voice changer zonder het doen van onderwereld activiteiten is niet toegestaan.
    - Het misbruiken/onnodig gebruiken van een soundpad is niet toegestaan. Voor het gebruik maken van een soundpad vereist toestemming van een admin of hoger.
-   - In de onderwereld kan je dit gebruiken bij een van de volgende scenario’s: Drugsdeal, wapendeals, rippen, overvallen. Gemaskerde politie-eenheden mogen gebruik maken van een voice changer.
+   - In de onderwereld kan je dit gebruiken bij een van de volgende scenario’s: Drugsdeal, wapendeals, rippen, overvallen.
+   - Gemaskerde politie-eenheden mogen gebruik maken van een voice changer.
 </br>
 
 ### **Artikel 12: Earrape (Straf-categorie: 1)**
