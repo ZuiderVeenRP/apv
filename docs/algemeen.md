@@ -63,13 +63,16 @@
    - Het verstoren van een scenario ongeacht hoe groot of klein. Het afleiden van ambtenaren, tijdens een overval, valt niet onder copbaiten.</br>
 </br>
 
-### **Artikel 9: No value of life (Straf-categorie: 4, bij 1e keer geen inname van wapen)**
-   - Het moedwillig / opzettelijk beëindigen van je eigen leven of dat van een ander met voorbestemde reden om een nieuw leven te kunnen starten.
-   - Het niet luisteren/meewerken terwijl er een wapen op je gericht staat ongeacht of je in een auto zit of niet.
+### **Artikel 9: No value of life (Straf-categorie: 4)**
+   - Het is verplicht waarde te hechten aan je leven. Een ieder die geen waarde hecht zal worden bestraft.
+   - Enkele voorbeelden van No value of life:
+      * Het moedwillig / opzettelijk beëindigen van je eigen leven of dat van een ander met voorbestemde reden om een nieuw leven te kunnen starten.
+      * Het niet luisteren/meewerken terwijl er een wapen op je gericht staat, ongeacht of je in een auto zit of niet.
+      * Het indrukken van de noodknop terwijl er een wapen op je gericht staat.
+      * Wegrennen terwijl er een slag, stoot of steekwapen op je gericht staat binnen fluistercirkel. Wanneer deze buiten fluistercirkel staat mag je wegrennen.
+      * Het ondernemen van acties zoals een wapen trekken, terwijl iemand naast je staat met een wapen in de hand die hij recent heeft gericht.
    - De range van gunpoint moet minimaal op 2e voice range zijn, alles daarbuiten wordt gezien als niet verstaanbaar en is je eigen verantwoordelijkheid wanneer het anders verloopt.
-   - Wanneer er een wapen op jou gericht gestaan heeft en de persoon die het wapen richtte staat nog naast jou zonder dat hij richt, wordt dit alsnog gezien als een dreiging. Het ondernemen van acties zoals bijvoorbeeld het trekken van een eigen wapen en schieten is dus niet toegestaan. Dit zal spelers de tijd geven om /me acties uit te typen.
-   - Wanneer er een slag, stoot of steekwapen op je staat binnen fluistercirkel mag je niet wegrennen. Buiten fluistercirkel mag je wel wegrennen.
-   - Het indrukken van de noodknop, terwijl een wapen op je gericht staat valt onder no value of life.
+   -  Wanneer dit artikel vaker dan 1x eerder is overtreden staat een stafflid in zijn/haar recht om een wapen in te nemen. 
 </br>
 
 ### **Artikel 10: New life rule (Straf-categorie: 1)**
