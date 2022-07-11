@@ -38,3 +38,22 @@ Liegen tegen staffleden is ten alle tijden niet toegestaan, hier staat een straf
 
 ### **Refund aanmaken wapens.**<br>
 Een stafflid mag alleen een refund goedkeuren indien het eigen perspectief gebruikt wordt. Het perspectief van een ander is niet toegestaan. </br>
+
+### **Delfines.**<br>
+Een delfine is een boete die je wordt opgelegd zodra jij een voertuig (kapot) achterlaat. De hoogte van de boete zal worden bepaald op basis van je banksaldo + cash.</br>
+ * Bij minder dan €500.000 bedraagt de boete €2.500.
+ * Tussen de €500.000 en €1.000.000 bedraagt de boete €5.000.
+ * Tussen de €1.000.000 en €5.000.000 bedraagt de boete €7.500.
+ * Tussen de €5.000.000 en €10.000.000 bedraagt de boete €10.000.
+ * Bij meer dan €10.000.000 bedraagt de boete €15.000.</br>
+
+### **Wegenbelasting.**<br>
+Elke nacht om 04:00  wordt er in ZuiderVeen wegenbelasting betaald. Je betaalt wegenbelasting wanneer je 4 of meer voertuigen hebt. Hoeveel je betaald hangt af van de hoeveelheid voertuigen je in je garage hebt.</br>
+ * Tussen de 4 en 8 voertuigen: €3.250
+ * Tussen de 9 en 12 voertuigen: €8.000
+ * Tussen de 13 en 16 voertuigen: €15.000
+ * Tussen de 17 en 20 voertuigen: €20.000
+ * Tussen de 21 en 30 voertuigen: €30.000
+ * Tussen de 31 en 40 voertuigen: €50.000
+ * Tussen de 41 en 49 voertuigen: €60.000
+ * Meer dan 50 voertuigen €80.000 

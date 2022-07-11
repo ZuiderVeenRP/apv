@@ -138,7 +138,7 @@
    - Het is niet toegestaan om gebouwen te betreden met voertuigen die daar niet voor bedoeld zijn. Dit zal bestraft worden met **categorie 1**.
    - Het is op geen enkele manier toegestaan om een motor te pitten.
    - Het is toegestaan om je auto te verkopen via twitter.
-   - Het achterlaten van auto's, vaartuigen en heli's/vliegtuigen zal vallen onder de nieuwe delfine-boetes. Indien je je voertuig ergens achterlaat zal dit een boete opleveren afhankelijk van je geld.
+   - Het achterlaten van auto's, vaartuigen en heli's/vliegtuigen is niet toegestaan en zal worden bestraft met een ingame boete. De ingame boete hangt af van het geldbedrag wat je hebt. Zie [Delfines](./informatie.html#delfines) voor meer informatie.
 </br>
 
 ### **Artikel 17: GTA style driving (Straf-categorie: 1)**
