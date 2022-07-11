@@ -18,16 +18,15 @@
 </br>
 
 ### **Artikel 2A: IRL Trade (categorie 9)**
-   - Deals waarbij geld betaald wordt voor ingame goederen wordt niet toegelaten.
-</br>
+   - Het verhandelen van items, valuta, diensten of accounts voor echt geld is verboden en zal worden bestraft.
 
 ### **Artikel 3: Alt Characters (Straf-categorie: 9)**
    - Onder een alt character wordt verstaan, dat een 2e of 3e account aangemaakt wordt door een speler, die eerder een ander account heeft gehad in de stad.
-   - Het is verboden om starters geld over te maken naar je eigen account of dat van een ander met als doel niet verder te spelen voor minimaal 3 maanden of langer.</br>
+   - Het is verboden om een alt account aan te maken om vervolgens het banksaldo van dit account te overhandigen aan een speler, op welke manier dan ook.</br>
 
-### **Artikel 4: DDOS bedreigingen (Straf-categorie: 9)**
-   - DDOS of dreigen met DDOS/booten is verboden.
-   - Het ‘doxen’ van burgers of staff leden is verboden.
+### **Artikel 4: Bedreigen / intimideren (Straf-categorie: 9)**
+   - Het is ten strengste verboden om een burger te bedreigen of te intimideren met een DDOS aanval.
+   - Het ‘doxen’ of 'ddossen' van burgers of staff leden is verboden.
 </br>
 
 ### **Artikel 5: Fail RP (Straf-categorie: 1)**
