@@ -117,7 +117,7 @@
    - Informatie verkregen buiten het karakter om (alle informatie die niet verkregen is door jouw karakter binnen FiveM) mag niet gebruikt worden door het karakter.
    - Wanneer je in ZuiderVeen bent mag je niet screen sharen.
    - Het praten in call tijdens een scenario zal als metagamen worden gezien. Wanneer je met meerdere mensen op ZuiderVeen speelt is het verplicht om te muten tijdens scenario's.
-   - Het versturen van in game informatie in de ZuiderVeen onderwereld discord wordt  gezien als meta en levert een straf op volgens categorie 3.
+   - Het versturen van in game informatie in de ZuiderVeen onderwereld discord wordt gezien als meta en levert een straf op volgens categorie 3.
    - Het gebruik maken van de portolijst zal vallen onder metagamen. 
 </br>
 
