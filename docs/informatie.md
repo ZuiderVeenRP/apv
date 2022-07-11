@@ -48,7 +48,7 @@ Een delfine is een boete die je wordt opgelegd zodra jij een voertuig (kapot) ac
  * Bij meer dan €10.000.000 bedraagt de boete €15.000.</br>
 
 ### **Wegenbelasting.**<br>
-Elke nacht om 04:00  wordt er in ZuiderVeen wegenbelasting betaald. Je betaalt wegenbelasting wanneer je 4 of meer voertuigen hebt. Hoeveel je betaald hangt af van de hoeveelheid voertuigen je in je garage hebt.</br>
+Elke nacht om 04:00  wordt er in ZuiderVeen wegenbelasting betaald. Je betaalt wegenbelasting wanneer je 4 of meer voertuigen hebt. Hoeveel je betaalt hangt af van de hoeveelheid voertuigen je in je garage hebt.</br>
  * Tussen de 4 en 8 voertuigen: €3.250
  * Tussen de 9 en 12 voertuigen: €8.000
  * Tussen de 13 en 16 voertuigen: €15.000
