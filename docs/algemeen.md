@@ -32,11 +32,11 @@
 ### **Artikel 5: Fail RP (Straf-categorie: 1)**
    - Onder fail roleplay vallen alle facetten die als een onrealistische situatie kunnen worden ervaren. Eenieder dient zich tijdens het roleplayen het volgende af te vragen: "Zou dit in het echt ook op deze manier kunnen gebeuren".
    - Enkele voorbeelden van Fail RP:
-    ➥ Het roleplay scenario vermijden tijdens ernstige verwondingen en aanrijdingen met andere burgers en ambulance.
-    ➥ Het doelbewust meermaals inklikken van de porto wanneer een wapen op je gericht staat.
-    ➥ Ongepast emotes spammen.
-    ➥ Praten in de porto of bellen onder water.
-    ➥ Iemand vastbinden in /me zonder in het bezit te zijn van een wapen.
+      * Het roleplay scenario vermijden tijdens ernstige verwondingen en aanrijdingen met andere burgers en ambulance.
+      * Het doelbewust meermaals inklikken van de porto wanneer een wapen op je gericht staat.
+      * Ongepast emotes spammen.
+      * Praten in de porto of bellen onder water.
+      * Iemand vastbinden in /me zonder in het bezit te zijn van een wapen.
    - Het stelen van voertuigen valt onder eigen risico. wanneer je hem niet op slot doet is het je eigen probleem en valt dit niet onder fail RP.
 </br>
 
