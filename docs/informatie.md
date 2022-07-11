@@ -40,7 +40,7 @@ Liegen tegen staffleden is ten alle tijden niet toegestaan, hier staat een straf
 - Om een recent scenario te kunnen behandelen, vragen wij een ticket in de categorieën klachten over spelers / in game refunds binnen 7 dagen aan te maken. Tickets buiten de 7 dagen worden niet behandeld, tenzij er toestemming is gegeven door hogerop.
 - Het uitlenen van eigen bezittingen is op eigen risico. Als de persoon wordt verbannen zal hij/zij hier geen refund voor krijgen.
 - Om in aanmerking te komen voor een refund moet de waarde minimaal €10.000 bedragen.
-- Zonder een duidelijke clip van het gehele scenario gaan we niet refunden. We dienen het scenario vanaf het begin te kunnen zien. 
+- Zonder een duidelijke clip **met audio** van het gehele scenario gaan we niet refunden. We dienen het scenario vanaf het begin te kunnen zien. Als er geen audio aanwezig is staat een stafflid in zijn/haar recht om je refund af te keuren.
 - Wanneer je een dodelijke crash maakt met je voertuig is het aan de ambulance of je nog te redden valt. Hier delen we geen refund voor. 
 - Wanneer een speler aangereden wordt terwijl je door rood licht rijdt, wordt dit gezien als een verkeersongeluk zonder een refund mogelijk.
 - Een stafflid mag alleen een refund goedkeuren indien het eigen perspectief gebruikt wordt. Het perspectief van een ander is niet toegestaan. </br>
