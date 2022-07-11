@@ -136,7 +136,7 @@
    - Alle voertuigen mogen op zandpaden rijden zonder een limiet, voertuigen in de off-road car dealer mogen volledig off-road. Donateur G-Wagon/Brabus G500, normale X5 vallen onder off-road voertuigen.
    - Off-road banden zijn puur cosmetisch en hebben geen effect op de weg. 
    - Het is niet toegestaan om gebouwen te betreden met voertuigen die daar niet voor bedoeld zijn. Dit zal bestraft worden met **categorie 1**.
-   - Motoren mogen op geen enkele manier gepit worden door een ander voertuig.
+   - Het is op geen enkele manier toegestaan om een motor te pitten.
    - Het is toegestaan om je auto te verkopen via twitter.
    - Het achterlaten van auto's, vaartuigen en heli's/vliegtuigen zal vallen onder de nieuwe delfine-boetes. Indien je je voertuig ergens achterlaat zal dit een boete opleveren afhankelijk van je geld.
 </br>
