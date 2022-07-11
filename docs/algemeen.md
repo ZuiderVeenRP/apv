@@ -1,7 +1,7 @@
 # Regels
 
 ### **Artikel 1: Cheats (Straf-categorie: 9)**
-   - Een burger die gebruik maakt van software/hulpmiddelen van derde partijen om een voordeel in het spel te krijgen zullen worden bestraft.</br>
+   - Een burger die gebruik maakt van software/hulpmiddelen van derde partijen om een voordeel in het spel te krijgen zullen worden bestraft.<br>
    - Het gebruik maken van een crosshair is ten allen tijde verboden.</br>
    - Onder cheats vallen externe programma’s, zoals hack clients.</br>
 </br>
@@ -9,10 +9,10 @@
 ### **Artikel 2: Exploits/bugs (Straf-categorie: 7)**
    - Het doelbewust gebruik maken van een bug/exploit die in je voordeel werkt.</br> 
    - Voorbeelden hiervan zijn:
-    ➥ Het moedwillig dupliceren van ingame items.
-    ➥ Het niet aangeven van gedupliceerde items na restarts.
-    ➥ Het gebruik maken van een emotie om aan de andere kant van een muur te komen of uit te breken van bijvoorbeeld de gevangenis.
-    ➥ Handelingen uitvoeren terwijl je dood bent.
+      * Het moedwillig dupliceren van ingame items.
+      * Het niet aangeven van gedupliceerde items na restarts.
+      * Het gebruik maken van een emotie om aan de andere kant van een muur te komen of uit te breken van bijvoorbeeld de gevangenis.
+      * Handelingen uitvoeren terwijl je dood bent.
    - De bug ‘one punch’ zal bestraft worden onder **categorie 5**.
     ➥ Leden van het staff team staan in hun recht om een account wipe goed te keuren, afhankelijk van de bug die gebruikt is.
 </br>
