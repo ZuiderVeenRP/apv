@@ -142,7 +142,11 @@
 </br>
 
 ### **Artikel 17: GTA style driving (Straf-categorie: 1)**
-   - Het onrealistisch rijden met je voertuig valt onder GTA style driving. Stunt jumps nemen, onrealistisch offroad rijden en het rammen/onnodig beuken van andere voertuigen zonder reden.
+   - Het is verboden om onrealistisch te rijden met je voertuig.
+   - Enkel voorbeelden van GTA Style driving:
+      * Stunt jumps nemen.
+      * Onrealistisch offroad rijden.
+      * Het rammen/onnodig beuken van andere voertuigen zonder reden.
    - Wanneer je een of meerdere lekke banden hebt, mag je niet harder dan 130 km/h rijden.
 </br>
 
