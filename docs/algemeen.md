@@ -52,8 +52,7 @@
 </br>
 
 ### **Artikel 7: Karakter breken / OOC (Straf-categorie: 1)** 
-   - Ten alle tijden is het niet toegestaan om karakter te breken. Alles onder Out Of Character valt hieronder. Woorden als staff, broodje, tickets, refund, bug zijn niet toegestaan en valt onder Out Of Character.
-   - Het foutief breken van karakter in SMS en twitter.
+   - Het is ten alle tijden niet toegestaan om je karakter te breken. Alles onder Out Of Character valt hieronder. Ook woorden als "staff", "broodje", "tickets", "refund", "bug" zijn niet toegestaan.
    - Het is alleen toegestaan om de Nederlandse/Engelse taal te spreken/typen in de stad ZuiderVeen.
    - Het karakter breken in porto behoort hier onder. Een stafflid staat **altijd** in zijn recht een warn uit te delen op **ieder** moment die er is, wanneer een speler karakter breekt.
 </br>
