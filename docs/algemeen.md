@@ -104,13 +104,13 @@
 </br>
 
 ### **Artikel 14: RDM (Straf-categorie: 1)**
-   - Een stafflid staat altijd in hun recht om een categorie hoger te bannen, afhankelijk van de mate van RDM en voorgaande RDM situaties.
-   - Bij een 2e keer zal overgegaan worden op categorie 2 + wapen inleveren. Huidige RDM bans blijven bestaan en worden niet weggehaald bij het doorvoeren van de APV.
-   - Het willekeurig vermoorden van spelers zonder geldige reden.
+   - Het willekeurig vermoorden van spelers zonder geldige reden is niet toegestaan.
    - Het uitdagen via twitter kan gezien worden als een geldige reden, mits hier bewijsmaterialen van zijn dat het om deze persoon gaat. Twitter media mag je in de stad gebruiken als informatie. Het korps staat in hun recht om de informatie te verwerken in het MEOS-systeem.
    - Een moord op een persoon die niet wil ‘blaffen’, ‘zingen’ en dergelijke worden gezien als RDM.
    - Het doelbewust uitdagen van een gang valt onder een geldige moord.
-   - Het verbaal provoceren richting andere spelers, is op eigen risico. 
+   - Het verbaal provoceren richting andere spelers is op eigen risico. 
+   - Een stafflid staat altijd in hun recht om een categorie hoger te bannen, afhankelijk van de mate van RDM en voorgaande RDM situaties.
+   - Bij een 2e keer zal overgegaan worden op categorie 2 + wapen inleveren. Huidige RDM bans blijven bestaan en worden niet weggehaald bij het doorvoeren van de APV.
 </br>
 
 ### **Artikel 15: Metagamen (Straf-categorie: 3)**
