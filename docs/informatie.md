@@ -36,6 +36,9 @@ Een klacht over een speler dient binnen een week aangemaakt te worden. Daarna za
 ### **Liegen tegen staff.**
 Liegen tegen staffleden is ten alle tijden niet toegestaan, hier staat een straf op van minimaal categorie 5.
 
+### **Informatie achterhouden voor staff.**
+Het is niet toegestaan om informatie voor een stafflid te achterhouden.  Zodra een stafflid jou iets vraagt, verwachten we dus ook dat jij naar alle waarheid de informatie verstrekt. Hier niet aan meewerken zal een straf van categorie 5.
+
 ### **Refunds.**
 Om een recent scenario te kunnen behandelen, vragen wij een ticket in de categorieën klachten over spelers / in game refunds binnen 7 dagen aan te maken. Tickets buiten de 7 dagen worden niet behandeld, tenzij er toestemming is gegeven door hogerop.
 
