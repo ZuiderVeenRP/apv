@@ -135,7 +135,7 @@
    </br>
 
    - Brake checken is toegestaan indien dit realistisch blijft. Wanneer jij iemand brake checkt is dit op eigen risico, hier zal geen refund voor mogelijk zijn. 
-   - Alle voertuigen mogen op zandpaden rijden zonder een limiet, voertuigen in de off-road car dealer mogen volledig off-road. Donateur G-Wagon/Brabus G500 en de normale BMW X5 vallen onder off-road voertuigen.
+   - Alle voertuigen mogen op zandpaden rijden zonder een limiet, voertuigen in de off-road car dealer mogen volledig off-road. Donateur G-Wagon en Brabus G500 vallen onder off-road voertuigen.
    - Off-road banden zijn puur cosmetisch en hebben geen effect op de weg. 
    - Het is niet toegestaan om gebouwen te betreden met voertuigen die daar niet voor bedoeld zijn. Dit zal bestraft worden met **categorie 1**.
    - Het is op geen enkele manier toegestaan om een motor te pitten.
