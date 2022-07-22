@@ -298,6 +298,7 @@ dood = dood. (verkeersongevallen en dergelijken vallen ook hieronder)
 - Het meermaals foutief innemen van spullen kan leiden tot een gangwaarschuwing voor je officiële gang.
 - Een persoon uit de auto halen met je gang-menu is niet toegestaan, enkel alleen wanneer de persoon geboeid is door je gang. 
 - Het is voor een officiële gang niet toegestaan om een 2e gang te creëren om hieruit een groei te kunnen maken voor de eigen gang. 
+- Het percentage waarvoor officiële gangs mogen witwassen mag je zelf bepalen met een minimum van 5%.
 </br>
 
 ### **Artikel 36A: Wraakacties tegen whitelisted jobs (Straf-categorie: 5)**
