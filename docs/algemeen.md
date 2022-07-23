@@ -72,7 +72,8 @@
       * Wegrennen terwijl er een slag, stoot of steekwapen op je gericht staat binnen fluistercirkel. Wanneer deze buiten fluistercirkel staat mag je wegrennen.
       * Het ondernemen van acties zoals een wapen trekken, terwijl iemand naast je staat met een wapen in de hand die hij recent heeft gericht.
    - De range van gunpoint moet minimaal op 2e voice range zijn, alles daarbuiten wordt gezien als niet verstaanbaar en is je eigen verantwoordelijkheid wanneer het anders verloopt.
-   -  Wanneer dit artikel vaker dan 1x eerder is overtreden staat een stafflid in zijn/haar recht om een wapen in te nemen. 
+   - Wanneer dit artikel vaker dan 1x eerder is overtreden staat een stafflid in zijn/haar recht om een wapen in te nemen.
+   - NVOL moment gaat in op het moment dat je het wapen duidelijk richt op de persoon, niet als je het wapen enkel pakt.
 </br>
 
 ### **Artikel 10: New life rule (Straf-categorie: 1)**
@@ -272,6 +273,10 @@ dood = dood. (verkeersongevallen en dergelijken vallen ook hieronder)
 - Indien je onbewust voor de 2e keer wordt doodgeschoten in een gangwar is dit een eigen risico die je neemt door op die plek te zijn. Indien men er vanaf weet en je bewust nog een keer shoot, zal dit vallen onder artikel 14.
 </br>
 
+### **Artikel 32.2: Ontvoeren (Straf-categorie: 1)**
+- Het ontvoeren van burgers is toegestaan vanaf minimaal 2 politie/kmar in dienst.
+- Een agent mag pas ontvoerd worden vanaf 4 agenten. Er moeten dus altijd 3 andere agenten in dienst zijn voordat je 1 agent mag ontvoeren.
+
 ### **Artikel 33: Maximaal toegestaan aantal leden criminele organisaties**
 - Het aantal toegestane leden in een criminele organisatie is 20 members.
 - Bovenstaand geldt voor erkende gangs en niet erkende gangs.
@@ -309,7 +314,7 @@ dood = dood. (verkeersongevallen en dergelijken vallen ook hieronder)
 - Het is ten alle tijden verboden om weer te mengen in een scenario, wanneer je eerder overleden bent in dit scenario (gangwars).
 </br>
 
-### **Artikel 37: fouilleren (Straf-categorie 1)**
+### **Artikel 37: Fouilleren (Straf-categorie 1)**
 - Je dient alleen te fouilleren wanneer je in bezit bent van een wapen.
 - Bij het innemen van wapens dien je het wapen visueel gezien te hebben, dit wordt anders volgens categorie 2 gestraft.
 - Het is niet toegestaan om spelers te dwingen goederen te geven, wanneer je niet in bezit bent van een F6 menu.
