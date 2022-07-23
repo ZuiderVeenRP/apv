@@ -309,10 +309,11 @@ dood = dood. (verkeersongevallen en dergelijken vallen ook hieronder)
 - Het is ten alle tijden verboden om weer te mengen in een scenario, wanneer je eerder overleden bent in dit scenario (gangwars).
 </br>
 
-### **Artikel 37: fouilleren**
+### **Artikel 37: fouilleren (Straf-categorie 1)**
 - Je dient alleen te fouilleren wanneer je in bezit bent van een wapen.
 - Bij het innemen van wapens dien je het wapen visueel gezien te hebben, dit wordt anders volgens categorie 2 gestraft.
 - Het is niet toegestaan om spelers te dwingen goederen te geven, wanneer je niet in bezit bent van een F6 menu.
+- Je mag geen kennis hebben van de illegale spullen die de persoon op zak heeft wanneer de persoon geen masker, holster of kogelvrij vest aan heeft.
 </br>
 
 ### **Artikel 38: Ambulance (Straf-categorie: 2)**
