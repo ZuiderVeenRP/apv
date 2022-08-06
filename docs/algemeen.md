@@ -261,6 +261,7 @@
 - Wanneer je met meerdere mensen gaat rippen, mag je niet dezelfde mensen rippen. Zodra iemand is overvallen laat iedereen die persoon met rust.
 - Je mag maximaal van 20 items rippen mits je een wapen hebt. Wapens, attachments en kogels staat geen limiet op.
 - Het scammen van hulpdiensten als ze indienst zijn is niet toegestaan.
+- Witwassers overvallen is enkel toegestaan wanneer er gezien is dat de persoon in het desbetreffende voertuig rijdt en op de locatie een bestemde handeling doet. Het maximale zwart geld bedrag dat geript mag worden is €200.000.
 </br>
 
 ### **Artikel 32.1: Gangwars**			    
