@@ -347,7 +347,6 @@ dood = dood. (verkeersongevallen en dergelijken vallen ook hieronder)
 - Mocht je iets zien bij een andere streamer wat je niet bevalt. Spreek dan een stafflid aan of maak een ticket aan.<br>
 - FailRP, RDM, VDM en dat soort zaken on-stream wordt direct bestraft.<br>
 - De naam ZuiderVeen moet in de titel van de stream staan zodat het ook door ons gevonden kan worden.<br>
-- Het is NIET toegestaan om drugs locaties vast te leggen op stream. Doe je dit wel zal er een ban volgens categorie 5 worden uitgedeeld.<br>
 </br>
 
 ### **Artikel 40: Erotische roleplay (Straf-categorie: 5)**
