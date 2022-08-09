@@ -468,7 +468,7 @@ Discussies voeren mag, maar voorlopig vindt er meer vervelend gedrag naar elkaar
 - Indien je het niet eens bent met een verkregen straf is het onnodig om in de algemene discord het stafflid belachelijk te maken of een discussie erover te beginnen.
 Hier hebben we ons ticketsysteem voor.
 
-### **Artikel 52: het stelen van overheidsvoertuigen (straf-categorie: 1)**
+### **Artikel 52: het stelen van Politie /KMar voertuigen (straf-categorie: 1)**
 - Het is toegestaan om overheidsvoertuigen te stelen tijdens een achtervolging om weg te komen.
 - Het is niet toegestaan om zonder reden een overheidsvoertuig te stelen.
 - Het is niet toegestaan om bulletproof auto's te stelen.
