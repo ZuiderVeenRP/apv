@@ -369,7 +369,7 @@ dood = dood. (verkeersongevallen en dergelijken vallen ook hieronder)
 
 ### **Artikel 43: Algemene regels hulpdiensten**
 - Het agressief benaderen van Politie, Ambulance, Taxi en ANWB is niet toegestaan. Blijf ten alle tijde vriendelijk.
-- Het stelen van overheidsvoertuigen is niet toegestaan. Hieronder vallen de voertuigen van de Politie, Ambulance, ANWB en rijkswaterstaat.
+- Het stelen van overheidsvoertuigen is niet toegestaan. Hieronder vallen de voertuigen van de Ambulance, ANWB en rijkswaterstaat.
 - op het moment van het uitvoeren van een overheidsbaan MOET je gebruik maken van de porto dit om de roleplay te verbeteren.
 - Het is ten alle tijden niet toegestaan om corrupt te zijn. Als je dit wel doet ben je per direct ontslagen en volgt er een ban (straf-catagorie 6)
 - Het oproepen van collega's via discord omdat er bijvoorbeeld een overval is valt onder "Metagamen".
