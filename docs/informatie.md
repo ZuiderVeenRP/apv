@@ -55,6 +55,7 @@ Bij de volgende scenario's is er geen refund mogelijk:
 - Wanneer een persoon wordt gebanned waar je spullen aan hebt uitgeleend.
 - Wanneer je aangereden wordt terwijl je door rood licht rijdt. Dit wordt gezien als een verkeersongeluk.
 - Wanneer je een dodelijke crash maakt met je voertuig. Het is aan de ambulance of je nog te redden valt.
+- Wanneer er door jou een apv regel fout word gemaakt in het scenario, heb je automatisch geen recht meer op een refund. (ookal heeft de fout niks te maken met de refund)
 
 Een stafflid mag alleen een refund goedkeuren indien het eigen perspectief gebruikt wordt. Het perspectief van een ander is niet toegestaan. 
 
