@@ -5,7 +5,7 @@
    - Onder cheats vallen externe programma’s, zoals hack clients (Eulen, Kekhack).
 
 ### **Artikel 2: Exploits/bugs (Straf-categorie: 7)**
-   - Hieronder wordt verstaan het doelbewust gebruik maken van een bug/exploit die in je voordeel werkt.
+   - Hieronder wordt verstaan het doelbewust gebruik maken van een bug/exploit die in jou of andermans voordeel werkt.
    - Voorbeelden hiervan zijn:
       * Het moedwillig dupliceren van ingame items.
       * Het niet aangeven van gedupliceerde items na restarts.
