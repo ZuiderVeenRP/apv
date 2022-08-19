@@ -1,7 +1,7 @@
 # Regels
 
 ### **Artikel 1: Cheats (Straf-categorie: 9)**
-   - Een burger die gebruik maakt van software/hulpmiddelen van derde partijen om een voordeel in het spel te krijgen, denk aan (combatpacks, extern crosshair) zullen worden bestraft met een straf uit de 9de categorie.
+   - Een burger die gebruik maakt van software/hulpmiddelen van derde partijen om een voordeel in het spel te krijgen, denk aan (combatpacks, (extern) crosshair) zullen worden bestraft met een straf uit de 9de categorie.
    - Onder cheats vallen externe programma’s, zoals hack clients (Eulen, Kekhack).
 
 ### **Artikel 2: Exploits/bugs (Straf-categorie: 7)**
