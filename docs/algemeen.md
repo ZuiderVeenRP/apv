@@ -36,8 +36,12 @@
       * Geen roleplay aangaan in situaties waarbij je (ernstig) gewond bent.
       * Onjuist gebruik maken van een F6 menu tijdens scenario’s.
       * Iemand vastbinden in /me zonder in het bezit te zijn van een wapen.
-   - Het stelen van voertuigen valt onder eigen risico. Wanneer je hem niet op slot doet, is het je eigen probleem en valt dit niet onder fail RP.
-</br>
+   - Het stelen van een voertuig is toegestaan wanneer deze onbemand achter is gelaten langs de weg.
+   - Het stelen van een voertuig is niet toegestaan wanneer iemand bezig is met zijn voertuig. Dit zal bestraft worden met een straf uit de **3de categorie**.
+     * Inladen
+     * Uitladen
+     * Tanken
+     * Repareren
 
 ### **Artikel 6: Powergamen (Straf-categorie: 1)**
    - Het opzettelijk veranderen van een scenario door onrealistische componenten toe te voegen, waardoor het voor de andere partij niet realistisch te spelen is. 
@@ -120,22 +124,21 @@
    - Het pitten boven 130 km/h is niet toegestaan.
    - Een groter klasse voertuig pitten is niet toegestaan, ongeacht de snelheid. 
    - Een voertuig mag geen hogere categorie pitten of brake checken.
-   <ol type='1'>
+   <ol>
       <li>Motorvoertuigen</li>
       <li>Sportauto’s en hypercars</li>
-      <li>Personenauto’s, zoals Sedan en Coupes. </li>
+      <li>Personenauto’s, zoals Sedan en Coupes</li>
       <li>SUV’s</li>
-      <li>Bussen en vrachtwagens.</li>
+      <li>Bussen en vrachtwagens</li>
    </ol>
-   </br>
-
-   - Brake checken is toegestaan indien dit realistisch blijft. Wanneer jij iemand brake checkt is dit op eigen risico. Het is niet mogelijk om hier een refund voor aan te vragen. 
+   - Brake checken is toegestaan indien dit realistisch blijft. Wanneer jij iemand brake checkt is dit op eigen risico. Het is niet mogelijk om hier een refund voor aan te vragen.
    - Alle voertuigen mogen op zandpaden rijden zonder een limiet, voertuigen in de off-road car dealer mogen volledig off-road. Donateur G-Wagon en Brabus G 500 vallen onder off-road voertuigen.
    - Off-road banden zijn puur cosmetisch en hebben geen effect op de weg. 
    - Het is niet toegestaan om gebouwen te betreden met voertuigen die daar niet voor bedoeld zijn. Dit zal bestraft worden met een straf uit de 1ste categorie.
    - Het is op geen enkele manier toegestaan om een motor te pitten.
    - Het is toegestaan om je auto te verkopen via twitter.
    - Het achterlaten van auto's, vaartuigen en heli's/vliegtuigen is niet toegestaan en zal worden bestraft met een ingame boete. De ingame boete hangt af van het geldbedrag wat je hebt. Zie [Delfines](./informatie.html#delfines) voor meer informatie.
+   - Het is niet toegestaan om een lesauto te gebruiken voor andere doeleinden.
 
 ### **Artikel 17: GTA style driving (Straf-categorie: 1)**
    - Hieronder wordt verstaan het onrealistisch rijden met je voertuig. Dit is in Zuiderveen verboden.
