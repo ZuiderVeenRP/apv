@@ -58,7 +58,7 @@
    - Het is te allen tijde niet toegestaan om je karakter te breken. Alles onder Out Of Character valt hieronder. Ook woorden als "staff", "broodje", "tickets", "refund", "bug" zijn niet toegestaan.
    - Het is alleen toegestaan om de Nederlandse/Engelse taal te spreken/typen in de stad ZuiderVeen.
    - Het karakter breken in porto behoort hieronder. Een stafflid staat **altijd** in zijn recht een warn uit te delen op **ieder** moment die er is, wanneer een speler zijn/haar karakter breekt.
-   - 
+
 ### **Artikel 8: Copbaiten (Straf-categorie: 1)**
    -  Hieronder wordt verstaan:
       * Het doelbewust uitlokken van reacties van ambtenaren in functie;
