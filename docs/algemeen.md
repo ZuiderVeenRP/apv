@@ -21,6 +21,9 @@
    - Onder een alt character wordt verstaan dat een persoon meerdere accounts aanmaakt om binnen de stad Zuiderveen te spelen.
    - Het is verboden om een alt account aan te maken om vervolgens het banksaldo van dit account te overhandigen aan een speler, op welke manier dan ook.
 
+### **Artikel 3A: Startersgeld (categorie 9)**
+   - Het is niet toegestaan startersgeld aan anderen te geven zonder enige bedoeling zelf te gaan spelen.
+
 ### **Artikel 4: Bedreigen / intimideren (Straf-categorie: 9)**
    - Het is ten strengste verboden om een burger te bedreigen of te intimideren met een DDOS aanval.
    - Het ‘doxen’ of 'ddossen' van burgers of staff leden is verboden en wordt bestraft met een straf uit de 9de categorie.
