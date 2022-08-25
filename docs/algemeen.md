@@ -27,7 +27,6 @@
 ### **Artikel 4: Bedreigen / intimideren (Straf-categorie: 9)**
    - Het is ten strengste verboden om een burger te bedreigen of te intimideren met een DDOS aanval.
    - Het ‘doxen’ of 'ddossen' van burgers of staff leden is verboden en wordt bestraft met een straf uit de 9de categorie.
-</br>
 
 ### **Artikel 5: Fail RP (Straf-categorie: 1)**
    - Onder fail roleplay vallen alle facetten die als een onrealistische situatie kunnen worden ervaren. Eenieder dient zich tijdens het roleplayen het volgende af te vragen: "Zou dit in het echt ook op deze manier kunnen gebeuren".
