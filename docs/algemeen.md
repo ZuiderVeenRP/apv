@@ -357,13 +357,13 @@
 - Het preventief fouilleren is toegestaan als er een dreigingsniveau is van 4 of hoger.
 - Het indrukken van de noodknop terwijl er wapens op je worden gericht is niet toegestaan mits je geblindeerde ramen hebt en/of in een gepantserd voertuig zit.
 - Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan.
-- Je mag alleen zware wapens gebruiken als je in dienst bent als DSI of HRB anders is dit niet toegestaan, met uitzondering van de reguliere eenheden van de KMAR met MP5.
+- Je mag alleen zware wapens gebruiken als je in dienst bent als DSI anders is dit niet toegestaan, met uitzondering van de reguliere eenheden van de KMAR met MP5.
 - Je mag alleen uit een helikopter schieten als je van een speciale eenheid bent. Dodelijk vuur mag uit een helikopter gebruikt worden, indien er schoten zijn gelost op andere collega's van het korps of KMAR.
 
 ### **Wapens per categorie:**
 - Categorie 1 (Slag, stoot en steekwapens): - Knuppel - Knuckle duster - Wapenstok (KMAR/Politie) - Switchblade - Machete
 - Categorie 2 (Lichte vuurwapens): - Taser (KMAR/Politie) - Walter P99 (KMAR/Politie) - Glock G17 (KMAR/Politie) - Baretta - MP5 (KMAR/Dienst Speciale Interventies)
-- Categorie 3 (Zware vuurwapens): - Desert Eagle - Shotgun - Uzi - P90 - Mini-AK - Ak-47 - SIG (Dienst Speciale Interventies / HRB) - G28 (Dienst Speciale Interventies) - Sniper rifle (Dienst Speciale Interventies)
+- Categorie 3 (Zware vuurwapens): - Desert Eagle - Shotgun - Uzi - P90 - Mini-AK - Ak-47 - HK416 (Dienst Speciale Interventies) - Sniper rifle (Dienst Speciale Interventies)
 
 ### **Regels Anwb**
 - Bij het maken van een melding moet je de locatie er bij vermelden anders word je melding niet behandeld.
