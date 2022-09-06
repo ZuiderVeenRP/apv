@@ -121,6 +121,7 @@
    - Het praten in call tijdens een scenario zal als metagamen worden gezien. Wanneer je met meerdere mensen op ZuiderVeen speelt is het verplicht om jezelf te muten tijdens scenario's.
    - Het versturen van ingame informatie in de ZuiderVeen onderwereld discord wordt gezien als meta en wordt bestraft met een  straf uit de 3de categorie.
    - Het gebruik maken van informatie uit de porto lijst zal vallen onder metagamen.
+   - Het veranderen van naam en in porto gaan van anderen om te zien wie er in zitten of met als doel informatie te gebruiken wat daar wordt besproken is niet toegestaan.
 
 ### **Artikel 16: Auto's gebruik (Straf-categorie: 1)**
    - Het pitten boven 130 km/h is niet toegestaan.
