@@ -408,7 +408,7 @@
 
 # Aircraftregels
 
-### **Artikel 50 Vliegdekschip (strafcategorie 2)
+### **Artikel 50 Vliegdekschip (strafcategorie 2)**
 - De Aircraft Carrier is militair, justitieel gebied. Het betreden hiervan is geheel op eigen risico.
 - Op de Aircraft Carrier (vliegdekschip) gelden stedelijke regels.
 - De KMAR/POLITIE heeft in uiterste situaties toestemming om dodelijk vuur te gebruiken.
