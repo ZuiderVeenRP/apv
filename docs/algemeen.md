@@ -45,7 +45,7 @@
      * Tanken
      * Repareren
    - Het campen op elk drugs locatie in de stad en/of eiland zal bestraft worden met een straft uit de **4de categorie**.
-     Onder campen wordt verstaan, het langdurig zichtbaar/verborgen verblijven met als doel of aanleiding tot het uitvoeren van illegale activiteiten.
+     Onder campen wordt verstaan, het langdurig zichtbaar/verborgen verblijven met als doel, aanleiding en/of ten uitvoer brengen tot illegale activiteiten.
      Enkele voorbeelden zijn:
       * Het wachten in bosjes of openbaar om vervolgens wanneer een bus geopend word, er op af lopen om goederen er uit te halen.
       * Het wachten in bosjes of openbaar om een voertuig mee te kunnen nemen welke niet van jou zelf is en/of daarna de goederen er uit te halen.
