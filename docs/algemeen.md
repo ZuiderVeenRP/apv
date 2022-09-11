@@ -50,7 +50,7 @@
       * Het wachten in bosjes of openbaar om vervolgens wanneer een bus geopend word, er op af lopen om goederen er uit te halen.
       * Het wachten in bosjes of openbaar om een voertuig mee te kunnen nemen welke niet van jou zelf is en/of daarna de goederen er uit te halen.
       * Het wachten in bosjes of openbaar vervolgens mensen te gaan rippen van hun wapens, geld en/of goederen.
-
+   - Praten terwijl je dood bent is niet toegestaan. Wanneer je op en manier gedood wordt dat tegen de server regels is, maak je een report aan.
 
 ### **Artikel 6: Powergamen (Straf-categorie: 1)**
    - Het opzettelijk veranderen van een scenario door onrealistische componenten toe te voegen, waardoor het voor de andere partij niet realistisch te spelen is. 
