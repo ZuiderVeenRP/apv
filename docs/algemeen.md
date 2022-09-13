@@ -182,7 +182,7 @@
 - Het dragen van de standaard outfit (zwart-wit geblokt) is niet toegestaan. Je dient een volledige outfit te maken, waarbij je armen en benen zichtbaar zijn en de kleding goed aansluit. 
 - Het is je eigen verantwoordelijkheid op bij constatering van bijvoorbeeld het hebben van geen armen andere kleding aan te schaffen zodat dit probleem wordt verholpen.
 
-### **Artikel 22: Combatloggen (Straf-categorie: 2)**
+### **Artikel 22: Combatloggen (Straf-categorie: 4)**
 - Het is verboden om tijdens een scenario het spel af te sluiten en of te verlaten. Wanneer dit gebeurt heb je 5 minuten om terug te keren naar het scenario. Wanneer men in een scenario zit dient men het scenario af te maken.
 - Indien echt niet anders kan, en persoon moet echt vertrekken, moet dit overlegd worden met de betrokkenen in dit scenario.
 - Het verlaten van de stad, nadat je karakter overleden is wordt gezien als combatloggen.
