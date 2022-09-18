@@ -187,7 +187,7 @@
 - Indien echt niet anders kan, en persoon moet echt vertrekken, moet dit overlegd worden met de betrokkenen in dit scenario.
 - Het verlaten van de stad, nadat je karakter overleden is wordt gezien als combatloggen.
 
-### **Artikel 23: Stream sniping (Straf-categorie: 1)**
+### **Artikel 23: Stream sniping (Straf-categorie: 3)**
 - Het gebruiken van informatie vanuit streamers/content creators wordt gezien als stream sniping.
 
 ### **Artikel 24: Gebruik job voertuigen bij non whitelisted jobs (Straf-categorie:1)**
