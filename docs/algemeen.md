@@ -255,7 +255,8 @@
 - Als iemand overvalt met een wapen mag je maximaal 20 items rippen.
 - Op wapens, attachments en kogels staan geen limieten.
 - Het scammen van hulpdiensten als ze in dienst zijn is niet toegestaan.
-- Witwassers overvallen is enkel toegestaan wanneer er gezien is dat de persoon in het desbetreffende voertuig rijdt en/of op de locatie een bestemde handeling doet. Het maximale zwart geld bedrag dat geript mag worden is €200.000.
+- Witwassers overvallen is enkel toegestaan wanneer er gezien is dat de persoon in het desbetreffende voertuig rijdt en/of op de locatie een bestemde handeling doet.
+- Je mag al het zwart geld rippen wat de groep witwassers bij zich hebben. Dit geldt ook voor de bijrijdende voertuigen/convooi.
 
 ### **Artikel 32.1: Gangwars**			    
 - Het is alleen toegestaan om een wraakactie op te starten als je in roleplay bewijs hebt verzameld van de moord op jouw ganglid.
