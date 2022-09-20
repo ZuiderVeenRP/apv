@@ -257,6 +257,7 @@
 - Het scammen van hulpdiensten als ze in dienst zijn is niet toegestaan.
 - Witwassers overvallen is enkel toegestaan wanneer er gezien is dat de persoon in het desbetreffende voertuig rijdt en/of op de locatie een bestemde handeling doet.
 - Je mag al het zwart geld rippen wat de groep witwassers bij zich hebben. Dit geldt ook voor de bijrijdende voertuigen/convooi.
+- Het rippen van witwassers is toegestaan met 0 politie en 0 kmar.
 
 ### **Artikel 32.1: Gangwars**			    
 - Het is alleen toegestaan om een wraakactie op te starten als je in roleplay bewijs hebt verzameld van de moord op jouw ganglid.
