@@ -109,7 +109,7 @@
    - Hieronder wordt verstaan een persoon die met zijn microfoon/soundpad dusdanig onnodig veel lawaai maakt, dat het niet normaal te verdragen is voor andere burgers. 
    - Een voorbeeld wat onder earrape valt is bijvoorbeeld het schreeuwen en/of het maken van harde geluiden in de microfoon, waarbij andere last ervaren.
 
-### **Artikel 13: VDM (Straf-categorie: 2)**
+### **Artikel 13: VDM (Straf-categorie: 3)**
    - Hieronder wordt verstaan een persoon die opzettelijk inrijdt op een burger met de intentie om de burger te vermoorden of als doel heeft het voertuig als wapen te gebruiken.
    - In beginsel geldt hiervoor een straf uit de 2de categorie, maar een stafflid kan de keuze maken om afhankelijk van de mate van VDM af te wijken om een hogere straf op te leggen.
 
