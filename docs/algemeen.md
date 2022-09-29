@@ -113,7 +113,7 @@
    - Hieronder wordt verstaan een persoon die opzettelijk inrijdt op een burger met de intentie om de burger te vermoorden of als doel heeft het voertuig als wapen te gebruiken.
    - In beginsel geldt hiervoor een straf uit de 2de categorie, maar een stafflid kan de keuze maken om afhankelijk van de mate van VDM af te wijken om een hogere straf op te leggen.
 
-### **Artikel 14: RDM (Straf-categorie: 1)**
+### **Artikel 14: RDM (Straf-categorie: 3)**
    - Onder RDM wordt verstaan het willekeurig vermoorden van spelers zonder geldige reden. Dit is niet toegestaan en wordt bestraft met een straf uit de 1ste categorie.
    - Het uitdagen via twitter kan gezien worden als een geldige reden, mits hier bewijsmaterialen van zijn dat het om deze persoon gaat. Twitter media mag je in de stad gebruiken als informatie. Het korps staat in hun recht om de informatie te verwerken in het MEOS-systeem.
    - Een moord op een persoon die niet wil ‘blaffen’, ‘zingen’ en dergelijke worden gezien als RDM.
