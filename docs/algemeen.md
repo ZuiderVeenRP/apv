@@ -113,7 +113,7 @@
 
 ### **Artikel 13: VDM (Straf-categorie: 3)**
    - Hieronder wordt verstaan een persoon die opzettelijk inrijdt op een burger met de intentie om de burger te vermoorden of als doel heeft het voertuig als wapen te gebruiken.
-   - In beginsel geldt hiervoor een straf uit de 2de categorie, maar een stafflid kan de keuze maken om afhankelijk van de mate van VDM af te wijken om een hogere straf op te leggen.
+   - In beginsel geldt hiervoor een straf uit de 3de categorie, maar een stafflid kan de keuze maken om afhankelijk van de mate van VDM af te wijken om een hogere straf op te leggen.
 
 ### **Artikel 14: RDM (Straf-categorie: 3)**
    - Onder RDM wordt verstaan het willekeurig vermoorden van spelers zonder geldige reden. Dit is niet toegestaan en wordt bestraft met een straf uit de derde categorie (3).
