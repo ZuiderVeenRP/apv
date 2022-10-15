@@ -260,11 +260,13 @@
 - Witwassers overvallen is enkel toegestaan wanneer er gezien is dat de persoon in het desbetreffende voertuig rijdt en/of op de locatie een bestemde handeling doet.
 - Je mag al het zwart geld rippen wat de groep witwassers bij zich hebben. Dit geldt ook voor de bijrijdende voertuigen/convooi.
 - Het rippen van witwassers is toegestaan met 0 politie en 0 kmar.
+- Elke gang mag maximaal 10 friends hebben.
+- Het omzeilen van de maximale aantal leden van een groepering (20), leidt tot directe ontbinding van de gang en/of officieelheid van de gang.
 
 ### **Artikel 32.1: Gangwars**			    
 - Het is alleen toegestaan om een wraakactie op te starten als je in roleplay bewijs hebt verzameld van de moord op jouw ganglid.
-- Gangwars duren maximaal 72 uur en daarna vervallen alle redenen. Indien er andere redenen bij komen vervallen deze ook.
-- Tijdens een officiële gangwar is het niet toegestaan dat ally gangs elkaar helpen.
+- Gangwars duren maximaal 48 uur (2 dagen) en daarna vervallen alle redenen. Indien er andere redenen bij komen vervallen deze ook.
+- Tijdens een officiële gangwar is het niet toegestaan dat externe personen en/of ally gangs elkaar helpen. Dit mag enkel als het conflict verder reikt dan 1 gang.
 - Kills van de politie tellen ook mee in de gang war aangezien je dood gaat in hetzelfde scenario. 
 - Wanneer je dood bent gegaan tijdens een war met meerdere gangs mag je niet meer meedoen tot de war over is (ook niet met nieuwe redenen). Indien dit wel geconstateerd wordt, wordt dit bestraft met een straf uit de 2de categorie. Kortom, dood = dood (verkeersongevallen en dodelijke ongelukken vallen hier ook onder).
 - Indien je onbewust voor een 2de keer wordt doodgeschoten in een gangwar omdat je op een bepaalde plek bent, is dit op eigen risico. Indien men er vanaf weet en je bewust nog een keer shoot, zal dit vallen onder artikel 14.
@@ -364,7 +366,7 @@
 - je mag je collega's niet reviven als zij zijn neergeschoten ook niet als zij een kogelwerend vest dragen. Als zij zijn neergestoken terwijl zijn een steekvest dragen mag je ze reviven. Doe dit wel met roleplay.
 - Het gebruik van vuurwapens door de politie is in de volgende scenario's toegestaan: de verdachte vuurwapen gevaarlijk of mogelijk gevaarlijk is, een collega of burger in gevaar is,
 - Het gebruik van vuurwapens in een achtervolging door de politie is toegestaan mits er op de banden wordt geschoten anders niet! Pas als de auto stilstaat mogen er wapens op de verdachte gericht worden.
-- Het pitten door de politie is toegestaan mits het onder de 130 KM/U is.
+- Het pitten door de politie is toegestaan mits het onder de 150 KM/U is.
 - Het brake checken (het remmen voor een auto die achter je zit) is toegestaan, mits dit realistisch gebeurd.
 - Het preventief fouilleren is toegestaan als er een dreigingsniveau is van 4 of hoger.
 - Het indrukken van de noodknop terwijl er wapens op je worden gericht is niet toegestaan mits je geblindeerde ramen hebt en/of in een gepantserd voertuig zit.
@@ -390,6 +392,7 @@
 
 ### **Artikel 45: Rippen eiland (Straf-categorie: 2)**
 - Op het eiland mag je 75 zakjes per persoon rippen. De regel op het vaste land blijft staan op het rippen van 20 zakjes.
+- Na het rippen mag je niet binnen 60 minuten (1uur) de zelfde persoon nogmaals rippen
 - Op het eiland mag je 30k aan zwart geld rippen.
 - Ieder wapen mag ieder wapen rippen. Je mag diegene daarna ook doodschieten.
 - Kom je wapens tegen met het fouilleren mag je deze afpakken (eigen risico van het meenemen op het eiland).
@@ -398,10 +401,10 @@
 - RDM regel iedereen die op het eiland komt en die geen zaken bij jou doet wegsturen. Indien de persoon in kwestie niet vertrekt sta je in je recht om de persoon te doden.
 - Mensen met wapens in de hand mag je direct doodschieten.
 
-### **Artikel 46: KMAR eiland (Straf-categorie: 2)**
+### **Artikel 46: KMAR/politie eiland (Straf-categorie: 2)**
 - Het is verboden om vanaf het eiland op de patrouillerende schepen of heli’s van de KMAR te schieten. 
 - Het is toegestaan om op binnenkomende schepen en boten te schieten die gang/burger gerelateerd zijn.
-- Het is voor de KMAR niet toegestaan om te schieten op het eiland.
+- De DSI mag speciale operaties uitvoeren op het eiland.
 - Indien je agenten meeneemt naar het eiland, geldt bovenstaande regel niet. Dan staat de KMAR in hun recht om actie te ondernemen.
 
 ### **Artikel 47: (Straf-categorie: 2 voor alle betrokkene)**
