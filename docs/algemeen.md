@@ -389,8 +389,8 @@
 # Eilandregels
 
 ### **Artikel 45: Rippen eiland (Straf-categorie: 2)**
-- Op het eiland mag je 50 zakjes per persoon rippen. De regel op het vaste land blijft staan op het rippen van 20 zakjes.
-- Op het eiland mag je 10k aan zwart geld rippen.
+- Op het eiland mag je 75 zakjes per persoon rippen. De regel op het vaste land blijft staan op het rippen van 20 zakjes.
+- Op het eiland mag je 30k aan zwart geld rippen.
 - Ieder wapen mag ieder wapen rippen. Je mag diegene daarna ook doodschieten.
 - Kom je wapens tegen met het fouilleren mag je deze afpakken (eigen risico van het meenemen op het eiland).
 
@@ -404,30 +404,26 @@
 - Het is voor de KMAR niet toegestaan om te schieten op het eiland.
 - Indien je agenten meeneemt naar het eiland, geldt bovenstaande regel niet. Dan staat de KMAR in hun recht om actie te ondernemen.
 
-### **Artikel 47: Campen/Claimen eiland (Straf-categorie: 2)**
-- Claimen van het eiland is niet toegestaan.
-- Campen van locaties is niet toegestaan.
-
-### **Artikel 48: (Straf-categorie: 2 voor alle betrokkene)**
+### **Artikel 47: (Straf-categorie: 2 voor alle betrokkene)**
 - Op het eiland mogen gangs onderling niet samenwerken, om groepen van 30 tegen 30 te voorkomen.
 - Het vermoorden van burgers op het eiland met een rivaliserende achternaam is niet toegestaan.
 - Het vermoorden van burgers op het eiland met de reden  'dat ze geen zaken bij jou doen' is niet toegestaan.
 -  Het wegsturen van rivaliserende groeperingen is toegestaan op het eiland, mits ze niet weggaan binnen 5 minuten sta je in je recht om ze te vermoorden.
 
-### **Artikel 49: landen met luchtvoertuigen (Straf-categorie: 2 + waarschuwing vliegbrevet)**
+### **Artikel 48 landen met luchtvoertuigen (Straf-categorie: 2 + waarschuwing vliegbrevet)**
 - Het is verplicht om te landen op een helipad of een landingsbaan.
 
 # Aircraftregels
 
-### **Artikel 50 Vliegdekschip (strafcategorie 2)**
+### **Artikel 49 Vliegdekschip (strafcategorie 2)**
 - De Aircraft Carrier is militair, justitieel gebied. Het betreden hiervan is geheel op eigen risico.
 - Op de Aircraft Carrier (vliegdekschip) gelden stedelijke regels.
 - De KMAR/POLITIE heeft in uiterste situaties toestemming om dodelijk vuur te gebruiken.
 - De Aircraft Carrier betreft een NoFlightZone. 
 - Het landen, blijven hangen of andere bewegingen rondom de Aircraft Carrier is geheel op eigen risico.
 
-### **Artikel 51: (Straf-categorie: 1)**
-**Artikel 51: haat veroorzakend gedrag (straf categorie: 1)**
+### **Artikel 50: (Straf-categorie: 1)**
+**Artikel 50: haat veroorzakend gedrag (straf categorie: 1)**
 - Het toxic reageren op doodverklaringen in Twitter valt onder haat veroorzakend gedrag en wordt bestraft volgens categorie 1.
 Voorbeelden onder bovenstaand zijn uitspraken als "L" in Twitter.
 
