@@ -1,32 +1,35 @@
 # Regels
 
 ### **Artikel 1: Cheats (Straf-categorie: 9)**
-   - Een burger die gebruik maakt van software/hulpmiddelen van derde partijen om een voordeel in het spel te krijgen, denk aan (combatpacks, (extern) crosshair) zullen worden bestraft met een straf uit de 9de categorie.
-   - Onder cheats vallen externe programma’s, zoals hack clients (Eulen, Kekhack).
+   - Het gebruik maken van software/hulpmiddelen van derde partijen om een voordeel in het spel te krijgen, denk aan (combatpacks, (extern) crosshair) is niet toegestaan.
+   - Onder cheats vallen externe programma’s, zoals hack clients (Eulen, Kekhack, etc).
 
 ### **Artikel 2: Exploits/bugs (Straf-categorie: 7)**
    - Hieronder wordt verstaan het doelbewust gebruik maken van een bug/exploit die in jou of andermans voordeel werkt.
    - Voorbeelden hiervan zijn:
       * Het moedwillig dupliceren van ingame items.
-      * Het niet aangeven van gedupliceerde items na restarts.
-      * Het gebruik maken van een emotie om aan de andere kant van een muur te komen of uit te breken van bijvoorbeeld de gevangenis.
+      * Het niet aangeven van gedupliceerde items na restarts of bij directe constatering.
+      * Het gebruik maken van een emotie om aan de andere kant van een muur te komen of uit te breken van bijvoorbeeld de gevangenis en/of te gebruiken om te ontsnappen.
       * Handelingen uitvoeren terwijl je dood bent.
+      * Reloggen om zo weer meer healt er bij te krijgen.
    - De bug ‘one punch’ zal bestraft worden met een straf uit de **5de categorie**.
     ➥ Leden van het staff team staan in hun recht om een account wipe goed te keuren, afhankelijk van de bug die gebruikt is.
 
 ### **Artikel 2A: IRL Trade (categorie 9)**
-   - Het verhandelen van items, valuta, diensten of accounts voor echt geld is verboden en zal worden bestraft met een straf uit de 9de categorie.
+   - Het verhandelen van items, valuta, diensten en/of accounts voor echt geld is verboden.
 
 ### **Artikel 3: Alt Characters (Straf-categorie: 9)**
    - Onder een alt character wordt verstaan dat een persoon meerdere accounts aanmaakt om binnen de stad Zuiderveen te spelen.
    - Het is verboden om een alt account aan te maken om vervolgens het banksaldo van dit account te overhandigen aan een speler, op welke manier dan ook.
+   - Het is niet toegestaan te spoofen om op die manier weer toegang te krijgen tot je account op ZuiderVeen.
 
 ### **Artikel 3A: Startersgeld (categorie 9)**
    - Het is niet toegestaan startersgeld aan anderen te geven zonder enige bedoeling zelf te gaan spelen.
+   - Het is niet toegestaan om de speeltijd zonder enige doel af te wachten en dan als nog geld over te maken zonder doel te hebben langer te gaan spelen.
 
 ### **Artikel 4: Bedreigen / intimideren (Straf-categorie: 9)**
-   - Het is ten strengste verboden om een burger te bedreigen of te intimideren met een DDOS aanval.
-   - Het ‘doxen’ of 'ddossen' van burgers of staff leden is verboden en wordt bestraft met een straf uit de 9de categorie.
+   - Het is ten strengste verboden om een burger en/of stafflid te bedreigen of te intimideren met een DDOS aanval.
+   - Het ‘doxen’ of 'ddossen' van burgers en/of staff leden is verboden.
 
 ### **Artikel 5: Fail RP (Straf-categorie: 1)**
    - Onder fail roleplay vallen alle facetten die als een onrealistische situatie kunnen worden ervaren. Eenieder dient zich tijdens het roleplayen het volgende af te vragen: "Zou dit in het echt ook op deze manier kunnen gebeuren".
@@ -62,6 +65,7 @@
       * Gebruik maken van het DEL menu waarbij ID's worden getoond om spelers te vinden.
       * Een speler meenemen naar het eiland om hem daar te doden, met de intentie om de RDM regel te vermijden.
       * Het toepassen van emoties, zoals F5, is niet toegestaan wanneer je beschoten wordt --> emote abuse.
+      * Het in F5 liggen achter een muur om dan wel in thirt person te kunnen kijken en niet op te vallen.
 
 ### **Artikel 7: Karakter breken / OOC (Straf-categorie: 1)** 
    - Het is te allen tijde niet toegestaan om je karakter te breken. Alles onder Out Of Character valt hieronder. Ook woorden als "staff", "broodje", "tickets", "refund", "bug" zijn niet toegestaan.
@@ -71,15 +75,15 @@
 ### **Artikel 8: Copbaiten (Straf-categorie: 1)**
    -  Hieronder wordt verstaan:
       * Het doelbewust uitlokken van reacties van ambtenaren in functie;
-      * Het moedwillig veroorzaken van achtervolgingen zonder illegale praktijken uit te voeren;
-      * Het verstoren van een scenario ongeacht hoe groot of klein;
+      * Het moedwillig veroorzaken van achtervolgingen zonder illegale praktijken uit te voeren of zonder enige goed en/of wapen op zak te hebben;
+      * Het verstoren van een scenario ongeacht hoe groot of klein, denk daarbij aan het telkens heen en weer rijden bij een overval;
       * Het afleiden van ambtenaren, tijdens een overval, valt niet onder copbaiten.
 
 ### **Artikel 9: No value of life (Straf-categorie: 4)**
    - Het is verplicht waarde te hechten aan je leven. Een ieder die geen waarde hecht zal worden bestraft.
    - Enkele voorbeelden van No value of life:
       * Het moedwillig / opzettelijk beëindigen van je eigen leven of dat van een ander met voorbestemde reden om een nieuw leven te kunnen starten.
-      * Het niet luisteren/meewerken terwijl er een wapen op je gericht staat, ongeacht of je in een auto zit of niet.
+      * Het niet luisteren/meewerken terwijl er een wapen op je gericht staat, ongeacht of je in een auto zit of niet je dient direct gehoor te geven en mee te werken.
       * Het indrukken van de noodknop terwijl er een wapen op je gericht staat.
       * Wegrennen terwijl er een slag, stoot of steekwapen op je gericht staat binnen fluistercirkel. Wanneer deze buiten fluistercirkel staat mag je wegrennen.
       * Het ondernemen van acties zoals een wapen trekken, terwijl iemand naast je staat met een wapen in de hand die hij recent heeft gericht.
@@ -96,6 +100,7 @@
    - Iedere speler dient een werkende microfoon te gebruiken in de stad.
    - Indien een microfoon niet werkend is, dient een stafflid te allen tijde mogelijkheden te zoeken om de persoon in kwestie te kunnen bereiken.
    - Wanneer de speler in kwestie kan bewijzen dat de microfoon weer werkende is, krijgt de persoon in kwestie een unban.
+   - Het is verplicht push to talk te gebruiken in de stad, anderen mogen geen last hebben van jou achtergronden.
 
 ### **Artikel 11B: Microfoon (Straf-categorie: 1)**
    - Het gebruiken van voice changer zonder het doen van onderwereld activiteiten is niet toegestaan.
@@ -113,19 +118,21 @@
 
 ### **Artikel 13: VDM (Straf-categorie: 3)**
    - Hieronder wordt verstaan een persoon die opzettelijk inrijdt op een burger met de intentie om de burger te vermoorden of als doel heeft het voertuig als wapen te gebruiken.
-   - In beginsel geldt hiervoor een straf uit de 3de categorie, maar een stafflid kan de keuze maken om afhankelijk van de mate van VDM af te wijken om een hogere straf op te leggen.
+   - Een stafflid kan de keuze maken om afhankelijk van de mate van VDM af te wijken om een hogere straf op te leggen.
 
 ### **Artikel 14: RDM (Straf-categorie: 3)**
-   - Onder RDM wordt verstaan het willekeurig vermoorden van spelers zonder geldige reden. Dit is niet toegestaan en wordt bestraft met een straf uit de derde categorie (3).
-   - Het uitdagen via twitter kan gezien worden als een geldige reden, mits hier bewijsmaterialen van zijn dat het om deze persoon gaat. Twitter media mag je in de stad gebruiken als informatie. Het korps staat in hun recht om de informatie te verwerken in het MEOS-systeem.
-   - Een moord op een persoon die niet wil ‘blaffen’, ‘zingen’ en dergelijke worden gezien als RDM.
-   - Het doelbewust uitdagen van een gang valt onder een geldige moord.
+   - Onder RDM wordt verstaan het willekeurig vermoorden van spelers zonder enige geldige reden. Geen geldige reden kan zijn:
+        * Elkaar een uit maken voor iets zoals sukkel, eikel, jij bent lelijk etc;
+        * Iemand rijd perongeluk tegen je aan;   
+   - Het uitdagen via twitter kan gezien worden als een geldige reden, mits hier bewijsmaterialen van zijn dat het om deze persoon gaat. Twitter media mag je in de stad gebruiken als informatie. Het korps staat in hun recht om de informatie te verwerken.
+   - Een moord op een persoon die niet wil ‘blaffen’, ‘zingen’ , 'dansen' , 'vernederende dingen wilt doen' en dergelijke worden gezien als RDM.
+   - Het doelbewust uitdagen van een gang valt niet onder RDM.
    - Het verbaal provoceren richting andere spelers is op eigen risico. 
    - Een stafflid staat altijd in het recht om een zwaardere straf op te leggen, afhankelijk van de mate van RDM en de historie van RDM’s.
    - Bij een 2e keer zal overgegaan worden op categorie 2 + wapen inleveren. Huidige RDM bans blijven bestaan en worden niet weggehaald bij het doorvoeren van de APV.
 
 ### **Artikel 15: Metagamen (Straf-categorie: 3)**
-   - Informatie verkregen buiten het karakter om (alle informatie die niet verkregen is door jouw karakter binnen ZuiderVeen) mag niet gebruikt worden door het karakter.
+   - Informatie verkregen buiten het karakter om (alle informatie die niet verkregen is door jouw karakter binnen ZuiderVeen) mag niet gebruikt worden door het karakter, denk daarbij aan info die je via discord verkregen heb, buiten de daarvoor bestemde kanalen.
    - Wanneer je in ZuiderVeen bent is het verboden om te screen sharen.
    - Het praten in call tijdens een scenario zal als metagamen worden gezien. Wanneer je met meerdere mensen op ZuiderVeen speelt is het verplicht om jezelf te muten tijdens scenario's.
    - Het versturen van ingame informatie in de ZuiderVeen onderwereld discord wordt gezien als meta en wordt bestraft met een  straf uit de 3de categorie.
@@ -150,7 +157,7 @@
    - Het is op geen enkele manier toegestaan om een motor te pitten.
    - Het is toegestaan om je auto te verkopen via twitter.
    - Het achterlaten van auto's, vaartuigen en heli's/vliegtuigen is niet toegestaan en zal worden bestraft met een ingame boete. De ingame boete hangt af van het geldbedrag wat je hebt. Zie [Delfines](./informatie.html#delfines) voor meer informatie.
-   - Het is niet toegestaan om een lesauto te gebruiken voor andere doeleinden.
+   - Het is niet toegestaan om een lesauto te gebruiken voor andere doeleinden dan de lesronde te rijden. Je mag dus niet van de bepaalde route afwijken.
 
 ### **Artikel 17: GTA style driving (Straf-categorie: 1)**
    - Hieronder wordt verstaan het onrealistisch rijden met je voertuig. Dit is in Zuiderveen verboden.
@@ -158,6 +165,7 @@
       * Stunt jumps nemen.
       * Onrealistisch offroad rijden.
       * Het rammen/onnodig beuken van andere voertuigen zonder reden.
+      * Het gebruik maken van obstakels om zo ergens overheen te jumpen of te komen met je voer/vaar tuig.
    - Wanneer je een of meerdere lekke banden hebt, mag je niet harder dan 130 km/h rijden.
 
 ### **Artikel 18: Illegale activiteiten via twitter (Straf-categorie: 1)**
@@ -166,6 +174,7 @@
      * Het vragen voor witwas;
      * Vragen om drugs locatie te kopen en/of het verkopen;
      * Het aanbieden van wapens.
+     * Het aanbieden van drugs (snoepjes etc)
    - Onder illegale activiteiten valt het vragen van aanwezigheid van gangs in twitter, of het aanwezig zijn als gang.
    - Het is niet toegestaan om vervormingen/synoniemen te gebruiken in Twitter om illegale activiteiten te triggeren. Hierbij kun je bijvoorbeeld denken aan woorden zoals sokken wassen, honkbalspullen, poedersuiker en zakjes snoep.
    - Het is verboden om ingame een reactie te geven op bans/warns die in twitter te zien zijn.
