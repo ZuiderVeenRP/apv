@@ -129,7 +129,7 @@
    - Het doelbewust uitdagen van een gang valt niet onder RDM.
    - Het verbaal provoceren richting andere spelers is op eigen risico. 
    - Een stafflid staat altijd in het recht om een zwaardere straf op te leggen, afhankelijk van de mate van RDM en de historie van RDM’s.
-   - Bij een 2e keer zal overgegaan worden op categorie 2 + wapen inleveren. Huidige RDM bans blijven bestaan en worden niet weggehaald bij het doorvoeren van de APV.
+   - Bij een 2e keer zal overgegaan worden op categorie 4 + wapen inleveren. Huidige RDM bans blijven bestaan en worden niet weggehaald bij het doorvoeren van de APV.
 
 ### **Artikel 15: Metagamen (Straf-categorie: 3)**
    - Informatie verkregen buiten het karakter om (alle informatie die niet verkregen is door jouw karakter binnen ZuiderVeen) mag niet gebruikt worden door het karakter, denk daarbij aan info die je via discord verkregen heb, buiten de daarvoor bestemde kanalen.
