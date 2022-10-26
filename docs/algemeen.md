@@ -296,15 +296,15 @@
 -Slag, stoot of steek wapens mogen NIET geript worden.
 
 (Zware Vuurwapens):
--    Baretta >
--    Desert Eagle >
--    Shotgun >
--    Skorpion >
--    Uzi >
--    P90 >
--    Mini-AK >
--    AK-47 >
--    AKM 
+-  > 1 Baretta >
+-  > 2 Desert Eagle >
+-  > 3 Shotgun >
+-  > 4 Skorpion >
+-  > 5 Uzi >
+-  > 6 P90 >
+-  > 7 Mini-AK >
+-  > 8 AK-47 >
+-  > 9 AKM 
 
 - Wanneer je een wapen wilt rippen moet deze fysiek gezien zijn (met uitzondering op eiland en onderstaand lid).
 - Indien je gezichtsbedekkende kleding of een holster draagt, mag je op elk moment gefouilleerd worden waarbij je wapen dus geript kan worden zonder dat deze fysiek gezien is.
