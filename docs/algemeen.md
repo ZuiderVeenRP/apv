@@ -294,7 +294,7 @@
 ### **Artikel 34: Rippen van wapens (Straf-categorie: 1)**
 - Het rippen van wapens is alleen toegestaan via de onderstaande volgorde.
 - **Slag, stoot of steek wapens mogen NIET geript worden.**
-
+- Je mag hetzelfde soort wapen rippen met dat wapen. (voorbeeld: AKM mag dus een AKM rippen)
 **Vuurwapens**:
  > 1 Baretta > </br>
  > 2 Desert Eagle > </br>
