@@ -250,6 +250,7 @@
 - Minimale aantal politie/kmar in dienst voor een grote bank, jacht of humane labs is 7.
 - Maximale outside shooters:
 > 2 Winkel </br>
+> 3 Juwelier </br>
 > 3 jacht en kleine bank </br>
 > 4 humane labs en grote bank </br>
 - Outside hostages zijn niet toegestaan.
