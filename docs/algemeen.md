@@ -292,11 +292,11 @@
 - Het verbreken van bovenstaand artikel zal leiden tot een gang waarschuwing voor de betreffende gang.
 
 ### **Artikel 34: Rippen van wapens (Straf-categorie: 1)**
--Het rippen van wapens is alleen toegestaan via de onderstaande volgorde.
--Slag, stoot of steek wapens mogen NIET geript worden.
+- Het rippen van wapens is alleen toegestaan via de onderstaande volgorde.
+- **Slag, stoot of steek wapens mogen NIET geript worden.**
 
-(Zware Vuurwapens):
- > 1 Baretta < </br>
+**Vuurwapens**:
+ > 1 Baretta > </br>
  > 2 Desert Eagle > </br>
  > 3 Shotgun > </br>
  > 4 Skorpion > </br>
