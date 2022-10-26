@@ -292,14 +292,22 @@
 - Het verbreken van bovenstaand artikel zal leiden tot een gang waarschuwing voor de betreffende gang.
 
 ### **Artikel 34: Rippen van wapens (Straf-categorie: 1)**
-- Ieder vuurwapen mag ieder vuurwapen rippen. 
-- Voor slag en stootwapens geldt de volgende volgorde voor het rippen:
-> 1 Knuckle duster </br>
-> 2 Machete </br>
-> 3 Stiletto </br>
-> 4 Knuppel </br>
+-Het rippen van wapens is alleen toegestaan via de onderstaande volgorde.
+-Slag, stoot of steek wapens mogen NIET geript worden.
+
+(Zware Vuurwapens):
+-    Baretta >
+-    Desert Eagle >
+-    Shotgun >
+-    Skorpion >
+-    Uzi >
+-    P90 >
+-    Mini-AK >
+-    AK-47 >
+-    AKM 
+
 - Wanneer je een wapen wilt rippen moet deze fysiek gezien zijn (met uitzondering op eiland en onderstaand lid).
-- Indien je een masker, holster of kogelvrij vest draagt, mag je op elk moment gefouilleerd worden waarbij je wapen dus geript kan worden zonder dat deze fysiek gezien is.
+- Indien je gezichtsbedekkende kleding of een holster draagt, mag je op elk moment gefouilleerd worden waarbij je wapen dus geript kan worden zonder dat deze fysiek gezien is.
 - Wanneer je op een motor rijdt geldt een helm niet als masker, anders wel. Het is je eigen verantwoordelijkheid om je helm af te zetten als je van je motor afstapt.
 - Attachments mogen geript worden wanneer je ze op een wapen ziet, op de rug, of tijdens het fouilleren.
 - Discord kanalen (behalve twitter media en instagram media) tellen niet mee als ‘’gezien hebben’’
