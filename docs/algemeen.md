@@ -254,7 +254,6 @@
 > 3 jacht en kleine bank </br>
 > 4 humane labs en grote bank </br>
 - Outside hostages zijn niet toegestaan.
-- Je mag een overval binnenvallen tot de politie aanwezig is. Wanneer politie aanwezig is en je valt een overval binnen zal je bestraft worden met een straf uit de 1ste categorie.
 
 ### **Artikel 32: Onderwereld Spelers (Straf-categorie: 3)**
 - Het is niet toegestaan om op dezelfde locatie (reikwijdte van 500 meter) te rippen binnen een tijdspanne van 30 minuten.
@@ -293,18 +292,21 @@
 
 ### **Artikel 34: Rippen van wapens (Straf-categorie: 1)**
 - Het rippen van wapens is alleen toegestaan via de onderstaande volgorde.
-- **Slag, stoot of steek wapens mogen NIET geript worden.**
 - Je mag hetzelfde soort wapen rippen met dat wapen. (voorbeeld: AKM mag dus een AKM rippen)
 **Vuurwapens**:
- > 1 Baretta > </br>
- > 2 Desert Eagle > </br>
- > 3 Shotgun > </br>
- > 4 Skorpion > </br>
- > 5 Uzi > </br>
- > 6 P90 > </br>
- > 7 Mini-AK > </br>
- > 8 AK-47 > </br>
- > 9 AKM </br>
+ > 1 Knuppel > </br>
+ > 2 Knuckleduster > </br>
+ > 3 Switchblade > </br>
+ > 4 Machete > </br>
+ > 5 Baretta > </br>
+ > 6 Desert Eagle > </br>
+ > 7 Shotgun > </br>
+ > 8 Skorpion > </br>
+ > 9 Uzi > </br>
+ > 10 P90 > </br>
+ > 11 Mini-AK > </br>
+ > 12 AK-47 > </br>
+ > 13 AKM </br>
 
 - Wanneer je een wapen wilt rippen moet deze fysiek gezien zijn (met uitzondering op eiland en onderstaand lid).
 - Indien je gezichtsbedekkende kleding of een holster draagt, mag je op elk moment gefouilleerd worden waarbij je wapen dus geript kan worden zonder dat deze fysiek gezien is.
