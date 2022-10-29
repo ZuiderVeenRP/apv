@@ -28,6 +28,6 @@ Buiten onze main discord hebben we ook een aantal andere discord servers, deze v
 | Discord | Discord Uitnodiging |
 |---|---|
 | ZV Main Discord | [Uitnodiging](https://discord.com/invite/zuiderveen) |
-| ZV Support Discord | [Uitnodiging](https://discord.gg/jbX2PwAQ2a) |
+| ZV Support Discord | [Uitnodiging](https://discord.gg/8cKR38C3XQ) |
 | ZV Onderwereld Discord | [Uitnodiging](https://discord.gg/kEvjrnTNdZ) |
 | ZV Vliegschool Discord | [Uitnodiging](https://discord.gg/vaBBk3Jstb) |
