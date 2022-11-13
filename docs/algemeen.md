@@ -139,8 +139,9 @@
    - Het gebruik maken van informatie uit de porto lijst zal vallen onder metagamen.
    - Het veranderen van naam en in porto gaan van anderen om te zien wie er in zitten of met als doel informatie te gebruiken wat daar wordt besproken is niet toegestaan.
 
-### **Artikel 16: Auto's gebruik (Straf-categorie: 1)**
+### **Artikel 16: Voertuig gebruik (Straf-categorie: 1)**
    - Het pitten boven 130 km/h is niet toegestaan.
+   - Vliegen zonder vliegbrevet is niet toegestaan,
    - Een groter klasse voertuig pitten is niet toegestaan, ongeacht de snelheid. 
    - Een voertuig mag geen hogere categorie pitten of brake checken.
    <ol>
