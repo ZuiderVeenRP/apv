@@ -356,7 +356,9 @@
 - Doordat je jezelf vrij makkelijk in de picture zet, kunnen wij wat strenger zijn tegen streamers, aangezien we live beelden van ze hebben.
 - Mocht je iets zien bij een andere streamer wat je niet bevalt. Spreek dan een stafflid aan of maak een ticket aan.
 - FailRP, RDM, VDM en dat soort zaken on-stream wordt direct bestraft.
-- De naam ZuiderVeen moet in de titel van de stream staan zodat het ook door ons gevonden kan worden.<
+- De naam ZuiderVeen moet in de titel van de stream staan zodat het ook door ons gevonden kan worden.
+- ZuiderVeen in een kwaad daglicht zetten in je stream zal resulteren in een ban.
+- Samenwerken met een hacker, het niet melden terwijl je weet dat er een hacker in de stad is, zal resulteren in een ban.
 
 ### **Artikel 40: Erotische roleplay (Straf-categorie: 5)**
 - Het is niet toegestaan om roleplay volgens artikel 40 uit te voeren. 
