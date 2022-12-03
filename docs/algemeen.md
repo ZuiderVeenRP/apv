@@ -232,6 +232,15 @@
    * Voertuigen (ook niet iemand dwingen zijn auto sleutel aan jou te geven);
    * Onder dwang iemand zijn huis binnen treden en alles leegroven. Wanneer een speler zelf de keuze maakt om iemand binnen te laten valt dit onder je eigen verantwoordelijkheid.
 
+### **Artikel 29.1: Criminele groeperingen (Straf-categorie: 1)**
+- Wanneer er meer dan 5 personen mee doen aan een scenario, zal dit gezien worden als een criminele groepering en zal deze groep zich moeten houden aan de onderwereld regels. 
+- Onder criminele scenario's wordt verstaan:
+   * Het hunten met andere gangs/groeperingen op personen van andere gangs en/of groeperingen en/of overheidspersonen/instanties;
+   * Het deelnemen aan een onderwereld event;
+   * Mengen met criminele zaken om op deze wijzen andere gang waarmee samen wordt gewerkt te ondersteunen.
+- Enige deelnemer die deze regels overtreden zal worden bestraft met de daarvoor bestemde categorie, bij herhaling van deze overtredingen zal de straf met elk categorie verhoogd worden.
+- (officiele/onofficiele)Gangs mogen met elkaar samen werken mits deze "ally" zijn met elkaar, en daarvoor zal bovenstaand komen te vervallen.
+
 ### **Artikel 30: Oplichten en scammen (Straf-categorie: 1)**
 - Het is niet toegestaan om te scammen met voertuigen.
 - Het beroven en oplichten van spelers is toegestaan bij een aantal van 2 politieagenten of Kmar.
