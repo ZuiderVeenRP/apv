@@ -393,6 +393,14 @@
 - Het is niet toegestaan om als hulpdienst criminele activiteiten uit te voeren, zowel in als uit dienst niet.
 - Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan.
 
+### **Artikel 44: weggeven van goederen bij het stoppen (Straf categorie 9)**
+- Het weggeven en aannemen van goederen, van een speler die stopt, is niet toegestaan en zal worden bestraft met een permanente ban.
+
+### **Artikel 45: helicopter gebruik bij scenario's (Zie regels)**
+- Elk bestuurder van een helicopter dient zich te houden aan de daarvoor opgelegde regels vanuit de vliegschool.
+- Wanneer je gevorderd wordt door een overheidsinstantie, dien je hier aan te voldoen. Bij het niet voldoen zal straf-categorie 2 opgelegd worden.
+- De bestuurder van een helicopter dient ten alle tijden weg te vliegen wanneer er op hem/haar geschoten wordt in de lucht. Bij het niet voldoen zal straf-categorie 2 opgelegd worden.
+
 ### **Regels Politie / KMar**
 - Bij een winkeloverval bepaald de OvD wat de inzet qua politie/kmar zal zijn, wanneer geen OvD aanwezig is zal de hoogste aanwezig binnen het korps dit op zich nemen. Let er op dat dit wel realistisch gebeurt. (voorbeeld, geen 5 DSI bij en kleine winkeloverval.)
 - je mag je collega's niet reviven als zij zijn neergeschoten ook niet als zij een kogelwerend vest dragen. Als zij zijn neergestoken terwijl zijn een steekvest dragen mag je ze reviven. Doe dit wel met roleplay.
@@ -415,62 +423,60 @@
 - Bij het maken van een melding moet je de locatie er bij vermelden anders word je melding niet behandeld.
 - Het afsluiten van abonnementen kan uitsluitend bij hoofd-monteur of hoger.
 - Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan. Dit zal bestraft worden met straf categorie 3.
-
-### **Artikel 44: weggeven van goederen bij het stoppen (Straf categorie 9)**
-- Het weggeven en aannemen van goederen, van een speler die stopt, is niet toegestaan en zal worden bestraft met een permanente ban.
 </br>
 
 # Eilandregels
 
-### **Artikel 45: Rippen eiland (Straf-categorie: 2)**
+### **Artikel 46: Rippen eiland (Straf-categorie: 2)**
 - Op het eiland mag je 75 zakjes per persoon rippen. De regel op het vaste land blijft staan op het rippen van 20 zakjes.
 - Na het rippen mag je niet binnen 60 minuten (1uur) de zelfde persoon nogmaals rippen
 - Op het eiland mag je 30k aan zwart geld rippen.
 - Ieder wapen mag ieder wapen rippen. Je mag diegene daarna ook doodschieten.
 - Kom je wapens tegen met het fouilleren mag je deze afpakken (eigen risico van het meenemen op het eiland).
 
-### **Artikel 45.1: RDM eiland (Straf-categorie: 1, afhankelijk aantal bans)**
+### **Artikel 46.1: RDM eiland (Straf-categorie: 1, afhankelijk aantal bans)**
 - RDM regel iedereen die op het eiland komt en die geen zaken bij jou doet wegsturen. Indien de persoon in kwestie niet vertrekt sta je in je recht om de persoon te doden.
 - Mensen met wapens in de hand mag je direct doodschieten.
 
-### **Artikel 46: KMAR/politie eiland (Straf-categorie: 2)**
+### **Artikel 47: KMAR/politie eiland (Straf-categorie: 2)**
 - Het is verboden om vanaf het eiland op de patrouillerende schepen of heli’s van de KMAR te schieten. 
 - Het is toegestaan om op binnenkomende schepen en boten te schieten die gang/burger gerelateerd zijn.
 - De DSI mag speciale operaties uitvoeren op het eiland.
 - Indien je agenten meeneemt naar het eiland, geldt bovenstaande regel niet. Dan staat de KMAR in hun recht om actie te ondernemen.
 
-### **Artikel 47: (Straf-categorie: 2 voor alle betrokkene)**
+### **Artikel 48: (Straf-categorie: 2 voor alle betrokkene)**
 - Op het eiland mogen gangs onderling niet samenwerken, om groepen van 30 tegen 30 te voorkomen.
 - Het vermoorden van burgers op het eiland met een rivaliserende achternaam is niet toegestaan.
 - Het vermoorden van burgers op het eiland met de reden  'dat ze geen zaken bij jou doen' is niet toegestaan.
 -  Het wegsturen van rivaliserende groeperingen is toegestaan op het eiland, mits ze niet weggaan binnen 5 minuten sta je in je recht om ze te vermoorden.
 
-### **Artikel 48 landen met luchtvoertuigen (Straf-categorie: 2 + waarschuwing vliegbrevet)**
+### **Artikel 49 landen/vliegen met luchtvoertuigen (Straf-categorie: 2 + waarschuwing vliegbrevet)**
 - Het is verplicht om te landen op een helipad of een landingsbaan.
+- Een helicopter mag enkel beschoten worden wanneer deze zich bevind boven het eiland gebied, hiervoor geldt de regel van het schieten op een helicopter niet.
 
 # Aircraftregels
 
-### **Artikel 49 Vliegdekschip (strafcategorie 2)**
+### **Artikel 50 Vliegdekschip (strafcategorie 2)**
 - De Aircraft Carrier is militair, justitieel gebied. Het betreden hiervan is geheel op eigen risico.
 - Op de Aircraft Carrier (vliegdekschip) gelden stedelijke regels.
 - De KMAR/POLITIE heeft in uiterste situaties toestemming om dodelijk vuur te gebruiken.
 - De Aircraft Carrier betreft een NoFlightZone. 
 - Het landen, blijven hangen of andere bewegingen rondom de Aircraft Carrier is geheel op eigen risico.
 
-### **Artikel 50: (Straf-categorie: 1)**
-**Artikel 50: haat veroorzakend gedrag (straf categorie: 1)**
+### **Artikel 51: (Straf-categorie: 1)**
+**Artikel 51: haat veroorzakend gedrag (straf categorie: 1)**
 - Het toxic reageren op doodverklaringen in Twitter valt onder haat veroorzakend gedrag en wordt bestraft volgens categorie 1.
 Voorbeelden onder bovenstaand zijn uitspraken als "L" in Twitter.
 
-**Artikel 51.1: haat veroorzakend gedrag in discord (straf categorie: 1)**
+**Artikel 52.1: haat veroorzakend gedrag in discord (straf categorie: 1)**
 - Het toxic reageren op algemene zaken naar de bovenwereld of onderwereld wordt niet meer getolereerd.
 Discussies voeren mag, maar voorlopig vindt er meer vervelend gedrag naar elkaar.
 
-**Artikel 51.2: haat veroorzakend gedrag in discord (straf categorie: 1)**
+**Artikel 52.2: haat veroorzakend gedrag in discord (straf categorie: 1)**
 - Indien je het niet eens bent met een verkregen straf is het onnodig om in de algemene discord het stafflid belachelijk te maken of een discussie erover te beginnen.
 Hier hebben we ons ticketsysteem voor.
 
-### **Artikel 52: het stelen van overheidsvoertuigen (straf-categorie: 1)**
+### **Artikel 53: het stelen van overheidsvoertuigen (straf-categorie: 1)**
 - Het is toegestaan om overheidsvoertuigen te stelen tijdens een achtervolging om weg te komen.
 - Het is niet toegestaan om zonder reden een overheidsvoertuig te stelen.
 - Het is niet toegestaan om bulletproof auto's te stelen.
