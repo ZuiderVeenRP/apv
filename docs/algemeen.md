@@ -83,9 +83,7 @@
    - Het is verplicht waarde te hechten aan je leven. Een ieder die geen waarde hecht zal worden bestraft.
    - Enkele voorbeelden van No value of life:
       * Het moedwillig / opzettelijk beëindigen van je eigen leven of dat van een ander met voorbestemde reden om een nieuw leven te kunnen starten.
-      * Het niet luisteren/meewerken terwijl er een wapen op je gericht staat, ongeacht of je in een auto zit of niet je dient direct gehoor te geven en mee te werken.
       * Het indrukken van de noodknop terwijl er een wapen op je gericht staat.
-      * Wegrennen terwijl er een slag, stoot of steekwapen op je gericht staat binnen fluistercirkel. Wanneer deze buiten fluistercirkel staat mag je wegrennen.
       * Het ondernemen van acties zoals een wapen trekken, terwijl iemand naast je staat met een wapen in de hand die hij recent heeft gericht.
    - De range van gunpoint moet minimaal op 2e voice range zijn, alles daarbuiten wordt gezien als niet verstaanbaar en is je eigen verantwoordelijkheid wanneer het anders verloopt.
    - Wanneer dit artikel vaker dan 1x eerder is overtreden staat een stafflid in zijn/haar recht om een wapen in te nemen.
@@ -301,22 +299,8 @@
 - Het verbreken van bovenstaand artikel zal leiden tot een gang waarschuwing voor de betreffende gang.
 
 ### **Artikel 34: Rippen van wapens (Straf-categorie: 1)**
-- Het rippen van wapens is alleen toegestaan via de onderstaande volgorde.
-- Je mag hetzelfde soort wapen rippen met dat wapen. (voorbeeld: AKM mag dus een AKM rippen)
-**Vuurwapens**:
- > 1 Knuppel > </br>
- > 2 Knuckleduster > </br>
- > 3 Switchblade > </br>
- > 4 Machete > </br>
- > 5 Baretta > </br>
- > 6 Desert Eagle > </br>
- > 7 Shotgun > </br>
- > 8 Skorpion > </br>
- > 9 Uzi > </br>
- > 10 P90 > </br>
- > 11 Mini-AK > </br>
- > 12 AK-47 > </br>
- > 13 AKM </br>
+- Het rippen van wapens mag met elk soort wapen.
+- Het weg rennen van en/of tijdens een rip is toegestaan maar geheel op eigen risico en zal ook NIET gerefund worden.
 
 - Wanneer je een wapen wilt rippen moet deze fysiek gezien zijn (met uitzondering op eiland en onderstaand lid).
 - Indien je gezichtsbedekkende kleding of een holster draagt, mag je op elk moment gefouilleerd worden waarbij je wapen dus geript kan worden zonder dat deze fysiek gezien is.
