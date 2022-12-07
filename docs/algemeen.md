@@ -375,7 +375,7 @@
 - Het is te allen tijde niet toegestaan om corrupt te zijn. Als je dit wel doet ben je per direct ontslagen en volgt er een straf uit de 6de categorie.
 - Het oproepen van collega's via discord omdat er bijvoorbeeld een overval is valt onder "Metagamen".
 - Het in dienst gaan zonder de correcte dienstkleding is ten strengste verboden.
-- Het is niet toegestaan om als hulpdienst criminele activiteiten uit te voeren, zowel in als uit dienst niet.
+- Het is niet toegestaan om als hulpdienst criminele activiteiten uit te voeren, zowel in als uit dienst niet. Dit zal bestraft worden met straf-categorie 6.
 - Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan.
 
 ### **Artikel 44: weggeven van goederen bij het stoppen (Straf categorie 9)**
