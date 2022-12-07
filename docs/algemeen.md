@@ -88,7 +88,7 @@
    - De range van gunpoint moet minimaal op 2e voice range zijn, alles daarbuiten wordt gezien als niet verstaanbaar en is je eigen verantwoordelijkheid wanneer het anders verloopt.
    - Wanneer dit artikel vaker dan 1x eerder is overtreden staat een stafflid in zijn/haar recht om een wapen in te nemen.
    - NVOL moment gaat in op het moment dat je het wapen duidelijk richt op de persoon, niet als je het wapen enkel pakt.
-   - Enkel alleen bij het rippen komt de NVOL rule te vervallen, er dient dus altijd nog geluisterd te worden naar de politie/kmar
+   - Bij het rippen en/of in een shootout komt de NVOL regel te vervallen. Een refund aanvraag omdat je rip niet goed is verlopen omdat de ander persoon jou als eerste dood heeft is dus niet meer van toepassing. Naar overheidsdiensten dient altijd nog geluisterd te worden. 
 
 ### **Artikel 10: New life rule (Straf-categorie: 1)**
    - Wanneer een speler in een roleplay scenario is doodgegaan, dient een speler **alles** te vergeten uit dat scenario.
@@ -199,7 +199,7 @@
 - Het verlaten van de stad, nadat je karakter overleden is wordt gezien als combatloggen.
 
 ### **Artikel 23: Stream sniping (Straf-categorie: 3)**
-- Het gebruiken van informatie vanuit streamers/content creators wordt gezien als stream sniping.
+- Het gebruiken van informatie vanuit streamers/content creators van welk platform dan ook wordt gezien als stream sniping.
 
 ### **Artikel 24: Gebruik job voertuigen bij non whitelisted jobs (Straf-categorie:1)**
 - Het is niet toegestaan om met het voertuig van jouw baan andere werkzaamheden uit te voeren.
@@ -246,7 +246,7 @@
 - Op een bovenwereld gerelateerde scam zit een limiet van €30.000.
 - Wanneer je een voertuig koopt, ben je zelf verantwoordelijk om te controleren of de aangeboden upgrades van toepassing zijn bij het uitwisselen van het geldbedrag en de auto, dit zal via een request uitgevoerd gaan worden.
 - Het uitlenen van bezittingen is op eigen risico. Hier refunden we niet voor (er vindt ook geen refund/transfer plaats, wanneer iemand gebanned is.)
-- Na het oplichten is het niet toegestaan om de desbetreffende burger te vermoorden.
+- Na het oplichten/scammen is het niet toegestaan om de desbetreffende burger te vermoorden.
 
 ### **Artikel 31: Overvallen op winkels en banken (Straf-categorie: 2)**
 - Er is geen maximum aan overvallers in een kleine bank, grote bank, juwelier of winkel.
