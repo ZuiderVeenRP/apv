@@ -88,7 +88,7 @@
    - De range van gunpoint moet minimaal op 2e voice range zijn, alles daarbuiten wordt gezien als niet verstaanbaar en is je eigen verantwoordelijkheid wanneer het anders verloopt.
    - Wanneer dit artikel vaker dan 1x eerder is overtreden staat een stafflid in zijn/haar recht om een wapen in te nemen.
    - NVOL moment gaat in op het moment dat je het wapen duidelijk richt op de persoon, niet als je het wapen enkel pakt.
-   - Bij het rippen en/of in een shootout komt de NVOL regel te vervallen. Een refund aanvraag omdat je rip niet goed is verlopen omdat de ander persoon jou als eerste dood heeft is dus niet meer van toepassing. Naar overheidsdiensten dient altijd nog geluisterd te worden. 
+   - Enkel alleen bij het rippen zal de NVOL komen te vervallen. De NVOL geldt wel wanneer de politie jou onder schot houd zoals bij bijvoorbeeld een BTGV. 
 
 ### **Artikel 10: New life rule (Straf-categorie: 1)**
    - Wanneer een speler in een roleplay scenario is doodgegaan, dient een speler **alles** te vergeten uit dat scenario.
