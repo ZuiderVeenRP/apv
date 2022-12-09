@@ -86,9 +86,10 @@
       * Het indrukken van de noodknop terwijl er een wapen op je gericht staat.
       * Het ondernemen van acties zoals een wapen trekken, terwijl iemand naast je staat met een wapen in de hand die hij recent heeft gericht.
    - De range van gunpoint moet minimaal op 2e voice range zijn, alles daarbuiten wordt gezien als niet verstaanbaar en is je eigen verantwoordelijkheid wanneer het anders verloopt.
-   - Wanneer dit artikel vaker dan 1x eerder is overtreden staat een stafflid in zijn/haar recht om een wapen in te nemen.
    - NVOL moment gaat in op het moment dat je het wapen duidelijk richt op de persoon, niet als je het wapen enkel pakt.
-   - Enkel alleen bij het rippen zal de NVOL komen te vervallen. De NVOL geldt wel wanneer de politie jou onder schot houd zoals bij bijvoorbeeld een BTGV. 
+   - Wanneer er iemand met een slag en/of steekwapen voor je staat MAG je weg rennen ongeacht de praatcirkel, dit zal niet gezien worden als NVOL. LET OP! Dit is wel volledig op eigen risco en zal dus ook geen refund voor gegeven worden.
+   - Wanneer er iemand met een vuurwapen (van welk kaliber dan ook) voor je staat, dien je ten alle tijden mee te werken.
+   - Wanneer dit artikel vaker dan 1x eerder is overtreden staat een stafflid in zijn/haar recht om een wapen in te nemen. 
 
 ### **Artikel 10: New life rule (Straf-categorie: 1)**
    - Wanneer een speler in een roleplay scenario is doodgegaan, dient een speler **alles** te vergeten uit dat scenario.
