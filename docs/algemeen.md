@@ -182,7 +182,7 @@
    
 ### **Artikel 19: Overheidskleding dragen (Straf-categorie: 1)**
    - Jezelf voordoen als overheidspersoneel is niet toegestaan.
-   - Het dragen van kogelwerende vesten met een politie/kmar livery is niet toegestaan.
+   - Het dragen van kogelwerende vesten met een politie/kmar logo of welke valt onder overheidsdragende vesten is niet toegestaan.
    - Het dragen van ANWB en/of Ambulance kleding en/of accessoires, zoals tassen is niet toegestaan.
 
 ### **Artikel 20: Schelden/beledigen van spelers of staff leden (Straf-categorie: 5)**
