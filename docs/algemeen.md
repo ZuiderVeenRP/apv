@@ -387,30 +387,6 @@
 - Wanneer je gevorderd wordt door een overheidsinstantie, dien je hier aan te voldoen. Bij het niet voldoen zal straf-categorie 2 opgelegd worden.
 - De bestuurder van een helicopter dient ten alle tijden weg te vliegen wanneer er op hem/haar geschoten wordt in de lucht. Bij het niet voldoen zal straf-categorie 2 opgelegd worden.
 
-### **Regels Politie / KMar**
-- Bij een winkeloverval bepaald de OvD wat de inzet qua politie/kmar zal zijn, wanneer geen OvD aanwezig is zal de hoogste aanwezig binnen het korps dit op zich nemen. Let er op dat dit wel realistisch gebeurt. (voorbeeld, geen 5 DSI bij en kleine winkeloverval.)
-- je mag je collega's niet reviven als zij zijn neergeschoten ook niet als zij een kogelwerend vest dragen. Als zij zijn neergestoken terwijl zijn een steekvest dragen mag je ze reviven. Doe dit wel met roleplay.
-- Het gebruik van vuurwapens door de politie is in de volgende scenario's toegestaan: de verdachte vuurwapen gevaarlijk of mogelijk gevaarlijk is, een collega of burger in gevaar is,
-- Het gebruik van vuurwapens in een achtervolging door de politie is toegestaan mits er op de banden wordt geschoten anders niet! Pas als de auto stilstaat mogen er wapens op de verdachte gericht worden.
-- Het pitten door de politie is toegestaan mits het onder de 150 KM/U is.
-- Het brake checken (het remmen voor een auto die achter je zit) is toegestaan, mits dit realistisch gebeurd.
-- Het preventief fouilleren is toegestaan als er een dreigingsniveau is van 4 of hoger.
-- Het indrukken van de noodknop terwijl er wapens op je worden gericht is niet toegestaan mits je geblindeerde ramen hebt en/of in een gepantserd voertuig zit.
-- Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan.
-- Je mag alleen zware wapens gebruiken als je in dienst bent als DSI anders is dit niet toegestaan, met uitzondering van de reguliere eenheden van de KMAR met MP5.
-- Je mag alleen uit een helikopter schieten als je van een speciale eenheid bent. Dodelijk vuur mag uit een helikopter gebruikt worden, indien er schoten zijn gelost op andere collega's van het korps of KMAR.
-
-### **Wapens per categorie:**
-- Categorie 1 (Slag, stoot en steekwapens): - Knuppel - Knuckle duster - Wapenstok (KMAR/Politie) - Switchblade - Machete
-- Categorie 2 (Lichte vuurwapens): - Taser (KMAR/Politie) - Walter P99 (KMAR/Politie) - Glock G17 (KMAR/Politie) - Baretta - MP5 (KMAR/Dienst Speciale Interventies)
-- Categorie 3 (Zware vuurwapens): - Desert Eagle - Shotgun - Uzi - P90 - Mini-AK - Ak-47 - HK416 (Dienst Speciale Interventies) - Sniper rifle (Dienst Speciale Interventies)
-
-### **Regels Anwb**
-- Bij het maken van een melding moet je de locatie er bij vermelden anders word je melding niet behandeld.
-- Het afsluiten van abonnementen kan uitsluitend bij hoofd-monteur of hoger.
-- Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan. Dit zal bestraft worden met straf categorie 3.
-</br>
-
 # Eilandregels
 
 ### **Artikel 46: Rippen eiland (Straf-categorie: 2)**
@@ -467,3 +443,30 @@ Hier hebben we ons ticketsysteem voor.
 - Het is niet toegestaan om zonder reden een overheidsvoertuig te stelen.
 - Het is niet toegestaan om bulletproof auto's te stelen.
 - Je kan alleen een overheidsvoertuig stellen indien je een wapen op zak hebt.
+<br />
+<br />
+
+### **Regels Politie / KMar**
+- Bij een winkeloverval bepaald de OvD wat de inzet qua politie/kmar zal zijn, wanneer geen OvD aanwezig is zal de hoogste aanwezig binnen het korps dit op zich nemen. Let er op dat dit wel realistisch gebeurt. (voorbeeld, geen 5 DSI bij en kleine winkeloverval.)
+- Je mag je collega's niet reviven als zij zijn neergeschoten ook niet als zij een kogelwerend vest dragen. Als zij zijn neergestoken terwijl zijn een steekvest dragen mag je ze reviven. Doe dit wel met roleplay, de collega dient dan als nog naar het ziekenhuis te gaan en mag ook niet meer aan het zelfde scenario deelnemen.
+- Bij het dood gaan, dermate gewond raken dat ambulance nodig is of een arts, mag de gewonde agent niet meer deelnemen aan het scenario.
+- Het gebruik van vuurwapens door de politie is in de volgende scenario's toegestaan: de verdachte vuurwapen gevaarlijk of mogelijk gevaarlijk is, een collega of burger in gevaar is, let op! een politie/kmar agent is ten alle tijden verplicht eerst andere middelen in te zetten tenzij niet anders kan, tevens is een verbale waarschuwing verplicht naar de verdachte(n) toe dat er vuurwapens gericht zijn en deze gebruikt zullen worden indien de verdachte(n) zijn/haar wapen trekt of omstanders,
+- Het gebruik van vuurwapens in een achtervolging door de politie is niet toegestaan tenzij er vanuit een ander eerst geschoten word! Pas als de auto stilstaat mogen er wapens op de verdachte gericht worden. Let op! Richten betekend niet direct vuren.
+- Het pitten door de politie is toegestaan mits het onder de 130 KM/U is.
+- Het brake checken (het remmen voor een auto die achter je zit) is toegestaan, mits dit realistisch gebeurd.
+- Het preventief fouilleren is toegestaan als er een dreigingsniveau is van 4 of hoger.
+- Het indrukken van de noodknop terwijl er wapens op je worden gericht is niet toegestaan mits je geblindeerde ramen hebt en/of in een gepantserd voertuig zit.
+- Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan.
+- Zware wapens mogen enkel door de daarvoor opgeleiden eenheden gebruikt worden.
+
+
+### **Wapens per categorie:**
+- Categorie 1 (Slag, stoot en steekwapens): - Knuppel - Knuckle duster - Wapenstok (KMAR/Politie) - Switchblade - Machete
+- Categorie 2 (Lichte vuurwapens): - Taser (KMAR/Politie) - Walter P99 (KMAR/Politie) - Glock G17 (KMAR/Politie) - Baretta - MP5 (KMAR/Dienst Speciale Interventies)
+- Categorie 3 (Zware vuurwapens): - Desert Eagle - Shotgun - Uzi - P90 - Mini-AK - Ak-47 - HK416 (Dienst Speciale Interventies) - Sniper rifle (Dienst Speciale Interventies)
+
+### **Regels Anwb**
+- Bij het maken van een melding moet je de locatie er bij vermelden anders word je melding niet behandeld.
+- Het afsluiten van abonnementen kan uitsluitend bij hoofd-monteur of hoger.
+- Het onnodig rekeningen sturen dan bedoel is, is niet toegestaan en zal bestraft worden met straf categorie 3.
+
