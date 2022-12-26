@@ -277,7 +277,7 @@
 - Op wapens, attachments en kogels staan geen limieten.
 - Het scammen van hulpdiensten als ze in dienst zijn is niet toegestaan.
 - Witwassers overvallen is enkel toegestaan wanneer er gezien is dat de persoon in het desbetreffende voertuig rijdt en/of op de locatie een bestemde handeling doet.
-- Je mag al het zwart geld rippen wat de groep witwassers bij zich hebben. Dit geldt ook voor de bijrijdende voertuigen/convooi.
+- Je mag al het zwart geld rippen wat de groep witwassers bij zich hebben, of het wit geld wanneer je bewijs hebt dat iemand bezig is met witwassen. Dit geldt ook voor de bijrijdende voertuigen/convooi.
 - Het rippen van witwassers is toegestaan met 0 politie en 0 kmar.
 - Elke gang mag maximaal 10 friends hebben.
 - Het omzeilen van de maximale aantal leden van een groepering (20), leidt tot directe ontbinding van de gang en/of officieelheid van de gang.
