@@ -56,6 +56,8 @@
    - Praten terwijl je dood bent is niet toegestaan. Wanneer je op een manier gedood wordt dat tegen de server regels is, maak je een report aan.
    - Hij en/of zij die een scenario vormt waarbij eigen belang en niet dat van een ander in acht genomen wordt en/of waarbij de roleplay van anderen ingevuld wordt
      voor eigen belangen en tot onrealistische dwang de scenario veranderd zal gezien worden als Fail RP.
+   - Wanneer een helikopter/vliegtuig gevorderd wordt door de politie en/of beschoten wordt door een ander, dient deze direct het gebied te verlaten en mag niet terug
+     komen in dat gebied. Let op! wanneer er vanuit dat scenario een achtervolging plaats vind mag de helikopter wel mee doen aan de achtervolging.
 
 ### **Artikel 6: Powergamen (Straf-categorie: 1)**
    - Het opzettelijk veranderen van een scenario door onrealistische componenten toe te voegen, waardoor het voor de andere partij niet realistisch te spelen is. 
