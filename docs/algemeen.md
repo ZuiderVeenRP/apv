@@ -355,12 +355,11 @@
 - FailRP, RDM, VDM en dat soort zaken on-stream wordt direct bestraft.
 - De naam ZuiderVeen moet in de titel van de stream staan zodat het ook door ons gevonden kan worden.
 - ZuiderVeen in een kwaad daglicht zetten in je stream zal resulteren in een ban.
-- Samenwerken met een hacker, het niet melden terwijl je weet dat er een hacker in de stad is, zal resulteren in een ban.
+- Samenwerken met een hacker of het niet melden terwijl je weet dat er een hacker in de stad is, zal resulteren in een ban.
 
 ### **Artikel 40: Erotische roleplay (Straf-categorie: 5)**
 - Het is niet toegestaan om roleplay volgens artikel 40 uit te voeren. 
 - Een stafflid kan een uitzondering maken in een situatie, zoals het dansen in een stripclub.  
-- Houd je hier niet aan? Dan zal er een straf volgen uit de 5de categorie.
 
 ### **Artikel 41: Voordoen als overheidsmedewerker (Straf-categorie: 1)** 
 - Het is niet toegestaan om je voor te doen als een overheidsmedewerker met/zonder de kleding. 
