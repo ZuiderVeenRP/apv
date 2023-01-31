@@ -432,15 +432,16 @@
 - Het toxic reageren op doodverklaringen in Twitter valt onder haat veroorzakend gedrag en wordt bestraft volgens categorie 1.
 Voorbeelden onder bovenstaand zijn uitspraken als "L" in Twitter.
 
-**Artikel 52.1: haat veroorzakend gedrag in discord (straf categorie: 1)**
+**Artikel 51.1: haat veroorzakend gedrag in discord (straf categorie: 1)**
 - Het toxic reageren op algemene zaken naar de bovenwereld of onderwereld wordt niet meer getolereerd.
 Discussies voeren mag, maar voorlopig vindt er meer vervelend gedrag naar elkaar.
+- Het toxic reageren in discord in elk kanaal, zal worden bestraft met straf categorie 1 en na het herhalen hiervan kan de straf categorie verhoogd worden.
 
-**Artikel 52.2: haat veroorzakend gedrag in discord (straf categorie: 1)**
+**Artikel 51.2: haat veroorzakend gedrag in discord (straf categorie: 1)**
 - Indien je het niet eens bent met een verkregen straf is het onnodig om in de algemene discord het stafflid belachelijk te maken of een discussie erover te beginnen.
 Hier hebben we ons ticketsysteem voor.
 
-### **Artikel 53: het stelen van overheidsvoertuigen (straf-categorie: 1)**
+### **Artikel 52: het stelen van overheidsvoertuigen (straf-categorie: 1)**
 - Het is toegestaan om overheidsvoertuigen te stelen tijdens een achtervolging om weg te komen.
 - Het is niet toegestaan om zonder reden een overheidsvoertuig te stelen.
 - Het is niet toegestaan om bulletproof auto's te stelen.
@@ -460,6 +461,7 @@ Hier hebben we ons ticketsysteem voor.
 - Het indrukken van de noodknop terwijl er wapens op je worden gericht is niet toegestaan mits je geblindeerde ramen hebt en/of in een gepantserd voertuig zit.
 - Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan.
 - Zware wapens mogen enkel door de daarvoor opgeleiden eenheden gebruikt worden.
+- Het leaken van documenten/informatie in en/of uitdienst, na het uit dienst treden, is niet toegestaan en zal worden bestraft met een straf volgens categorie 4.
 
 
 ### **Wapens per categorie:**
