@@ -7,12 +7,12 @@
    - Hieronder wordt verstaan het doelbewust gebruik maken van een bug/exploit die in jou of andermans voordeel werkt.
    - Voorbeelden hiervan zijn:
       * Het moedwillig dupliceren van ingame items.
-      * Het niet aangeven van gedupliceerde items na restarts of bij directe constatering.
-      * Het gebruik maken van een emotie om aan de andere kant van een muur te komen of uit te breken van bijvoorbeeld de gevangenis en/of te gebruiken om te ontsnappen.
+      * Het niet aangeven van gedupliceerde items na server restarts/crashes of bij directe constatering.
+      * Het gebruik maken van een emote om aan de andere kant van een muur/deur te komen of uit te breken van bijvoorbeeld de gevangenis en/of te gebruiken om te ontsnappen.
       * Handelingen uitvoeren terwijl je dood bent.
-      * Reloggen om zo weer meer healt er bij te krijgen.
-   - De bug ‘one punch’ zal bestraft worden met een straf uit de **5de categorie**.
-    ➥ Leden van het staff team staan in hun recht om een account wipe goed te keuren, afhankelijk van de bug die gebruikt is.
+      * Reloggen om zo weer meer health er bij te krijgen.
+   - De bug ‘one punch’ zal bestraft worden met een straf volgens de **5de categorie**.
+   - Wanneer er sprake is van gedupliceerde items/geld, volgt er een straf van zowel de 7de als de 8ste categorie.
 
 ### **Artikel 2A: IRL Trade (categorie 9)**
    - Het verhandelen van items, valuta, diensten en/of accounts voor echt geld is verboden.
