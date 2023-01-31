@@ -470,5 +470,5 @@ Hier hebben we ons ticketsysteem voor.
 ### **Regels Anwb**
 - Bij het maken van een melding moet je de locatie er bij vermelden anders word je melding niet behandeld.
 - Het afsluiten van abonnementen kan uitsluitend bij hoofd-monteur of hoger.
-- Het onnodig rekeningen sturen dan bedoel is, is niet toegestaan en zal bestraft worden met straf categorie 3.
+- Het onnodig rekeningen sturenis niet toegestaan en zal bestraft worden met een straf volgens de 3de categorie.
 
