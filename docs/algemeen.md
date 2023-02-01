@@ -170,16 +170,16 @@
       * Het gebruik maken van obstakels om zo ergens overheen te jumpen of te komen met je voer/vaar tuig.
    - Wanneer je een of meerdere lekke banden hebt, mag je niet harder dan 130 km/h rijden.
 
-### **Artikel 18: Illegale activiteiten via twitter (Straf-categorie: 1)**
-   - Het opzetten en/of uitvoeren van criminele activiteiten via Twitter is niet toegestaan.
+### **Artikel 18: Illegale activiteiten via twitter/instagram (Straf-categorie: 1)**
+   - Het opzetten en/of uitvoeren van criminele activiteiten via Twitter/instagram is niet toegestaan.
    - Voorbeeld hiervan zijn: 
      * Het vragen voor witwas;
      * Vragen om drugs locatie te kopen en/of het verkopen;
      * Het aanbieden van wapens.
      * Het aanbieden van drugs (snoepjes etc)
-   - Onder illegale activiteiten valt het vragen van aanwezigheid van gangs in twitter, of het aanwezig zijn als gang.
-   - Het is niet toegestaan om vervormingen/synoniemen te gebruiken in Twitter om illegale activiteiten te triggeren. Hierbij kun je bijvoorbeeld denken aan woorden zoals sokken wassen, honkbalspullen, poedersuiker en zakjes snoep.
-   - Het is verboden om ingame een reactie te geven op bans/warns die in twitter te zien zijn.
+   - Onder illegale activiteiten valt het vragen van aanwezigheid van gangs in twitter/instagram, of het aanwezig zijn als gang.
+   - Het is niet toegestaan om vervormingen/synoniemen te gebruiken in/op Twitter/instagram om illegale activiteiten te triggeren. Hierbij kun je bijvoorbeeld denken aan woorden zoals sokken wassen, honkbalspullen, poedersuiker en zakjes snoep.
+   - Het is verboden om ingame een reactie te geven op bans/warns die in twitter/instagram te zien zijn.
    
 ### **Artikel 19: Overheidskleding dragen (Straf-categorie: 1)**
    - Jezelf voordoen als overheidspersoneel is niet toegestaan.
