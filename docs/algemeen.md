@@ -143,8 +143,8 @@
    - Vliegen zonder vliegbrevet is niet toegestaan,
    - Een groter klasse voertuig pitten is niet toegestaan, ongeacht de snelheid. 
    - Een voertuig mag geen hogere categorie pitten of brake checken.
-   <ol>
-      <li>Motorvoertuigen</li>
+   <ol style='list-style-type: decimal;'>
+       <li>Motorvoertuigen</li>
       <li>Sportauto’s en hypercars</li>
       <li>Personenauto’s, zoals Sedan en Coupes</li>
       <li>SUV’s</li>
