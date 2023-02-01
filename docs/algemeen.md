@@ -223,8 +223,8 @@
 - Je mag iemand herkennen op basis van stemherkenning.
 - Indien een speler gebruik maakt van een voice changer is het niet toegestaan om een persoon te herkennen aan zijn stem.
 
-### **Artikel 28: Twitter media**
-- Informatie uit twitter media mag in de stad gebruikt worden door een burger. 
+### **Artikel 28: Twitter/Instagram media**
+- Informatie uit twitter of instagram media mag in de stad gebruikt worden door een burger. 
 - Zo is het je eigen verantwoordelijkheid om wapens en dergelijke te laten zien. Gangs en het korps mogen deze informatie gebruiken om je op te sporen.
 
 ### **Artikel 29: Criminele activiteiten (Straf-categorie: 2)**
