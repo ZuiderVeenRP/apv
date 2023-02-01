@@ -232,6 +232,7 @@
 - Met betrekking tot de volgende punten is het niet toegestaan om burgers te overvallen of op te lichten:
    * Voertuigen (ook niet iemand dwingen zijn auto sleutel aan jou te geven);
    * Onder dwang iemand zijn huis binnen treden en alles leegroven. Wanneer een speler zelf de keuze maakt om iemand binnen te laten valt dit onder je eigen verantwoordelijkheid.
+- Het is op geen enkele manier toegestaan om je onderwereld praktijken/voorwerpen aan te bieden op marktplaats. Indien een speler dit wel doet, zal deze een straf ontvangen volgens de 1ste categorie, die kan worden verhoogt bij herhaling.
 
 ### **Artikel 29.1: Criminele groeperingen (Straf-categorie: 1)**
 - Wanneer er meer dan 5 personen mee doen aan een scenario, zal dit gezien worden als een criminele groepering en zal deze groep zich moeten houden aan de onderwereld regels. 
