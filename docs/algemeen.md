@@ -444,6 +444,16 @@ Hier hebben we ons ticketsysteem voor.
 - Het is niet toegestaan om bulletproof auto's te stelen.
 - Je kan alleen een overheidsvoertuig stellen indien je een wapen op zak hebt.
 <br />
+
+### **Artikel 53:**
+   **Artikel 53.1: Liegen tegen staff**
+ - Het is op geen enkele manier toegestaan om te liegen tegen een stafflid. Indien een speler zich hier schuldig aan maakt, volgt er er een straf volgens de 5de categorie.
+   
+**Artikel 53.2: Informatie achterhouden voor staff**
+ - Het is niet toegestaan om informatie voor een stafflid te achterhouden. Zodra een stafflid jou iets vraagt, verwachten we dus ook dat jij naar alle waarheid de informatie verstrekt. Indien een speler hier niet aan mee werkt, volgt er een straf volgens de 5de categorie.
+
+**Artikel 53.3: Voordoen als staff**
+ - Het voordoen en of uitspraken gebruiken om als staflid over te komen is niet toegestaan. Indien een speler hier zich schuldig aan maakt, volgt er een straf volgens de 6de categorie.
 <br />
 
 ### **Regels Politie / KMar**
