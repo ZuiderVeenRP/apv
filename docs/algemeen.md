@@ -302,8 +302,6 @@
 
 ### **Artikel 34: Rippen van wapens (Straf-categorie: 1)**
 - Het rippen van wapens mag met elk soort wapen.
-- Het weg rennen van en/of tijdens een rip is toegestaan maar geheel op eigen risico en zal ook NIET gerefund worden.
-
 - Wanneer je een wapen wilt rippen moet deze fysiek gezien zijn (met uitzondering op eiland en onderstaand lid).
 - Indien je gezichtsbedekkende kleding of een holster draagt, mag je op elk moment gefouilleerd worden waarbij je wapen dus geript kan worden zonder dat deze fysiek gezien is.
 - Wanneer je op een motor rijdt geldt een helm niet als masker, anders wel. Het is je eigen verantwoordelijkheid om je helm af te zetten als je van je motor afstapt.
