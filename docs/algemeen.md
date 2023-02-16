@@ -57,6 +57,7 @@
      voor eigen belangen en tot onrealistische dwang de scenario veranderd zal gezien worden als Fail RP.
    - Wanneer een helikopter/vliegtuig gevorderd wordt door de politie en/of beschoten wordt door een ander, dient deze direct het gebied te verlaten en mag niet terug
      komen in dat gebied. Let op! wanneer er vanuit dat scenario een achtervolging plaats vind mag de helikopter wel mee doen aan de achtervolging.
+   - **Indien een speler geen intentie toont om te roleplayen, staat een stafflid in zijn/haar recht om een straf uit te delen volgens de 9de categorie.**
 
 ### **Artikel 6: Powergamen (Straf-categorie: 1)**
    - Het opzettelijk veranderen van een scenario door onrealistische componenten toe te voegen, waardoor het voor de andere partij niet realistisch te spelen is. 
