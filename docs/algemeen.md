@@ -269,7 +269,6 @@
 ### **Artikel 32: Onderwereld Spelers (Straf-categorie: 3)**
 - Het is niet toegestaan om op dezelfde locatie (reikwijdte van 500 meter) te rippen binnen een tijdspanne van 30 minuten.
 - Dood is dood, dit houdt in als je dood bent gegaan dat je niet meer mee kunt doen met een wraakactie. Daarbij is het ook niet toegestaan om inlichtingen van de persoon in kwestie te verstrekken. Je mag de gehele wraakactie en de dagen erna niet meedoen. Dit geldt voor gangwars en hunt-sessies.
-- Het is niet toegestaan om als burger body armor te dragen waarop verschillende flashbangs, granaten en ammoboxen te zien zijn.
 - Mensen rippen mag voor een maximaal van €10.000, voor zowel zwart als wit geld.
 - Indien je een persoon hebt geript, mag je deze niet vermoorden.
 - Schiet je een persoon dood omdat hij niet kan betalen zal dit bestraft worden als RDM.
