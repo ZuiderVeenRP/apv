@@ -324,7 +324,7 @@
 
 ### **Artikel 37: Fouilleren (Straf-categorie 1)**
 - Je kunt alleen iemand fouilleren wanneer je in bezit bent van een wapen.
-- Bij het innemen van wapens dien je het wapen visueel gezien te hebben of als de persoon een masker, holster of kogelvrij vest draagt, dit wordt anders volgens categorie 2 gestraft.
+- Bij het innemen van wapens dien je het wapen visueel gezien te hebben of als de persoon een masker of holster draagt, dit wordt anders volgens categorie 2 gestraft.
 - Je mag geen kennis hebben van de illegale spullen die de persoon op zak heeft wanneer de persoon geen masker, holster of kogelvrij vest aan heeft.
 
 ### **Artikel 38: Ambulance (Straf-categorie: 2)**
