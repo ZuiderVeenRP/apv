@@ -89,8 +89,9 @@
       * Het ondernemen van acties zoals een wapen trekken, terwijl iemand naast je staat met een wapen in de hand die hij recent heeft gericht.
    - De range van gunpoint moet minimaal op 2e voice range zijn, alles daarbuiten wordt gezien als niet verstaanbaar en is je eigen verantwoordelijkheid wanneer het anders verloopt.
    - NVOL moment gaat in op het moment dat je het wapen duidelijk richt op de persoon, niet als je het wapen enkel pakt.
-   - Wanneer er iemand met een slag en/of steekwapen voor je staat MAG je weg rennen ongeacht de praatcirkel, dit zal niet gezien worden als NVOL. LET OP! Dit is wel volledig op eigen risco en zal dus ook geen refund voor gegeven worden.
-   - Wanneer er iemand met een vuurwapen (van welk kaliber dan ook) voor je staat, dien je ten alle tijden mee te werken.
+   - Zodra iemand een steek- of slagwapen binnen armlengte afstand van je trekt dan werk je mee, doe je dit niet ben je niet zuinig met je leven aangezien je dat bewust het risico neemt neergestoken of neergeslagen te worden. 
+   - Wanneer er een wapen op je gericht staat en deze zakt omdat je geboeid wordt en/of in /me getypt word, dien je als nog mee te werken.
+   - Elke andere vorm waarmee je bewust je eigen leven in een té groot gevaar brengt valt onder no value of life, dus gebruik je gezonde verstand om de situatie in te schatten.
    - Wanneer dit artikel vaker dan 1x eerder is overtreden staat een stafflid in zijn/haar recht om een wapen in te nemen. 
 
 ### **Artikel 10: New life rule (Straf-categorie: 1)**
