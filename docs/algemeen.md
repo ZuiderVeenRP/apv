@@ -153,7 +153,7 @@
       <li>Bussen en vrachtwagens</li>
    </ol>
    - Brake checken is toegestaan indien dit realistisch blijft. Wanneer jij iemand brake checkt is dit op eigen risico. Het is niet mogelijk om hier een refund voor aan te vragen.
-   - Alle voertuigen mogen op zandpaden rijden zonder een limiet, voertuigen in de off-road car dealer mogen volledig off-road. Donateur G-Wagon en Brabus G 500 vallen onder off-road voertuigen.
+   - Alle voertuigen mogen op zandpaden rijden zonder een limiet, voertuigen in de off-road dealer of die een SUV class hebben mogen volledig off-road. Je kan dit checken door Z in te drukken terwijl je in een voertuig zit. Rechtsonderin staat de class die het voertuig heeft.
    - Off-road banden zijn puur cosmetisch en hebben geen effect op de weg. 
    - Het is niet toegestaan om gebouwen te betreden met voertuigen die daar niet voor bedoeld zijn. Dit zal bestraft worden met een straf uit de 1ste categorie.
    - Het is op geen enkele manier toegestaan om een motor te pitten.
