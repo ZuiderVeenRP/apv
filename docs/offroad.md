@@ -8,7 +8,6 @@
  - Audi RSQ8 (Supporter)
  - Audi SQ7 (Supporter)
  - Bentley Bentayga
- - BMW X5
  - BMW X6M 2020 (Supporter)
  - BMW X7
  - Brabus G500 (Supporter+)
