@@ -34,7 +34,6 @@
    - Onder fail roleplay vallen alle facetten die als een onrealistische situatie kunnen worden ervaren. Eenieder dient zich tijdens het roleplayen het volgende af te vragen: "Zou dit in het echt ook op deze manier kunnen gebeuren".
    - Enkele voorbeelden van Fail RP:
       * Het roleplay scenario vermijden tijdens ernstige verwondingen en aanrijdingen met andere burgers en ambulance.
-      * Het doelbewust meermaals inklikken van de porto wanneer een wapen op je gericht staat.
       * Ongepast emotes spammen.
       * Praten in de porto of bellen onder water.
       * Geen roleplay aangaan in situaties waarbij je (ernstig) gewond bent.
@@ -86,6 +85,7 @@
    - Enkele voorbeelden van No value of life:
       * Het moedwillig / opzettelijk beëindigen van je eigen leven of dat van een ander met voorbestemde reden om een nieuw leven te kunnen starten.
       * Het indrukken van de noodknop terwijl er een wapen op je gericht staat.
+      * Het doelbewust meermaals inklikken van de porto wanneer een wapen op je gericht staat. 
       * Het ondernemen van acties zoals een wapen trekken, terwijl iemand naast je staat met een wapen in de hand die hij recent heeft gericht.
    - De range van gunpoint moet minimaal op 2e voice range zijn, alles daarbuiten wordt gezien als niet verstaanbaar en is je eigen verantwoordelijkheid wanneer het anders verloopt.
    - NVOL moment gaat in op het moment dat je het wapen duidelijk richt op de persoon, niet als je het wapen enkel pakt.
