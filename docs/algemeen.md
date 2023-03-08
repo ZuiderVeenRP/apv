@@ -295,6 +295,8 @@
 - Het ontvoeren van burgers is toegestaan vanaf minimaal 2 politie/kmar in dienst.
 - Een agent mag pas ontvoerd worden vanaf 4 agenten. Er moeten dus altijd 3 andere agenten in dienst zijn voordat je 1 agent mag ontvoeren.
 - Een persoon mag je maximaal 90 minuten ontvoeren.
+- Het maximale bedrag wat je mag eisen voor een burger is 30k per burger.
+- Het maximale bedrag wat je mag eisen voor een indienst politie/kmar agent is 50k per ontvoerde politie/kmar agent.
 
 ### **Artikel 33: Maximaal toegestaan aantal leden criminele organisaties**
 - Het aantal toegestane leden in een criminele organisatie is 20 leden.
