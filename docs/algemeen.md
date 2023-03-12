@@ -30,7 +30,7 @@
    - Het is ten strengste verboden om een burger en/of stafflid te bedreigen of te intimideren met een DDOS aanval.
    - Het ‘doxen’ of 'ddossen' van burgers en/of staff leden is verboden.
 
-### **Artikel 5: Fail RP (Straf-categorie: 3)**
+### **Artikel 5: Fail RP (Straf-categorie: 4)**
    - Onder fail roleplay vallen alle facetten die als een onrealistische situatie kunnen worden ervaren. Eenieder dient zich tijdens het roleplayen het volgende af te vragen: "Zou dit in het echt ook op deze manier kunnen gebeuren".
    - Enkele voorbeelden van Fail RP:
       * Het roleplay scenario vermijden tijdens ernstige verwondingen en aanrijdingen met andere burgers en ambulance.
