@@ -86,11 +86,11 @@
       * Het moedwillig / opzettelijk beëindigen van je eigen leven of dat van een ander met voorbestemde reden om een nieuw leven te kunnen starten.
       * Het indrukken van de noodknop terwijl er een wapen op je gericht staat.
       * Het doelbewust meermaals inklikken van de porto wanneer een wapen op je gericht staat. 
-      * Het ondernemen van acties zoals een wapen trekken, terwijl iemand naast je staat met een wapen in de hand die hij recent heeft gericht.
    - De range van gunpoint moet minimaal op 2e voice range zijn, alles daarbuiten wordt gezien als niet verstaanbaar en is je eigen verantwoordelijkheid wanneer het anders verloopt.
    - NVOL moment gaat in op het moment dat je het wapen duidelijk richt op de persoon, niet als je het wapen enkel pakt.
    - Zodra iemand een steek- of slagwapen binnen armlengte afstand van je trekt dan werk je mee, doe je dit niet ben je niet zuinig met je leven aangezien je dat bewust het risico neemt neergestoken of neergeslagen te worden. 
-   - Wanneer er een wapen op je gericht staat en deze zakt omdat je geboeid wordt en/of in /me getypt word, dien je als nog mee te werken.
+      - Wanneer er een wapen op je gericht staat en deze zakt omdat je geboeid wordt en/of in /me getypt word, dien je als nog mee te werken.
+   - Wanneer er een vuurwapen op je wordt gericht dien je ten alle tijden mee te werken. Echter zodra het wapen niet meer gericht wordt, mag je wel acties ondernemen. Zoals je eigen vuurwapen trekken en de betreffende persoon onder schot houden.
    - Elke andere vorm waarmee je bewust je eigen leven in een té groot gevaar brengt valt onder no value of life, dus gebruik je gezonde verstand om de situatie in te schatten.
    - Wanneer dit artikel vaker dan 1x eerder is overtreden staat een stafflid in zijn/haar recht om een wapen in te nemen. 
 
@@ -256,6 +256,7 @@
 - Tijdens een winkeloverval zal er geen DSI aanwezig zijn, tenzij er automatische wapens aanwezig zijn. Een OVD kan de keuze maken om hier vanaf te wijken. 
 - Max hostages bij een kleine bank of winkel is 5.
 - Max hostages bij een grote bank, jacht of humane labs is 10.
+- Een OV mag niet gecounterd worden tot 1 uur na de OV. Hieronder valt ook het rippen van de wapens. Van diegene die de OV gedaan hebben.
 - De onderhandelaar mag niet worden beschoten of worden gegijzeld tijdens een onderhandeling.
 - Vrienden als hostage nemen is niet toegestaan. 
 - Minimale aantal politie/kmar in dienst voor een kleine bank en winkel is 4.
@@ -282,6 +283,7 @@
 - Het rippen van witwassers is toegestaan met 0 politie en 0 kmar.
 - Elke gang mag maximaal 10 friends hebben.
 - Het omzeilen van de maximale aantal leden van een groepering (20), leidt tot directe ontbinding van de gang en/of officieelheid van de gang.
+- Het is verboden om nep meldingen te maken in de omgeving van een ganghuis met de intentie tot uitlokken van de criminelen, of het in de problemen werken van de rivaliserende groep.
 
 ### **Artikel 32.1: Gangwars**			    
 - Het is alleen toegestaan om een wraakactie op te starten als je in roleplay bewijs hebt verzameld van de moord op jouw ganglid.
