@@ -331,6 +331,7 @@
 - Je kunt alleen iemand fouilleren wanneer je in bezit bent van een wapen.
 - Bij het innemen van wapens dien je het wapen visueel gezien te hebben of als de persoon een masker of holster draagt, dit wordt anders volgens categorie 2 gestraft.
 - Je mag geen kennis hebben van de illegale spullen die de persoon op zak heeft wanneer de persoon geen masker, holster of kogelvrij vest aan heeft.
+- Nadat je iemand hebt gefouilleerd is het verboden om diegene te verplichten om zijn tas af te doen.
 
 ### **Artikel 38: Ambulance (Straf-categorie: 2)**
 - Het is niet toegestaan om een ambulancemedewerker te vermoorden, te beledigen of niet mee te werken met de roleplay van een ambulancier. De ambulance dient hier geen gebruik van te maken door bepaald ongepast gedrag te vertonen. 
