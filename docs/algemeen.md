@@ -3,6 +3,9 @@
 ### **Artikel 1: Cheats (Straf-categorie: 9)**
    - Het gebruik maken van software/hulpmiddelen van derde partijen om een voordeel in het spel te krijgen is niet toegestaan. Hieronder vallen o.a. cheats/hacks, combatpacks of een (externe) crosshair.
 
+### **Artikel 1A: Externe Software (Straf-categorie: 7)**
+   - Het gerbruik maken van Crosshair of doormiddel van Reshade er combat gerichte voordelen uit halen is niet toegestaan.
+
 ### **Artikel 2: Exploits/bugs (Straf-categorie: 7)**
    - Hieronder wordt verstaan het doelbewust gebruik maken van een bug/exploit die in jou of andermans voordeel werkt.
    - Voorbeelden hiervan zijn:
