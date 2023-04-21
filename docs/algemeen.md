@@ -70,6 +70,8 @@
       * Een speler meenemen naar het eiland om hem daar te doden, met de intentie om de RDM regel te vermijden.
       * Het toepassen van emoties, zoals F5, is niet toegestaan wanneer je beschoten wordt --> emote abuse.
       * Het in F5 liggen achter een muur om dan in third-person te kunnen kijken en niet op te vallen.
+      * Iemand vastbinden met tiewraps zonder geldige reden is niet toegestaan.
+      * Iemand vastbinden met /me bind vast is niet toegestaan.
 
 ### **Artikel 7: Karakter breken / OOC (Straf-categorie: 1)** 
    - Het is te allen tijde niet toegestaan om je karakter te breken. Alles onder Out Of Character valt hieronder. Ook woorden als "staff", "broodje", "tickets", "refund", "bug" zijn niet toegestaan.
