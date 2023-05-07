@@ -434,6 +434,11 @@
 - De Aircraft Carrier betreft een NoFlightZone. 
 - Het landen, blijven hangen of andere bewegingen rondom de Aircraft Carrier is geheel op eigen risico.
 
+### **Artikel 50A Helicopter op eiland regel:
+- Het is toegestaan om helicopters uit de lucht te schieten op het eiland.
+- Het is toegestaan om uit je helicopter te springen indien je een parachute is.
+- Je mag niet uit een helicopter springen als jij de bestuurder bent. Tenzij je helicopter neerstort, dan mag dit wel.
+
 ### **Artikel 51: (Straf-categorie: 1)**
 **Artikel 51: haat veroorzakend gedrag (straf categorie: 1)**
 - Het toxic reageren op doodverklaringen in Twitter valt onder haat veroorzakend gedrag en wordt bestraft volgens categorie 1.
