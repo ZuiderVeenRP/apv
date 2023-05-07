@@ -436,7 +436,7 @@
 
 ### Artikel 50A Helicopter op eiland regel:
 - Het is toegestaan om helicopters uit de lucht te schieten op het eiland.
-- Het is toegestaan om uit je helicopter te springen indien je een parachute is.
+- Het is toegestaan om uit je helicopter te springen indien je een parachute bij je hebt.
 - Je mag niet uit een helicopter springen als jij de bestuurder bent. Tenzij je helicopter neerstort, dan mag dit wel.
 
 ### **Artikel 51: (Straf-categorie: 1)**
