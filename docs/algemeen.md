@@ -351,6 +351,8 @@
    * een hartslag onder de 20 bpm heeft;
    * is neergeschoten, gestoken, geknuppeld of geslagen met een boksbeugel. Bij deze regel maakt het niet uit of ze voldoende bloed/hartslag hebben;
    * aangeeft dat diegene dood is door RDM, VDM, FailRP, bugs etc. Hierbij moet de persoon in kwestie een ticket maken.
+   * langer dan 5 minuten onderwater heeft gelegen.
+   * vanaf een hoogte van 5 verdiepingen of hoger is gevallen.
 - Het samenwerken met de onderwereld is niet toegestaan, dit valt onder corruptie.
 - Het betaald krijgen om iemand te reviven is niet toegestaan, dit valt onder corruptie.
 - Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan. 
