@@ -128,7 +128,7 @@
    - Hieronder wordt verstaan een persoon die opzettelijk inrijdt op een burger met de intentie om de burger te vermoorden of als doel heeft het voertuig als wapen te gebruiken.
    - Een stafflid kan de keuze maken om afhankelijk van de mate van VDM af te wijken om een hogere straf op te leggen.
 
-### **Artikel 14: RDM (Straf-categorie: 3)**
+### **Artikel 14: RDM (Straf-categorie: 4)**
    - Onder RDM wordt verstaan het willekeurig vermoorden van spelers zonder enige geldige reden. Geen geldige reden kan zijn:
         * Elkaar een uit maken voor iets zoals sukkel, eikel, jij bent lelijk etc;
         * Iemand rijd perongeluk tegen je aan;   
