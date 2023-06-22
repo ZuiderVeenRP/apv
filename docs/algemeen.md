@@ -251,7 +251,7 @@
 
 ### **Artikel 30: Oplichten en scammen (Straf-categorie: 1)**
 - Het is niet toegestaan om te scammen met voertuigen.
-- Het beroven en oplichten van spelers is toegestaan bij een aantal van 2 politieagenten of Kmar.
+- Het beroven van spelers is toegestaan bij een aantal van 2 politieagenten of Kmar.
 - Op een bovenwereld gerelateerde scam zit een limiet van €30.000.
 - Wanneer je een voertuig koopt, ben je zelf verantwoordelijk om te controleren of de aangeboden upgrades van toepassing zijn bij het uitwisselen van het geldbedrag en de auto, dit zal via een request uitgevoerd gaan worden.
 - Het uitlenen van bezittingen is op eigen risico. Hier refunden we niet voor (er vindt ook geen refund/transfer plaats, wanneer iemand gebanned is.)
