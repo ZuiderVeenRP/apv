@@ -42,6 +42,7 @@
       * Geen roleplay aangaan in situaties waarbij je (ernstig) gewond bent.
       * Onjuist gebruik maken van een F6 menu tijdens scenario’s.
       * Iemand vastbinden in /me zonder in het bezit te zijn van een wapen.
+      * Zonder goeie reden iemand zijn/haar band lek steken.
    - Het stelen van een voertuig is toegestaan wanneer deze onbemand achter is gelaten langs de weg.
    - Het stelen van een voertuig is niet toegestaan wanneer iemand bezig is met zijn voertuig. Dit zal bestraft worden met een straf uit de **3de categorie**.
      * Inladen
