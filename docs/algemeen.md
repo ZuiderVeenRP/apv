@@ -288,7 +288,6 @@
 - Witwassers overvallen is enkel toegestaan wanneer er gezien is dat de persoon in het desbetreffende voertuig rijdt en/of op de locatie een bestemde handeling doet.
 - Je mag al het zwart geld rippen wat de groep witwassers bij zich hebben, of het wit geld wanneer je bewijs hebt dat iemand bezig is met witwassen. Dit geldt ook voor de bijrijdende voertuigen/convooi.
 - Het rippen van witwassers is toegestaan met 0 politie en 0 kmar.
-- Elke gang mag maximaal 10 friends hebben.
 - Het omzeilen van de maximale aantal leden van een groepering (20), leidt tot directe ontbinding van de gang en/of officieelheid van de gang.
 - Het is verboden om nep meldingen te maken in de omgeving van een ganghuis met de intentie tot uitlokken van de criminelen, of het in de problemen werken van de rivaliserende groep.
 
@@ -426,7 +425,6 @@
 
 ### **Artikel 49 landen/vliegen met luchtvoertuigen (Straf-categorie: 2 + waarschuwing vliegbrevet)**
 - Het is verplicht om te landen op een helipad of een landingsbaan.
-- Een helicopter mag enkel beschoten worden wanneer deze zich bevind boven het eiland gebied, hiervoor geldt de regel van het schieten op een helicopter niet.
 
 # Aircraftregels
 
@@ -498,4 +496,3 @@ Hier hebben we ons ticketsysteem voor.
 - Bij het maken van een melding moet je de locatie er bij vermelden anders word je melding niet behandeld.
 - Het afsluiten van abonnementen kan uitsluitend bij hoofd-monteur of hoger.
 - Het onnodig rekeningen sturenis niet toegestaan en zal bestraft worden met een straf volgens de 3de categorie.
-
