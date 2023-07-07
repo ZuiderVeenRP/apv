@@ -167,6 +167,7 @@
    - Het is toegestaan om je auto te verkopen via twitter.
    - Het achterlaten van auto's, vaartuigen en heli's/vliegtuigen is niet toegestaan en zal worden bestraft met een ingame boete. De ingame boete hangt af van het geldbedrag wat je hebt. Zie [Delfines](./informatie.html#delfines) voor meer informatie.
    - Het is niet toegestaan om een lesauto te gebruiken voor andere doeleinden dan de lesronde te rijden. Je mag dus niet van de bepaalde route afwijken.
+   - Een rijdend voertuig als blokkade gebruiken is niet toegestaan.
 
 ### **Artikel 17: GTA style driving (Straf-categorie: 1)**
    - Hieronder wordt verstaan het onrealistisch rijden met je voertuig. Dit is in Zuiderveen verboden.
