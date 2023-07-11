@@ -43,6 +43,7 @@
       * Onjuist gebruik maken van een F6 menu tijdens scenario’s.
       * Iemand vastbinden in /me zonder in het bezit te zijn van een wapen.
       * Zonder goeie reden iemand zijn/haar band lek steken.
+      * Het schieten van banden van random spelers zonder enige aanleiding.
    - Het stelen van een voertuig is toegestaan wanneer deze onbemand achter is gelaten langs de weg.
    - Het stelen van een voertuig is niet toegestaan wanneer iemand bezig is met zijn voertuig. Dit zal bestraft worden met een straf uit de **3de categorie**.
      * Inladen
@@ -62,11 +63,11 @@
      komen in dat gebied. Let op! wanneer er vanuit dat scenario een achtervolging plaats vind mag de helikopter wel mee doen aan de achtervolging.
    - **Indien een speler geen intentie toont om te roleplayen, staat een stafflid in zijn/haar recht om een straf uit te delen volgens de 9de categorie.**
 
-### **Artikel 6: Powergamen (Straf-categorie: 1)**
+### **Artikel 6: Powergamen (Straf-categorie: 2)**
    - Het opzettelijk veranderen van een scenario door onrealistische componenten toe te voegen, waardoor het voor de andere partij niet realistisch te spelen is. 
    - Enkele voorbeelden van Powergamen:
       * Het vluchten in je appartement tijdens een scenario.
-      * Ongeacht de situatie binnen 10 minuten na het trekken van je wapen je wapen wegleggen.
+      * Ongeacht de situatie binnen 10 minuten na het trekken van je wapen je wapen wegleggen of de stad uit gaan. Stafflid staat in zijn/haar recht om voor het laatste voorbeeld een combatlog ban uit te delen.
       * Gebruik maken van het DEL menu waarbij ID's worden getoond om spelers te vinden.
       * Een speler meenemen naar het eiland om hem daar te doden, met de intentie om de RDM regel te vermijden.
       * Het toepassen van emoties, zoals F5, is niet toegestaan wanneer je beschoten wordt --> emote abuse.
@@ -95,12 +96,13 @@
    - De range van gunpoint moet minimaal op 2e voice range zijn, alles daarbuiten wordt gezien als niet verstaanbaar en is je eigen verantwoordelijkheid wanneer het anders verloopt.
    - NVOL moment gaat in op het moment dat je het wapen duidelijk richt op de persoon, niet als je het wapen enkel pakt.
    - Zodra iemand een steek- of slagwapen binnen armlengte afstand van je trekt dan werk je mee, doe je dit niet ben je niet zuinig met je leven aangezien je dat bewust het risico neemt neergestoken of neergeslagen te worden. 
-      - Wanneer er een wapen op je gericht staat en deze zakt omdat je geboeid wordt en/of in /me getypt word, dien je als nog mee te werken.
+   - Wanneer er een wapen op je gericht staat en deze zakt omdat je geboeid wordt, gefouilleerd wordt en/of in /me getypt word, dien je als nog mee te werken.
    - Wanneer er een vuurwapen op je wordt gericht dien je ten alle tijden mee te werken. Echter zodra het wapen niet meer gericht wordt, mag je wel acties ondernemen. Zoals je eigen vuurwapen trekken en de betreffende persoon onder schot houden.
+   - Wanneer je niet in een voertuig zit dien je mee te werken als er een taser staat gericht.
    - Elke andere vorm waarmee je bewust je eigen leven in een té groot gevaar brengt valt onder no value of life, dus gebruik je gezonde verstand om de situatie in te schatten.
    - Wanneer dit artikel vaker dan 1x eerder is overtreden staat een stafflid in zijn/haar recht om een wapen in te nemen. 
 
-### **Artikel 10: New life rule (Straf-categorie: 1)**
+### **Artikel 10: New life rule (Straf-categorie: 2)**
    - Wanneer een speler in een roleplay scenario is doodgegaan, dient een speler **alles** te vergeten uit dat scenario.
    - Een speler kan niet meer deelnemen in hetzelfde scenario in de daaropvolgende tijd. Ditzelfde geldt voor een scenario verdeeld over meerdere dagen.
    - Mocht je dood gaan tijdens een gang war door andere omstandigheden, dan mag je tijdens de betreffende war niet meer deelnemen.
@@ -134,6 +136,7 @@
         * Elkaar een uit maken voor iets zoals sukkel, eikel, jij bent lelijk etc;
         * Iemand rijd perongeluk tegen je aan;   
    - Het uitdagen via twitter kan gezien worden als een geldige reden, mits hier bewijsmaterialen van zijn dat het om deze persoon gaat. Twitter media mag je in de stad gebruiken als informatie. Het korps staat in hun recht om de informatie te verwerken.
+   - Kill on sight zal worden bestraft als RDM.
    - Een moord op een persoon die niet wil ‘blaffen’, ‘zingen’ , 'dansen' , 'vernederende dingen wilt doen' en dergelijke worden gezien als RDM.
    - Het doelbewust uitdagen van een gang valt niet onder RDM.
    - Het verbaal provoceren richting andere spelers is op eigen risico. 
@@ -280,9 +283,9 @@
 - Het is niet toegestaan om op dezelfde locatie (reikwijdte van 500 meter) te rippen binnen een tijdspanne van 30 minuten.
 - Dood is dood, dit houdt in als je dood bent gegaan dat je niet meer mee kunt doen met een wraakactie. Daarbij is het ook niet toegestaan om inlichtingen van de persoon in kwestie te verstrekken. Je mag de gehele wraakactie en de dagen erna niet meedoen. Dit geldt voor gangwars en hunt-sessies.
 - Mensen rippen mag voor een maximaal van €10.000, voor zowel zwart als wit geld.
-- Indien je een persoon hebt geript, mag je deze niet vermoorden.
+- Indien je een persoon hebt geript, mag je deze 2 uur lang niet vermoorden.
 - Schiet je een persoon dood omdat hij niet kan betalen zal dit bestraft worden als RDM.
-- Wanneer je met meerdere mensen gaat rippen, mag je niet dezelfde mensen rippen. Zodra iemand is overvallen laat iedereen die persoon met rust.
+- Wanneer je met meerdere mensen gaat rippen, mag je niet dezelfde mensen rippen. Zodra iemand is overvallen laat iedereen die persoon 2 uur lang met rust.
 - Als iemand overvalt met een wapen mag je maximaal 20 items rippen.
 - Op wapens, attachments en kogels staan geen limieten.
 - Het scammen van hulpdiensten als ze in dienst zijn is niet toegestaan.
@@ -306,6 +309,7 @@
 - Een persoon mag je maximaal 90 minuten ontvoeren.
 - Het maximale bedrag wat je mag eisen voor een burger is 30k per burger.
 - Het maximale bedrag wat je mag eisen voor een indienst politie/kmar agent is 50k per ontvoerde politie/kmar agent.
+- Het maximale bedrag wat de politie/kmar mag geven is 500k.
 
 ### **Artikel 33: Maximaal toegestaan aantal leden criminele organisaties**
 - Het aantal toegestane leden in een criminele organisatie is 20 leden.
@@ -315,7 +319,7 @@
 ### **Artikel 34: Rippen van wapens (Straf-categorie: 1)**
 - Het rippen van wapens mag met elk soort wapen.
 - Wanneer je een wapen wilt rippen moet deze fysiek gezien zijn (met uitzondering op eiland en onderstaand lid).
-- Indien je gezichtsbedekkende kleding of een holster draagt, mag je op elk moment gefouilleerd worden waarbij je wapen dus geript kan worden zonder dat deze fysiek gezien is.
+- Indien je gezichtsbedekkende kleding, een kogelwerend vest of een holster draagt, mag je op elk moment gefouilleerd worden waarbij je wapen dus geript kan worden zonder dat deze fysiek gezien is.
 - Wanneer je op een motor rijdt geldt een helm niet als masker, anders wel. Het is je eigen verantwoordelijkheid om je helm af te zetten als je van je motor afstapt.
 - Attachments mogen geript worden wanneer je ze op een wapen ziet, op de rug, of tijdens het fouilleren.
 - Discord kanalen (behalve twitter media en instagram media) tellen niet mee als ‘’gezien hebben’’
@@ -336,8 +340,8 @@
 
 ### **Artikel 37: Fouilleren (Straf-categorie 1)**
 - Je kunt alleen iemand fouilleren wanneer je in bezit bent van een wapen.
-- Bij het innemen van wapens dien je het wapen visueel gezien te hebben of als de persoon een masker of holster draagt, dit wordt anders volgens categorie 2 gestraft.
-- Je mag geen kennis hebben van de illegale spullen die de persoon op zak heeft wanneer de persoon geen masker, holster of kogelvrij vest aan heeft.
+- Bij het innemen van wapens dien je het wapen visueel gezien te hebben of als de persoon gezichtsbedekkende kleding, een kogelwerend vest of holster draagt, dit wordt anders volgens categorie 2 gestraft.
+- Je mag geen kennis hebben van de illegale spullen die de persoon op zak heeft wanneer de persoon geen masker, holster of kogelwerend vest aan heeft.
 - Nadat je iemand hebt gefouilleerd is het verboden om diegene te verplichten om zijn tas af te doen.
 
 ### **Artikel 38: Ambulance (Straf-categorie: 2)**
