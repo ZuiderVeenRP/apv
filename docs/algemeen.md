@@ -136,6 +136,7 @@
         * Elkaar een uit maken voor iets zoals sukkel, eikel, jij bent lelijk etc;
         * Iemand rijd perongeluk tegen je aan;   
    - Het uitdagen via twitter kan gezien worden als een geldige reden, mits hier bewijsmaterialen van zijn dat het om deze persoon gaat. Twitter media mag je in de stad gebruiken als informatie. Het korps staat in hun recht om de informatie te verwerken.
+   - Wanneer je iemand wilt afschieten dien je een reden op te geven. Indien je iemand in een shootout vermoord is dit niet verplicht.
    - Kill on sight zal worden bestraft als RDM.
    - Een moord op een persoon die niet wil ‘blaffen’, ‘zingen’ , 'dansen' , 'vernederende dingen wilt doen' en dergelijke worden gezien als RDM.
    - Het doelbewust uitdagen van een gang valt niet onder RDM.
