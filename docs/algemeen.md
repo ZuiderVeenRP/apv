@@ -246,14 +246,13 @@
    * Onder dwang iemand zijn huis binnen treden en alles leegroven. Wanneer een speler zelf de keuze maakt om iemand binnen te laten valt dit onder je eigen verantwoordelijkheid.
 - Het is op geen enkele manier toegestaan om je onderwereld praktijken/voorwerpen aan te bieden op marktplaats. Indien een speler dit wel doet, zal deze een straf ontvangen volgens de 1ste categorie, die kan worden verhoogt bij herhaling.
 
-### **Artikel 29.1: Criminele groeperingen (Straf-categorie: 1)**
+### **Artikel 29.1: Criminele groeperingen**
 - Wanneer er meer dan 5 personen mee doen aan een scenario, zal dit gezien worden als een criminele groepering en zal deze groep zich moeten houden aan de onderwereld regels. 
 - Onder criminele scenario's wordt verstaan:
    * Het hunten met andere gangs/groeperingen op personen van andere gangs en/of groeperingen en/of overheidspersonen/instanties;
    * Het deelnemen aan een onderwereld event;
    * Mengen met criminele zaken om op deze wijzen andere gang waarmee samen wordt gewerkt te ondersteunen.
 - Enige deelnemer die deze regels overtreden zal worden bestraft met de daarvoor bestemde categorie, bij herhaling van deze overtredingen zal de straf met elk categorie verhoogd worden.
-- (officiele/onofficiele)Gangs mogen met elkaar samen werken mits deze "ally" zijn met elkaar, en daarvoor zal bovenstaand komen te vervallen.
 
 ### **Artikel 30: Oplichten en scammen (Straf-categorie: 1)**
 - Het is niet toegestaan om te scammen met voertuigen.
