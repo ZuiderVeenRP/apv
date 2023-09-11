@@ -4,7 +4,7 @@
    - Het gebruik maken van software van derde partijen om een voordeel in het spel te krijgen is niet toegestaan. Hieronder vallen o.a. cheats/hacks.
 
 ### **Artikel 1A: Externe Software (Straf-categorie: 7)**
-   - Het gebruik maken van Crosshair of doormiddel van Reshade er combat gerichte voordelen uit halen is niet toegestaan.
+   - Het gebruik maken van instellingen/programma's zoals een crosshair, aangepaste schermresolutie of reshade waardoor je combat gerichte voordelen krijgt is niet toegestaan.
 
 ### **Artikel 2: Exploits/bugs (Straf-categorie: 7)**
    - Hieronder wordt verstaan het doelbewust gebruik maken van een bug/exploit die in jou of andermans voordeel werkt.
