@@ -253,7 +253,8 @@
 - Het is op geen enkele manier toegestaan om je onderwereld praktijken/voorwerpen aan te bieden op marktplaats.
 
 ### **Artikel 29.1: Criminele groeperingen (Straf-categorie: 1)**
-- Wanneer er meer dan 5 personen mee doen aan een scenario, zal dit gezien worden als een criminele groepering en zal deze groep zich moeten houden aan de onderwereld regels. 
+- Wanneer er meer dan 5 personen mee doen aan een scenario, zal dit gezien worden als een criminele groepering en zal deze groep zich moeten houden aan de onderwereld regels.
+- Bij 10 leden dient een groepering in een zv disc te zitten, deze dient aangevraagd te worden via een ticket!
 - Onder criminele scenario's wordt verstaan:
    * Het hunten met andere gangs/groeperingen op personen van andere gangs en/of groeperingen en/of overheidspersonen/instanties;
    * Het deelnemen aan een onderwereld event;
