@@ -321,6 +321,7 @@
 ### **Artikel 33: Maximaal toegestaan aantal leden criminele organisaties**
 - Het aantal toegestane leden in een criminele organisatie is 20 leden.
 - Bovenstaand geldt voor erkende gangs en niet erkende gangs.
+- Vanaf 10 leden is het verplicht om in een discord te zitten van ZuiderVeen, deze dient direct aangevraagd te worden via een ticket!
 - Het verbreken van bovenstaand artikel zal leiden tot een gang waarschuwing voor de betreffende gang.
 
 ### **Artikel 34: Rippen van wapens (Straf-categorie: 1)**
