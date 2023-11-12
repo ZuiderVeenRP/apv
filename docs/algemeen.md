@@ -1,4 +1,4 @@
-# Regels
+# Regels 
 
 ### **Artikel 1: Cheats (Straf-categorie: 9)**
    - Het gebruik maken van software van derde partijen om een voordeel in het spel te krijgen is niet toegestaan. Hieronder vallen o.a. cheats/hacks.
@@ -328,6 +328,7 @@
 ### **Artikel 34: Rippen van wapens (Straf-categorie: 1)**
 - Het rippen van wapens mag met elk soort wapen.
 - Wanneer je een wapen wilt rippen moet deze fysiek gezien zijn (met uitzondering op eiland en onderstaand lid).
+- Als je een wapen fysiek gezien hebt, heb je maximaal 30 minuten om deze te rippen. 
 - Indien je gezichtsbedekkende kleding, een kogelwerend vest of een holster draagt, mag je op elk moment gefouilleerd worden waarbij je wapen dus geript kan worden zonder dat deze fysiek gezien is.
 - Wanneer je op een motor rijdt geldt een helm niet als masker, anders wel. Het is je eigen verantwoordelijkheid om je helm af te zetten als je van je motor afstapt.
 - Attachments mogen geript worden wanneer je ze op een wapen ziet, op de rug, of tijdens het fouilleren.
