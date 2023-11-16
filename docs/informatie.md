@@ -80,7 +80,7 @@ Elke nacht om 04:00  wordt er in ZuiderVeen wegenbelasting betaald. Je betaalt w
 - Tussen de 41 en 49 voertuigen: €60.000
 - Meer dan 50 voertuigen €80.000
 
- ### **Wapens per categorie:**
+### **Wapens per categorie:**
 - Categorie 1 (Slag, stoot en steekwapens): - Knuppel - Knuckle duster - Wapenstok (KMAR/Politie) - Switchblade - Machete
 - Categorie 2 (Lichte vuurwapens): - Taser (KMAR/Politie) - Walter P99 (KMAR/Politie) - Glock G17 (KMAR/Politie) - Baretta - SIG M18 - MP5 (KMAR/Dienst Speciale Interventies)
 - Categorie 3 (Zware vuurwapens): - Desert Eagle - Shotgun - Scorpion vz. 61 - Uzi - HK UMP - MP5 (KMAR/Dienst Speciale Interventies) - P90 - Mini-AK - Ak-47 - HK416 (Dienst Speciale Interventies) - Sniper rifle (Dienst Speciale Interventies)
