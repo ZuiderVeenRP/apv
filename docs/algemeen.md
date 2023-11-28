@@ -453,7 +453,7 @@ Voorbeelden onder bovenstaand zijn uitspraken als "L" in Twitter.
 - Bovenstaande geldt ook als je naar het eiland vlucht in een achtervolging met de Kmar/politie.
 
 ### **Artikel 49: (Straf-categorie: 2 voor alle betrokkene)**
-- Op het eiland mogen gangs onderling niet samenwerken, om groepen van 30 tegen 30 te voorkomen.
+- Op het eiland mogen gangs onderling samenwerken.
 - Het vermoorden van burgers op het eiland met een rivaliserende achternaam is niet toegestaan.
 - Het vermoorden van burgers op het eiland met de reden  'dat ze geen zaken bij jou doen' is niet toegestaan. Tenzij na het wegsturen niet weggaan.
 -  Het wegsturen van rivaliserende groeperingen is toegestaan op het eiland, mits ze niet weggaan binnen 5 minuten sta je in je recht om ze te vermoorden.
