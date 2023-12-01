@@ -341,6 +341,7 @@
 - Het meermaals foutief innemen van spullen kan leiden tot een gang waarschuwing voor je officiële gang.
 - Het is niet toegestaan om een persoon uit de auto te halen met je gang-menu. Dit mag alleen als de persoon geboeid is door de gang.
 - Het is voor een officiële gang niet toegestaan om een 2e gang te creëren om hieruit een groei te kunnen maken voor de eigen gang.
+- Het is niet toegestaan om items in te nemen door middel van /me. Dit dient te gebeuren met het F6 menu.
 
 ### **Artikel 36A: Wraakacties tegen whitelisted jobs (Straf-categorie: 5)**
 - Het is ten alle tijden verboden om wraakacties uit te voeren tegen whitelisted jobs.
