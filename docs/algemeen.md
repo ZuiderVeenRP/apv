@@ -328,8 +328,8 @@
 ### **Artikel 34: Rippen van wapens (Straf-categorie: 1)**
 - Het rippen van wapens mag met elk soort wapen.
 - Wanneer je een wapen wilt rippen moet deze fysiek gezien zijn (met uitzondering op eiland en onderstaand lid).
-- Als je een wapen fysiek gezien hebt, heb je maximaal 2 uur om deze te rippen. Daarna is de rip ongeldig, en dient het wapen teruggegeven te worden, of zal deze ingenomen worden door een stafflid.
 - Indien je gezichtsbedekkende kleding, een kogelwerend vest of een holster draagt, mag je op elk moment gefouilleerd worden waarbij je wapen dus geript kan worden zonder dat deze fysiek gezien is.
+- Als je een wapen fysiek gezien hebt, heb je maximaal 2 uur om deze te rippen. Daarna is de rip ongeldig, en dient het wapen teruggegeven te worden, of zal deze ingenomen worden door een stafflid.
 - Wanneer je op een motor rijdt geldt een helm niet als masker, anders wel. Het is je eigen verantwoordelijkheid om je helm af te zetten als je van je motor afstapt.
 - Attachments mogen geript worden wanneer je ze op een wapen ziet, op de rug, of tijdens het fouilleren.
 - Discord kanalen (behalve twitter media en instagram media) tellen niet mee als ‘’gezien hebben’’
