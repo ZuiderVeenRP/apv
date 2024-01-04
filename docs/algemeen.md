@@ -407,6 +407,8 @@
 - Het toxic reageren op doodverklaringen in Twitter valt onder haat veroorzakend gedrag.
 Voorbeelden onder bovenstaand zijn uitspraken als "L" in Twitter.
 - Het in een scenario toxic reageren omdat je het ergens niet mee eens.
+- Tickets/klachten maken over een persoon/groepering zonder goed gegronde reden zal worden gezien als ''naaien'', en zal worden bestraft.
+  Staffleden staan in hun recht om dit te beoordelen mits dit door meer dan 2 staffleden beoordeeld word.
 
 ### **Artikel 44.1: haat veroorzakend gedrag in discord (straf categorie: 5)**
 - Het toxic reageren op algemene zaken naar de bovenwereld of onderwereld wordt niet meer getolereerd.
