@@ -77,6 +77,7 @@
       * Een speler meenemen naar het eiland om hem daar te doden, met de intentie om de RDM regel te vermijden.
       * Het toepassen van emoties, zoals F5, is niet toegestaan wanneer je beschoten wordt --> emote abuse.
       * Het in F5 liggen achter een muur om dan in third-person te kunnen kijken en niet op te vallen.
+      * Hulp van bijvoorbeeld voertuigen om zo over muren heen te kijken (bijvoorbeeld bij mansion op het eiland) is niet toegestaan. 
       * Iemand vastbinden met tiewraps zonder geldige reden is niet toegestaan.
       * Iemand vastbinden met /me bind vast is niet toegestaan.
 
