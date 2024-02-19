@@ -329,9 +329,9 @@
 ### **Artikel 34: Rippen van wapens (Straf-categorie: 1)**
 - Het rippen van wapens mag met elk soort wapen.
 - Wanneer je een wapen wilt rippen moet deze fysiek gezien zijn, uitzonderingen hierop zijn:
- * Rippen op het eiland;
- * Indien je gezichtsbedekkende kleding, een kogelwerend vest of een holster draagt, mag je op elk moment gefouilleerd worden waarbij je wapen dus geript kan worden zonder dat deze fysiek gezien is;
- * Als je zelf aangeeft een wapen opzak te hebben voordat je gefouilleerd wordt(je mag iemand niet onderschot houden en deze verplichten dit te vertellen).
+   * Rippen op het eiland;
+   * Indien je gezichtsbedekkende kleding, een kogelwerend vest of een holster draagt, mag je op elk moment gefouilleerd worden waarbij je wapen dus geript kan worden zonder dat deze fysiek gezien is;
+   * Als je zelf aangeeft een wapen opzak te hebben voordat je gefouilleerd wordt(je mag iemand niet onderschot houden en deze verplichten dit te vertellen).
 - Indien je gezichtsbedekkende kleding, een kogelwerend vest of een holster draagt, mag je op elk moment gefouilleerd worden waarbij je wapen dus geript kan worden zonder dat deze fysiek gezien is.
 - Als je een wapen, een holster, een kogelwerend vest of een masker fysiek gezien hebt, heb je maximaal 2 uur om het wapen van deze persoon te rippen. Daarna is de rip ongeldig, en dient het wapen teruggegeven te worden, of zal deze ingenomen worden door een stafflid.
 - Wanneer je op een motor rijdt geldt een helm niet als masker, anders wel. Het is je eigen verantwoordelijkheid om je helm af te zetten als je van je motor afstapt.
