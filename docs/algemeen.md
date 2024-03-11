@@ -59,13 +59,6 @@
    - Praten terwijl je dood bent is niet toegestaan. Wanneer je op een manier gedood wordt dat tegen de server regels is, maak je een report aan.
    - een scenario waar je eigen belang en niet dat van een ander in acht genomen wordt. Of waarbij de roleplay van anderen ingevuld wordt
      voor eigen belangen en tot onrealistische dwang de scenario veranderd zal gezien worden als Fail RP.
-   - Elk bestuurder van een helikopter dient zich te houden aan de daarvoor opgelegde regels vanuit de vliegschool.
-   - Wanneer een helikopter/vliegtuig gevorderd wordt door de politie, dient deze direct het gebied te verlaten en mag niet terug
-     komen in dat gebied.
-   - Wanneer je gevorderd wordt door een overheidsinstantie, dien je hier aan te voldoen. Bij het niet voldoen zal straf-categorie 2 opgelegd worden. Mocht je na 3 vorderingen niet aan de vordering voldoen
-     dan zal er straff-categorie 2 opgelegd worden en een warn op je vliegbrevet.
-   - Als een heli beschoten wordt en dit te horen/zien is in de heli, dient de heli af te koppelen en te landen om te kijken of de heli is geraakt. Is dit niet het geval dan mag men weer aankoppelen.
-     Bij het niet voldoen zal straf-categorie 2 opgelegd worden.
    - **Indien een speler geen intentie toont om te roleplayen, staat een stafflid in zijn/haar recht om een straf uit te delen volgens de 9de categorie.**
 
 ### **Artikel 6: Powergamen (Straf-categorie: 2)**
@@ -159,7 +152,6 @@
 
 ### **Artikel 16: Voertuig gebruik (Straf-categorie: 1)**
    - Het pitten boven 130 km/h is niet toegestaan.
-   - Vliegen zonder vliegbrevet is niet toegestaan,
    - Een groter klasse voertuig pitten is niet toegestaan, ongeacht de snelheid. 
    - Een voertuig mag geen hogere categorie pitten of brake checken.
       1. Motorvoertuigen
@@ -201,7 +193,7 @@
    
 ### **Artikel 19: Overheidskleding dragen (Straf-categorie: 1)**
    - Jezelf voordoen als overheidspersoneel is niet toegestaan.
-   - Het dragen van kogelwerende vesten met een politie/kmar logo of welke valt onder overheidsdragende vesten is niet toegestaan.
+   - Het dragen van kogelwerende vesten met een politie logo of welke valt onder overheidsdragende vesten is niet toegestaan.
    - Het dragen van ANWB en/of Ambulance kleding en/of accessoires, zoals tassen is niet toegestaan.
 
 ### **Artikel 20: Schelden/beledigen van spelers of staff leden (Straf-categorie: 5)**
@@ -277,8 +269,8 @@
 - Een OV mag niet gecounterd worden tot 1 uur na de OV. Hieronder valt ook het rippen van de wapens. Van diegene die de OV gedaan hebben.
 - De onderhandelaar mag niet worden beschoten of worden gegijzeld tijdens een onderhandeling.
 - Vrienden als hostage nemen is niet toegestaan. 
-- Minimale aantal politie/kmar in dienst voor een kleine bank en winkel is 4.
-- Minimale aantal politie/kmar in dienst voor een grote bank, jacht of humane labs is 7.
+- Minimale aantal politie in dienst voor een kleine bank en winkel is 4.
+- Minimale aantal politie in dienst voor een grote bank, jacht of humane labs is 7.
 - Maximale outside shooters:
 > 2 Winkel </br>
 > 3 Juwelier / Politie Bureau Blokkenpark / Lifeinvader & Tequi-la-la </br>
@@ -299,7 +291,7 @@
 - Witwassers overvallen is enkel toegestaan wanneer er gezien is dat de persoon het desbetreffende voertuig uit de cirkel haalt en/of op de witwas locatie de desbetreffende handeling uitvoert.
   - Het campen op de spawnlocaties van het voertuig en/of witwas locaties is niet toegestaan.
 - Je mag al het zwart geld rippen wat de groep witwassers bij zich hebben, of het witgeld wanneer je bewijs hebt dat iemand bezig is met witwassen. Dit geldt ook voor de bijrijdende voertuigen/convooi.
-- Het rippen van witwassers is toegestaan met 0 politie en 0 kmar.
+- Het rippen van witwassers is toegestaan met 0 politie.
 - Het omzeilen van de maximale aantal leden van een groepering (20), leidt tot directe ontbinding van de gang en/of officieelheid van de gang.
 - Het is verboden om nep meldingen te maken in de omgeving van een ganghuis met de intentie tot uitlokken van de criminelen, of het in de problemen werken van de rivaliserende groep.
 
@@ -312,13 +304,13 @@
 - Indien je onbewust voor een 2de keer wordt doodgeschoten in een gangwar omdat je op een bepaalde plek bent, is dit op eigen risico. Indien men er vanaf weet en je bewust nog een keer shoot, zal dit vallen onder artikel 14.
 
 ### **Artikel 32.2: Ontvoeren (Straf-categorie: 1)**
-- Het ontvoeren van burgers is toegestaan vanaf minimaal 2 politie/kmar in dienst.
+- Het ontvoeren van burgers is toegestaan vanaf minimaal 2 politie in dienst.
 - Een agent mag pas ontvoerd worden vanaf 4 agenten. Er moeten dus altijd 3 andere agenten in dienst zijn voordat je 1 agent mag ontvoeren. Er moeten dus 8 agenten indienst zijn om 2 agenten te ontvoeren enzovoort.
-  bij 7+ politie en 7+ kmar vervalt deze regel.
+  bij 7+ politie vervalt deze regel.
 - Een persoon mag je maximaal 90 minuten ontvoeren.
 - Het maximale bedrag wat je mag eisen voor een burger is 30k per burger.
-- Het maximale bedrag wat je mag eisen voor een indienst politie/kmar agent is 50k per ontvoerde politie/kmar agent.
-- Het maximale bedrag wat de politie/kmar mag geven is 500K.
+- Het maximale bedrag wat je mag eisen voor een indienst politie agent is 50k per ontvoerde politie agent.
+- Het maximale bedrag wat de politie mag geven is 500K.
 
 ### **Artikel 33: Maximaal toegestaan aantal leden criminele organisaties**
 - Het aantal toegestane leden in een criminele organisatie is 20 leden.
@@ -451,31 +443,34 @@ Voorbeelden onder bovenstaand zijn uitspraken als "L" in Twitter.
 - RDM regel iedereen die op het eiland komt en die geen zaken bij jou doet wegsturen. Indien de persoon in kwestie niet vertrekt sta je in je recht om de persoon te doden.
 - Mensen met wapens in de hand mag je direct doodschieten.
 
-### **Artikel 48: KMAR/politie eiland (Straf-categorie: 2)**
-- Het is verboden om vanaf het eiland op de patrouillerende schepen of heli’s van de KMAR te schieten. 
+### **Artikel 48: Politie rond/op eiland (Straf-categorie: 2)**
+- Het is verboden om vanaf het eiland op de patrouillerende schepen of heli’s van de politie te schieten. 
 - Het is toegestaan om op binnenkomende schepen en boten te schieten die gang/burger gerelateerd zijn.
-- De DSI mag speciale operaties uitvoeren op het eiland.
-- De kmar/politie mogen niet op het eiland komen.
-- Indien je agenten meeneemt naar het eiland, geldt bovenstaande regel niet. Dan staat de Kmar/politie in hun recht om actie te ondernemen.
-- Bovenstaande geldt ook als je naar het eiland vlucht in een achtervolging met de Kmar/politie.
+- De DSI / KCT mag speciale operaties uitvoeren op het eiland.
+- De politie mag niet op het eiland komen.
+- Indien je agenten meeneemt naar het eiland, geldt bovenstaande regel niet. Dan staat de politie in hun recht om actie te ondernemen.
+- Bovenstaande geldt ook als je naar het eiland vlucht in een achtervolging met de politie.
 
 ### **Artikel 49: (Straf-categorie: 2 voor alle betrokkene)**
 - Op het eiland mogen gangs onderling niet samenwerken.
 - Het vermoorden van burgers op het eiland met een rivaliserende achternaam is niet toegestaan.
 - Het vermoorden van burgers op het eiland met de reden  'dat ze geen zaken bij jou doen' is niet toegestaan. Tenzij na het wegsturen niet weggaan.
--  Het wegsturen van rivaliserende groeperingen is toegestaan op het eiland, mits ze niet weggaan binnen 5 minuten sta je in je recht om ze te vermoorden.
+- Het wegsturen van rivaliserende groeperingen is toegestaan op het eiland, mits ze niet weggaan binnen 5 minuten sta je in je recht om ze te vermoorden.
 
-### **Artikel 50: landen/vliegen met luchtvoertuigen (Straf-categorie: 2 + waarschuwing vliegbrevet)**
-- Het is verplicht om te landen op een helipad of een landingsbaan.
-- Een helicopter mag enkel beschoten worden wanneer deze zich bevind boven het eiland gebied, hiervoor geldt de regel van het schieten op een helicopter niet.
+### **Artikel 50: Vliegtuig/Helikopter gebruik**
+- Elke bestuurder van een helikopter of vliegtuig dient zich te houden aan de daarvoor opgelegde regels vanuit de vliegschool.
+- Vliegen zonder vliegbrevet is niet toegestaan. Bij het overtreden van deze regel zal er een straf worden opgelegd volgens de 4de categorie.
+- Wanneer je door een overheidsinstantie wordt gevorderd, dien je deze vordering te gehoorzamen. Als je na 3 vorderingen nogsteeds niet de vordering hebt gehoorzaamd, wordt je gezocht gezet.
+- Als je helikopter of vliegtuig wordt beschoten en dit te horen/zien is, dien je af te koppelen en te landen om te kijken of je bent geraakt. Indien dat niet het geval is, mag je weer aankoppelen.
+- Het is voor de passagiers toegestaan om uit een helikopter/vliegtuig te springen, mits zij een parachute hebben.
+- Het is voor de bestuurder ALLEEN toegestaan om uit een helikopter/vliegtuig te springen indien deze aan het neerstorten is.
 
 # Aircraftregels
 
 ### **Artikel 51: Vliegdekschip (strafcategorie 2)**
 - De Aircraft Carrier is militair, justitieel gebied. Het betreden hiervan is geheel op eigen risico.
 - Op de Aircraft Carrier (vliegdekschip) gelden stedelijke regels.
-- De KMAR/POLITIE heeft in uiterste situaties toestemming om dodelijk vuur te gebruiken.
-- De Aircraft Carrier betreft een NoFlightZone. 
+- De politie heeft in uiterste situaties toestemming om dodelijk vuur te gebruiken.
 - Het landen, blijven hangen of andere bewegingen rondom de Aircraft Carrier is geheel op eigen risico.
 
 ### Artikel 51A: Helicopter op eiland regel:
