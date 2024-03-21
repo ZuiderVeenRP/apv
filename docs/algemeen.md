@@ -253,6 +253,10 @@
    * Het deelnemen aan een onderwereld event;
    * Mengen met criminele zaken om op deze wijzen andere gang waarmee samen wordt gewerkt te ondersteunen.
 - Enige deelnemer die deze regels overtreden zal worden bestraft met de daarvoor bestemde categorie, bij elke herhaling van deze overtredingen zal de straf met een categorie verhoogd worden.
+- Samenwerking qua wraakactie, hunten, rippen of wars is enkel toegelaten tussen **onofficiële** groeperingen.
+- **Officiële** groeperingen mogen alleen samenwerken in politie-scenario's en eigen klant-scenario's die niet-rivaliserende groeperingen erbij betrekken.
+- Samenwerken op eiland is niet toegestaan, tenzij hier specifiek toestemming voor is gegeven door de onderwereld coordinatoren (denk aan events).
+- Als een onofficiële groepering, een klant of een solo een call maakt over een gespot wapen, dan telt dit **niet** als samenwerking. Vanaf dat je zelf ook achter het wapen aan gaat, het wapen gaat rippen, meerijdt met de andere gang of in een gezamelijke porto zit, dan geldt dit **wel** als samenwerken.
 
 ### **Artikel 30: Oplichten en scammen (Straf-categorie: 1)**
 - Het is niet toegestaan om te scammen met voertuigen.
@@ -317,6 +321,9 @@
 - Bovenstaand geldt voor erkende gangs en niet erkende gangs.
 - Vanaf 10 leden is het verplicht om in een discord te zitten van ZuiderVeen, deze dient direct aangevraagd te worden via een ticket!
 - Het verbreken van bovenstaand artikel zal leiden tot een gang waarschuwing voor de betreffende gang.
+- Elke gang mag maximaal 8 friends hebben. Deze friends dienen ook de 'Friend' rol te hebben in de onderwereld discord.
+- Per scenario mogen er maximaal 5 friends koppelen. Ookal zijn er 8 in call, er mogen maar 5 aankoppelen
+- Indien een friend dood gaat in het scenario, mag hiervoor geen nieuwe friend aankoppelen. 
 
 ### **Artikel 34: Rippen van wapens (Straf-categorie: 1)**
 - Het rippen van wapens mag met elk soort wapen.
@@ -326,10 +333,12 @@
    * Als je zelf aangeeft een wapen opzak te hebben voordat je gefouilleerd wordt(je mag iemand niet onderschot houden en deze verplichten dit te vertellen).
 - Indien je gezichtsbedekkende kleding, een kogelwerend vest of een holster draagt, mag je op elk moment gefouilleerd worden waarbij je wapen dus geript kan worden zonder dat deze fysiek gezien is.
 - Als je een wapen, een holster, een kogelwerend vest of een masker fysiek gezien hebt, heb je maximaal 2 uur om het wapen van deze persoon te rippen. Daarna is de rip ongeldig, en dient het wapen teruggegeven te worden, of zal deze ingenomen worden door een stafflid.
-- Wanneer je op een motor rijdt geldt een helm niet als masker, anders wel. Het is je eigen verantwoordelijkheid om je helm af te zetten als je van je motor afstapt.
+- Wanneer je op een motor rijdt geldt een helm niet als masker, anders wel. Het is je eigen verantwoordelijkheid om je helm af te zetten als je van je motor afstapt. Dit geldt voor elke soort helm!!
+- Een valse baard of snor wordt **niet** gezien als masker, ookal staat deze onder het kopje 'masker' in kledingmenu.
 - Attachments mogen geript worden wanneer je ze op een wapen ziet, op de rug, of tijdens het fouilleren.
 - Discord kanalen (behalve twitter media en instagram media) tellen niet mee als ‘’gezien hebben’’
 - Je bent verplicht te clippen vanaf het zien van het wapen tot aan het rippen van het wapen voor eventueel bewijs.
+- Wapens die in je kofferbak of dashboard zitten, mogen geript worden. Deze hoeven dus **niet** fysiek gezien te worden.
 
 ### **Artikel 35: Officiële gangs (Straf-categorie: 5 + Gang-warn)**
 - Het misbruiken van het gang-menu is niet toegestaan.
