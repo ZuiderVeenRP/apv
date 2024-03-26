@@ -136,6 +136,7 @@
         * Iemand rijd perongeluk tegen je aan;   
    - Het uitdagen via twitter kan gezien worden als een geldige reden, mits hier bewijsmaterialen van zijn dat het om deze persoon gaat. Twitter media mag je in de stad gebruiken als informatie. Het korps staat in hun recht om de informatie te verwerken.
    - Kill on sight zal worden bestraft als RDM.
+   - Bij het vermoorden van een persoon dien je altijd de reden te benoemen met uitzondering van een shootout/gangwar, let op, het mag geen verzonnen verhaal zijn en er dient bewijs te zijn!
    - Een moord op een persoon die niet wil ‘blaffen’, ‘zingen’ , 'dansen' , 'vernederende dingen wilt doen' en dergelijke worden gezien als RDM.
    - Het doelbewust uitdagen van een gang valt niet onder RDM.
    - Het verbaal provoceren richting andere spelers is op eigen risico. 
