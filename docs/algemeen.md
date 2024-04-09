@@ -331,7 +331,8 @@
 - Wanneer je een wapen wilt rippen moet deze fysiek gezien zijn, uitzonderingen hierop zijn:
    * Rippen op het eiland;
    * Indien je gezichtsbedekkende kleding, een kogelwerend vest of een holster draagt, mag je op elk moment gefouilleerd worden waarbij je wapen dus geript kan worden zonder dat deze fysiek gezien is;
-   * Als je zelf aangeeft een wapen opzak te hebben voordat je gefouilleerd wordt(je mag iemand niet onderschot houden en deze verplichten dit te vertellen).
+   * Als je zelf, of je groep, aangeeft dat je een wapen opzak hebt, kunnen jij of je groep geript worden van je wapen zonder deze fysiek gezien te hebben.
+     Het is je eigen verantwoordelijkheid indien je dit zelf aangeeft. Voorbeelden hiervan zijn: in een porto zeggen dat je een setup zet, of dat je gang in een deepweb gaat melden dat je 'op pad gaat met wapens.
 - Indien je gezichtsbedekkende kleding, een kogelwerend vest of een holster draagt, mag je op elk moment gefouilleerd worden waarbij je wapen dus geript kan worden zonder dat deze fysiek gezien is.
 - Als je een wapen, een holster, een kogelwerend vest of een masker fysiek gezien hebt, heb je maximaal 2 uur om het wapen van deze persoon te rippen. Daarna is de rip ongeldig, en dient het wapen teruggegeven te worden, of zal deze ingenomen worden door een stafflid.
 - Wanneer je op een motor rijdt geldt een helm niet als masker, anders wel. Het is je eigen verantwoordelijkheid om je helm af te zetten als je van je motor afstapt. Dit geldt voor elke soort helm!!
