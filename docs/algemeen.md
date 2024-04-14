@@ -446,7 +446,7 @@ Voorbeelden onder bovenstaand zijn uitspraken als "L" in Twitter.
 ### **Artikel 47: Rippen eiland (Straf-categorie: 2)**
 - Op het eiland mag je 80 zakjes per persoon rippen. De regel op het vaste land blijft staan op het rippen van 20 zakjes.
 - Na het rippen mag je niet binnen 60 minuten (1uur) de zelfde persoon nogmaals rippen
-- Op het eiland mag je 50k aan zwart geld rippen.
+- Op het eiland mag je 50k aan zwart/wit geld rippen.
 - Ieder wapen mag ieder wapen rippen. Je mag diegene daarna ook doodschieten.
 - Kom je wapens tegen met het fouilleren mag je deze afpakken (eigen risico van het meenemen op het eiland).
 
