@@ -254,7 +254,6 @@
    * Het deelnemen aan een onderwereld event;
    * Mengen met criminele zaken om op deze wijzen andere gang waarmee samen wordt gewerkt te ondersteunen.
 - Enige deelnemer die deze regels overtreden zal worden bestraft met de daarvoor bestemde categorie, bij elke herhaling van deze overtredingen zal de straf met een categorie verhoogd worden.
-- Samenwerking qua wraakactie, hunten, rippen of wars is enkel toegelaten tussen **onofficiële** groeperingen.
 - **Officiële** groeperingen mogen alleen samenwerken in politie-scenario's en eigen klant-scenario's die niet-rivaliserende groeperingen erbij betrekken.
 - Samenwerken op eiland is niet toegestaan, tenzij hier specifiek toestemming voor is gegeven door de onderwereld coordinatoren (denk aan events).
 - Als een onofficiële groepering, een klant of een solo een call maakt over een gespot wapen, dan telt dit **niet** als samenwerking. Vanaf dat je zelf ook achter het wapen aan gaat, het wapen gaat rippen, meerijdt met de andere gang of in een gezamelijke porto zit, dan geldt dit **wel** als samenwerken.
