@@ -100,6 +100,7 @@
    - Wanneer er een vuurwapen op je wordt gericht dien je ten alle tijden mee te werken. Echter zodra het wapen niet meer gericht wordt, mag je wel acties ondernemen. Zoals je eigen vuurwapen trekken en de betreffende persoon onder schot houden met inachtingneming van bovenstaande regel.
    - Wanneer je niet in een voertuig zit dien je mee te werken als er een taser staat gericht.
    - Elke andere vorm waarmee je bewust je eigen leven in een té groot gevaar brengt valt onder no value of life, dus gebruik je gezonde verstand om de situatie in te schatten.
+   - Een rijdende blokkade valt altijd onder Nvol.
    - Wanneer dit artikel vaker dan 1x eerder is overtreden staat een stafflid in zijn/haar recht om een wapen in te nemen. 
 
 ### **Artikel 10: New life rule (Straf-categorie: 2)**
@@ -443,10 +444,10 @@ Voorbeelden onder bovenstaand zijn uitspraken als "L" in Twitter.
 # Eilandregels
 
 ### **Artikel 47: Rippen eiland (Straf-categorie: 2)**
-- Op het eiland mag je 80 zakjes per persoon rippen. De regel op het vaste land blijft staan op het rippen van 20 zakjes.
+- Op het eiland mag je 75 zakjes per persoon rippen. De regel op het vaste land blijft staan op het rippen van 20 zakjes.
 - Na het rippen mag je niet binnen 60 minuten (1uur) de zelfde persoon nogmaals rippen
-- Op het eiland mag je 50k aan zwart/wit geld rippen.
-- Ieder wapen mag ieder wapen rippen. Je mag diegene daarna ook doodschieten.
+- Op het eiland mag je 30k aan zwart geld rippen. Geen witgeld, ook niet laten pinnen en dan rippen.
+- Ieder wapen mag ieder wapen rippen. Je mag diegene daarna ook doodschieten. Bij alle andere rips mag je iemand NIET daarna doodschieten.
 - Kom je wapens tegen met het fouilleren mag je deze afpakken (eigen risico van het meenemen op het eiland).
 
 ### **Artikel 47.1: RDM eiland (Straf-categorie: 1, afhankelijk aantal bans)**
