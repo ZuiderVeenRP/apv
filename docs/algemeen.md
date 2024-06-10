@@ -29,6 +29,7 @@
 ### **Artikel 3A: Startersgeld (categorie 9)**
    - Het is niet toegestaan startersgeld aan anderen te geven zonder enige bedoeling zelf te gaan spelen.
    - Het is niet toegestaan om de speeltijd zonder enige doel af te wachten en dan als nog geld over te maken zonder doel te hebben langer te gaan spelen.
+   - Zowel gever als ontvanger van startersgeld krijgt een ban.
 
 ### **Artikel 4: Bedreigen / intimideren (Straf-categorie: 9)**
    - Het is ten strengste verboden om een burger en/of stafflid te bedreigen of te intimideren met een DDOS aanval.
