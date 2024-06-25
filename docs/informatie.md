@@ -52,6 +52,7 @@ Om in aanmerking te komen voor een refund moet je aan de volgende eisen voldoen:
 Als je refund hier niet aan voldoet, staat een stafflid in zijn/haar recht om je refund af te keuren.
 
 Bij de volgende scenario's is er geen refund mogelijk:
+
 - Wanneer een persoon wordt gebanned waar je spullen aan hebt uitgeleend.
 - Wanneer je aangereden wordt terwijl je door rood licht rijdt. Dit wordt gezien als een verkeersongeluk.
 - Wanneer je een dodelijke crash maakt met je voertuig. Het is aan de ambulance of je nog te redden valt.
