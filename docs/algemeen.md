@@ -47,7 +47,7 @@
       * Onjuist gebruik maken van een F6 menu tijdens scenario’s.
       * Zonder goeie reden iemand zijn/haar band lek steken.	
       * Het schieten van banden van random spelers zonder enige aanleiding.
-      * Het niet uitspelen van verwondingen na een zware crash valt ook onder FailRP. Voorbeelden zijn:
+   - Het niet uitspelen van verwondingen na een zware crash valt ook onder FailRP. Voorbeelden zijn:
       * Over de kop gaan met een snelheid meer dan 40Km/U (ook al land je hem op de wielen).
       * Crashen tegen onverwoestbare objecten met meer dan 85Km/U (Denk aan gebouwen, of palen die dus NIET kapot gaan.)
       * Crashen tegen voertuigen met meer dan 85Km/U
