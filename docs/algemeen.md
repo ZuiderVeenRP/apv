@@ -2,6 +2,8 @@
 
 ### **Artikel 1: Cheats (Straf-categorie: 9)**
    - Het gebruik maken van software van derde partijen om een voordeel in het spel te krijgen is niet toegestaan. Hieronder vallen o.a. cheats/hacks.
+   - Het weigeren van een PC check zal betekenen dat we jou moeten bannen van de server. Dit doen we om de veiligheid van andere spelers te waarborgen.
+   - Indien er duidelijk bewijs is dat jij in het bezit bent van cheats (en deze gebruikt op andere servers) staan wij in ons recht jou te bannen voor lid 1 van dit artikel. 
 
 ### **Artikel 1A: Externe Software (Straf-categorie: 7)**
    - Het gebruik maken van instellingen/programma's zoals een crosshair, aangepaste schermresolutie of reshade waardoor je combat gerichte voordelen krijgt is niet toegestaan.
@@ -45,6 +47,15 @@
       * Onjuist gebruik maken van een F6 menu tijdens scenario’s.
       * Zonder goeie reden iemand zijn/haar band lek steken.	
       * Het schieten van banden van random spelers zonder enige aanleiding.
+      * Het niet uitspelen van verwondingen na een zware crash valt ook onder FailRP. Voorbeelden zijn:
+      * Over de kop gaan met een snelheid meer dan 40Km/U (ook al land je hem op de wielen).
+      * Crashen tegen onverwoestbare objecten met meer dan 85Km/U (Denk aan gebouwen, of palen die dus NIET kapot gaan.)
+      * Crashen tegen voertuigen met meer dan 85Km/U
+      * Een crash effect hebben (benen geschoten worden in het voertuig valt hier niet onder!)
+      * Alle vormen waarbij je de lucht in vliegt en stunt bewegingen maakt zoals barrel rolls of over de kop, desondanks deze te landen op wielen of niet. Direct landen op de wielen valt hier dus niet onder.
+      * Crashen met een motor met meer dan 55Km/U (Maakt niet uit hoe je valt).
+      * Als je van je motor wordt af geschoten boven de 55Km/U dien je ook verwondingen uit te spelen, maakt niet uit hoe je land.
+      * Voor alle voertuigen gelden bovenstaande regels, inclusief gepantserde voertuigen.
    - Het stelen van een voertuig is toegestaan wanneer deze onbemand achter is gelaten langs de weg.
    - Het stelen van een voertuig is niet toegestaan wanneer iemand bezig is met zijn voertuig. Dit zal bestraft worden met een straf uit de **3de categorie**.
      * Inladen
@@ -62,7 +73,7 @@
      voor eigen belangen en tot onrealistische dwang de scenario veranderd zal gezien worden als Fail RP.
    - **Indien een speler geen intentie toont om te roleplayen, staat een stafflid in zijn/haar recht om een straf uit te delen volgens de 9de categorie.**
 
-### **Artikel 6: Powergamen (Straf-categorie: 2)**
+### **Artikel 6: Powergamen (Straf-categorie: 3)**
    - Het opzettelijk veranderen van een scenario door onrealistische componenten toe te voegen, waardoor het voor de andere partij niet realistisch te spelen is. 
    - Enkele voorbeelden van Powergamen:
       * Het vluchten in je appartement tijdens een scenario.
@@ -74,6 +85,8 @@
       * Hulp van bijvoorbeeld voertuigen om zo over muren heen te kijken (bijvoorbeeld bij mansion op het eiland) is niet toegestaan. 
       * Iemand vastbinden met tiewraps zonder geldige reden is niet toegestaan.
       * Iemand vastbinden met /me bind vast is niet toegestaan.
+      * Meerdere keren in een shootout je handen omhoog doen om zo te forceren dat je niet doodgeschoten mag worden door een agent. (Dit geldt **niet** voor een fight tussen gangs)
+
 
 ### **Artikel 7: Karakter breken / OOC (Straf-categorie: 1)** 
    - Het is te allen tijde niet toegestaan om je karakter te breken. Alles onder Out Of Character valt hieronder. Ook woorden als "staff", "broodje", "tickets", "refund", "bug" zijn niet toegestaan.
@@ -272,7 +285,7 @@
 - Tijdens een winkeloverval zal er geen DSI aanwezig zijn, tenzij er automatische wapens aanwezig zijn. Een OVD kan de keuze maken om hier vanaf te wijken. 
 - Max hostages bij een kleine bank of winkel is 5.
 - Max hostages bij een grote bank, jacht of humane labs is 10.
-- Een OV mag niet gecounterd worden tot 1 uur na de OV. Hieronder valt ook het rippen van de wapens. Van diegene die de OV gedaan hebben.
+- Een OV / massagijzeling mag niet gecounterd worden tot 1 uur na de OV/massagijzeling. Hieronder valt ook het rippen van de wapens. Van diegene die de OV/masssagijzeling gedaan hebben.
 - De onderhandelaar mag niet worden beschoten of worden gegijzeld tijdens een onderhandeling.
 - Vrienden als hostage nemen is niet toegestaan. 
 - Minimale aantal politie in dienst voor een kleine bank en winkel is 4.

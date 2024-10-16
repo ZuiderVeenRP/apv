@@ -1,6 +1,6 @@
 # **Strafcategorieën:**
 
-  - **Categorie 1** – Waarschuwing + 50 taakstraffen<br>
+  - **Categorie 1** – Waarschuwing + 100 taakstraffen<br>
      ➥ 3 waarschuwingen in 1 maand is straf van categorie 2
   - **Categorie 2** – Ban van 1 dag
   - **Categorie 3** – Ban van 2 dagen

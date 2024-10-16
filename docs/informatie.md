@@ -3,11 +3,6 @@
 ### **Aanvechten straf binnen bepaalde tijd aanmaken om behandeld te worden.**
 Een burger heeft het recht om in beroep te gaan tegen de opgelegde straf. Dit dient enkel binnen een tijdsbestek van 1 week te gebeuren. Na dit tijdsbestek valt er niet meer in beroep te gaan tegen uw opgelegde straf.
 
-
-### **Refunds claimen binnen een bepaalde tijd.**
-Een refund dient binnen 2 weken geclaimd te zijn, anders zal de verkregen refund vervallen, tenzij er een afspraak is gemaakt met het stafflid in kwestie over het claimen op een later moment.
-
-
 ### **Veranderingen straf afhankelijk scenario verwoorden.**
 Indien er duidelijk bewijs gevonden is die de opgelegde straf kan veranderen, staat het stafflid in zijn recht om de straf te veranderen. Dit is afhankelijk van het gevonden bewijs.
 
