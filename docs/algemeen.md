@@ -293,7 +293,7 @@
   | Winkel      |          4          |       5       |          2           |
   | Kleine Bank |          6          |       5       |          3           |
   | Jacht       |          7          |       8       |          4           |
-  | Juwelier    |          7          |       8       |          3           |
+  | Juwelier    |          7          |       8       |          4           |
   | Humane Labs |          8          |      10       |          4           |
   | Grote Bank  |          8          |      10       |          4           |
 
