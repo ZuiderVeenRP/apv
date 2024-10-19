@@ -281,21 +281,26 @@
 - Na het oplichten/scammen is het niet toegestaan om de desbetreffende burger te vermoorden.
 
 ### **Artikel 31: Overvallen op winkels en banken (Straf-categorie: 2)**
-- Er is geen maximum aan overvallers in een kleine bank, grote bank, juwelier of winkel.
-- Tijdens een winkeloverval zal er geen DSI aanwezig zijn, tenzij er automatische wapens aanwezig zijn. Een OVD kan de keuze maken om hier vanaf te wijken. 
-- Max hostages bij een kleine bank of winkel is 5.
-- Max hostages bij een grote bank, jacht of humane labs is 10.
-- Een OV / massagijzeling mag niet gecounterd worden tot 1 uur na de OV/massagijzeling. Hieronder valt ook het rippen van de wapens. Van diegene die de OV/masssagijzeling gedaan hebben.
+- Er is geen maximum aan overvallers.
+- Tijdens een winkeloverval zal er geen DSI aanwezig zijn, tenzij er automatische wapens aanwezig zijn. Een Officier van Dienst of leidinggevende kan de keuze maken om hier vanaf te wijken.
+- Overvallers van een overval mogen tot 1 uur na de overval niet gecounteren worden. _(Hieronder valt het rippen van de wapens & opbrengst)_
 - De onderhandelaar mag niet worden beschoten of worden gegijzeld tijdens een onderhandeling.
-- Vrienden als hostage nemen is niet toegestaan. 
-- Minimale aantal politie in dienst voor een kleine bank en winkel is 4.
-- Minimale aantal politie in dienst voor een grote bank, jacht of humane labs is 7.
-- Maximale outside shooters:
-> 2 Winkel </br>
-> 3 Juwelier / Politie Bureau Blokkenpark / Lifeinvader & Tequi-la-la </br>
-> 3 jacht en kleine bank </br>
-> 4 humane labs / grote bank / Stripclub & Maze Bank Arena </br>
-- Outside hostages zijn niet toegestaan.
+- Vrienden als hostage nemen is niet toegestaan.
+- Een OV / massagijzeling mag niet gecounterd worden tot 1 uur na de OV/massagijzeling. Hieronder valt ook het rippen van de wapens. Van diegene die de OV/masssagijzeling gedaan hebben.
+
+  | Type        | Min. aantal agenten | Max. hostages | Max outside shooters |
+  | :---------- | :-----------------: | :-----------: | :------------------: |
+  | Winkel      |          4          |       5       |          2           |
+  | Kleine Bank |          6          |       5       |          3           |
+  | Jacht       |          7          |       8       |          4           |
+  | Juwelier    |          7          |       8       |          3           |
+  | Humane Labs |          8          |      10       |          4           |
+  | Grote Bank  |          8          |      10       |          4           |
+
+  > - De Stripclub overval valt onder het type "Winkel"
+  > - De Tequilala overval valt onder het type "Winkel"
+  > - De MazeBank arena overval valt onder het type "Grote Bank"
+  > - De LifeInvader overval valt onder het type "Winkel"
 
 ### **Artikel 32: Onderwereld Spelers (Straf-categorie: 3)**
 - Het is niet toegestaan om op dezelfde locatie (reikwijdte van 500 meter) te rippen binnen een tijdspanne van 30 minuten.
