@@ -7,6 +7,7 @@
 
 ### **Artikel 1A: Externe Software (Straf-categorie: 7)**
    - Het gebruik maken van instellingen/programma's zoals een crosshair, aangepaste schermresolutie of reshade waardoor je combat gerichte voordelen krijgt is niet toegestaan.
+   - De enige toegestane schermresoluties zijn: AUTO, 16:9 of 16:10.
 
 ### **Artikel 2: Exploits/bugs (Straf-categorie: 7)**
    - Hieronder wordt verstaan het doelbewust gebruik maken van een bug/exploit die in jou of andermans voordeel werkt.
@@ -15,7 +16,6 @@
       * Het niet aangeven van gedupliceerde items na server restarts/crashes of bij directe constatering.
       * Het gebruik maken van een emote om aan de andere kant van een muur/deur te komen of uit te breken van bijvoorbeeld de gevangenis en/of te gebruiken om te ontsnappen.
       * Handelingen uitvoeren terwijl je dood bent.
-      * Reloggen om zo weer meer health er bij te krijgen.
       * De bug ‘one punch’ zal bestraft worden met een straf volgens de 5de categorie.
       * Wanneer er sprake is van gedupliceerde items/geld, volgt er een straf van zowel de 7de als de 8ste categorie.
 
@@ -46,7 +46,7 @@
       * Geen roleplay aangaan in situaties waarbij je (ernstig) gewond bent.
       * Onjuist gebruik maken van een F6 menu tijdens scenario’s.
       * Zonder goeie reden iemand zijn/haar band lek steken.	
-      * Het schieten van banden van random spelers zonder enige aanleiding.
+      * Het schieten van banden van random spelers zonder enige aanleiding of reden. Je dient minstens 2x verbaal te waarschuwen & meerdere keren proberen te pitten voordat dit toegestaan is.
    - Het niet uitspelen van verwondingen na een zware crash valt ook onder FailRP. Voorbeelden zijn:
       * Over de kop gaan met een snelheid meer dan 40Km/U (ook al land je hem op de wielen).
       * Crashen tegen onverwoestbare objecten met meer dan 85Km/U (Denk aan gebouwen, of palen die dus NIET kapot gaan.)
@@ -62,12 +62,13 @@
      * Uitladen
      * Tanken
      * Repareren
-   - Het campen op elk drugs locatie in de stad en/of eiland zal bestraft worden met een straft uit de **4de categorie**.
-     Onder campen wordt verstaan, het langdurig zichtbaar/verborgen verblijven met als doel, aanleiding en/of ten uitvoer brengen tot illegale activiteiten.
+   - Het campen op elke drugs- en appartementslocatie in de stad en/of eiland zal bestraft worden met een straf uit de **4de categorie**.
+     Onder campen wordt verstaan, het langdurig (langer dan 2 minuten) zichtbaar/verborgen verblijven met als doel, aanleiding en/of ten uitvoer brengen tot illegale activiteiten.
      Enkele voorbeelden zijn:
       * Het wachten in bosjes of openbaar om vervolgens wanneer een bus geopend word, er op af lopen om goederen er uit te halen.
       * Het wachten in bosjes of openbaar om een voertuig mee te kunnen nemen welke niet van jou zelf is en/of daarna de goederen er uit te halen.
       * Het wachten in bosjes of openbaar vervolgens mensen te gaan rippen van hun wapens, geld en/of goederen.
+      * Het campen rondom de drugsverkoop -en witwaskloplocaties om vervolgens mensen te rippen. Je mag wel in de wijken rondrijden maar niet campen rondom een cirkel.
    - Praten terwijl je dood bent is niet toegestaan. Wanneer je op een manier gedood wordt dat tegen de server regels is, maak je een report aan.
    - een scenario waar je eigen belang en niet dat van een ander in acht genomen wordt. Of waarbij de roleplay van anderen ingevuld wordt
      voor eigen belangen en tot onrealistische dwang de scenario veranderd zal gezien worden als Fail RP.
@@ -82,22 +83,26 @@
       * Een speler meenemen naar het eiland om hem daar te doden, met de intentie om de RDM regel te vermijden.
       * Het toepassen van emoties, zoals F5, is niet toegestaan wanneer je beschoten wordt --> emote abuse.
       * Het in F5 liggen achter een muur om dan in third-person te kunnen kijken en niet op te vallen.
-      * Hulp van bijvoorbeeld voertuigen om zo over muren heen te kijken (bijvoorbeeld bij mansion op het eiland) is niet toegestaan. 
-      * Iemand vastbinden met tiewraps zonder geldige reden is niet toegestaan.
-      * Iemand vastbinden met /me bind vast is niet toegestaan.
-      * Meerdere keren in een shootout je handen omhoog doen om zo te forceren dat je niet doodgeschoten mag worden door een agent. (Dit geldt **niet** voor een fight tussen gangs)
+      * Voertuigen op een fysieke manier en/of via third-person POV gebruiken om over een muur heen te kijken is niet toegestaan
+      * Iemand vastbinden met tiewraps en/of F6-menu zonder geldige reden is niet toegestaan.
+      * Iemand vastbinden met '/me bind vast' is niet toegestaan. Je mag geen handelingen via /me doen die je fysiek ingame kan uitvoeren.
+      * Een of meerdere keren in een shootout je handen omhoog doen om zo te forceren dat je niet doodgeschoten mag worden door een agent. (Dit geldt **niet** voor een fight tussen gangs).
+      * Tijdens een achtervolging je voertuig in de garage zetten om te voorkomen dat je herkend wordt. Mocht je van voertuig willen wisselen in een achtervolging moet je het oude voertuig dus laten staan.
+      * Het is niet toegestaan om ambtenaren met/zonder een wapen te forceren om een bewusteloos persoon te fouilleren en items af te nemen en af te geven aan jou of iemand anders.
+      * Onder dwang iemands voertuig uit zijn garage laten halen, behalve wanneer die specifieke auto aantoonbaar gezien is bij een illegale activiteit en je diegene duidelijk hebt achtervolgt.
 
 
 ### **Artikel 7: Karakter breken / OOC (Straf-categorie: 1)** 
    - Het is te allen tijde niet toegestaan om je karakter te breken. Alles onder Out Of Character valt hieronder. Ook woorden als "staff", "broodje", "tickets", "refund", "bug" zijn niet toegestaan.
-   - Het is alleen toegestaan om de Nederlandse/Engelse taal te spreken/typen in de stad ZuiderVeen.
+   - Het is alleen toegestaan om de Nederlandse/Engelse taal te spreken/typen in de stad ZuiderVeen. (Uitzonderlijke situaties moeten bij een stafflid aangevraagd worden)
    - Het karakter breken in porto valt hier ook onder. Een stafflid staat **altijd** in zijn recht een warn uit te delen op **ieder** moment, wanneer een speler zijn/haar karakter breekt.
+   - Het is verboden om een ingame ban/warn te vermelden in de stad. Ook niet onder het mom "vakantie".
 
 ### **Artikel 8: Copbaiten (Straf-categorie: 1)**
    -  Hieronder wordt verstaan:
       * Het doelbewust uitlokken van reacties van ambtenaren in functie;
-      * Het moedwillig veroorzaken van achtervolgingen zonder illegale praktijken uit te voeren of zonder enige illegaal goed en/of wapen op zak te hebben;
-      * Het verstoren van een scenario ongeacht hoe groot of klein, denk daarbij aan het telkens heen en weer rijden bij een overval;
+      * Het moedwillig veroorzaken van achtervolgingen zonder een geldige reden te hebben of zonder enige illegaal goed en/of wapen op zak te hebben.
+      * Het verstoren van een scenario ongeacht hoe groot of klein, denk daarbij aan het telkens heen en weer rijden bij een overval of gaan mengen in een achtervolging dat al enkele minuten bezig is.
       * Het afleiden van ambtenaren, tijdens een overval, valt niet onder copbaiten.
 
 ### **Artikel 9: No value of life (Straf-categorie: 4)**
@@ -107,6 +112,7 @@
       * Het indrukken van de noodknop terwijl er een wapen op je gericht staat.
       * Het doelbewust meermaals inklikken van de porto wanneer een wapen op je gericht staat.
       * Zodra er een wapen op je gericht staat is het niet meer toegestaan om in je porto te praten.
+      * Met je voertuig een persoon dekking door tussen de vuurlinie te gaan staan, zodat hij/zij niet geraakt kan worden. (ongeacht de voice range)
    - De range van gunpoint moet minimaal op 2e voice range zijn, alles daarbuiten wordt gezien als niet verstaanbaar en is je eigen verantwoordelijkheid wanneer het anders verloopt.
    - NVOL moment gaat in op het moment dat je het wapen duidelijk richt op de persoon, niet als je het wapen enkel pakt. Het roepen dat er een wapen gericht staat is dus niet leidend, je dient daadwerkelijk het wapen te richten.
    - Zodra iemand een steek- of slagwapen binnen armlengte afstand van je trekt dan werk je mee, doe je dit niet ben je niet zuinig met je leven aangezien je dan bewust het risico neemt neergestoken of neergeslagen te worden. 
@@ -151,7 +157,7 @@
         * Iemand rijd perongeluk tegen je aan;   
    - Het uitdagen via twitter kan gezien worden als een geldige reden, mits hier bewijsmaterialen van zijn dat het om deze persoon gaat. Twitter media mag je in de stad gebruiken als informatie. Het korps staat in hun recht om de informatie te verwerken.
    - Kill on sight zal worden bestraft als RDM.
-   - Bij het vermoorden van een persoon dien je altijd de reden te benoemen met uitzondering van een shootout/gangwar, let op, het mag geen verzonnen verhaal zijn en er dient bewijs te zijn!
+   - Vóór het vermoorden van een persoon dien je altijd de reden te benoemen met uitzondering van een shootout/gangwar. Let op, het mag geen verzonnen verhaal zijn en er dient bewijs te zijn!
    - Een moord op een persoon die niet wil ‘blaffen’, ‘zingen’ , 'dansen' , 'vernederende dingen wilt doen' en dergelijke worden gezien als RDM.
    - Het doelbewust uitdagen van een gang valt niet onder RDM.
    - Het verbaal provoceren richting andere spelers is op eigen risico. 
@@ -164,6 +170,7 @@
    - Wanneer je in Zuiderveen bent is het verboden om te screen sharen.
    - Het praten in call tijdens een scenario zal als metagamen worden gezien. Wanneer je met meerdere mensen op ZuiderVeen speelt is het verplicht om jezelf te muten tijdens scenario's.
    - Het versturen van ingame informatie in de ZuiderVeen onderwereld discord wordt gezien als meta.
+   - Als je Zuiderveen streamt moet deze altijd openbaar zijn. Privéstreamen is verboden.
 
 
 ### **Artikel 16: Voertuig gebruik (Straf-categorie: 1)**
@@ -204,18 +211,18 @@
    - Onder illegale activiteiten valt het vragen van aanwezigheid van gangs in twitter/instagram, of het aanwezig zijn als gang.
    - Het is niet toegestaan om vervormingen/synoniemen te gebruiken in/op Twitter/instagram om illegale activiteiten te triggeren. Hierbij kun je bijvoorbeeld denken aan woorden zoals sokken wassen, honkbalspullen, poedersuiker, zakjes snoep en de emote van een palmboom om spelers te laten weten
      dat je op het eiland bent.
-   - Onder illegale activiteiten valt ook het aangeven in twitter/instagram dat je hostages hebt of dat wapens niet mogen worden afgepakt.
+   - Het is wel toegestaan om in twitter/instagram aan te geven dat je hostages hebt of dat wapens niet mogen worden afgepakt. 1 of 2x is voldoende. Spammen zal leiden tot een straf van de 1ste categorie.
    - Het is verboden om ingame een reactie te geven op bans/warns die in twitter/instagram te zien zijn.
    
 ### **Artikel 19: Overheidskleding dragen (Straf-categorie: 1)**
    - Jezelf voordoen als overheidspersoneel is niet toegestaan.
    - Het dragen van kogelwerende vesten met een politie logo of welke valt onder overheidsdragende vesten is niet toegestaan.
-   - Het dragen van ANWB en/of Ambulance kleding en/of accessoires, zoals tassen is niet toegestaan.
+   - Het dragen van Pechhulp en/of Ambulance kleding en/of accessoires, zoals tassen is niet toegestaan.
 
 ### **Artikel 20: Schelden/beledigen van spelers of staff leden (Straf-categorie: 5)**
    - Het uitschelden van spelers is niet toegestaan. Hieronder valt het schelden met bekende, hedendaagse ziektes.
    - Seksuele uitingen of beledigingen van vrouwen wordt bestraft met een straf uit de 5de categorie.
-   - Het uitschelden van burgers met racistische opmerkingen wordt bestraft met een straf uit de **6de categorie**.
+   - Het uitschelden van burgers met racistische of discriminerende opmerkingen wordt bestraft met een straf uit de **6de categorie**.
 
 ### **Artikel 21: Het dragen van de standaard outfit (Straf-categorie:1)**
 - Het dragen van de standaard outfit (zwart-wit geblokt) is niet toegestaan. Je dient een volledige outfit te maken, waarbij je armen en benen zichtbaar zijn en de kleding goed aansluit. 
@@ -265,9 +272,9 @@
 - Wanneer er meer dan 5 personen mee doen aan een scenario, zal dit gezien worden als een criminele groepering en zal deze groep zich moeten houden aan de onderwereld regels.
 - Bij 10 leden dient een groepering in een zv disc te zitten, deze dient aangevraagd te worden via een ticket!
 - Onder criminele scenario's wordt verstaan:
-   * Het hunten met andere gangs/groeperingen op personen van andere gangs en/of groeperingen en/of overheidspersonen/instanties;
-   * Het deelnemen aan een onderwereld event;
-   * Mengen met criminele zaken om op deze wijzen andere gang waarmee samen wordt gewerkt te ondersteunen.
+  * Het hunten met andere gangs/groeperingen op personen van andere gangs en/of groeperingen en/of overheidspersonen/instanties;
+  * Het deelnemen aan een onderwereld event, een overval, een massagijzeling, een achtervolging die al enkele minuten bezig is etc..;
+  * Mengen met criminele zaken om op deze wijzen andere gang waarmee samen wordt gewerkt te ondersteunen.
 - Enige deelnemer die deze regels overtreden zal worden bestraft met de daarvoor bestemde categorie, bij elke herhaling van deze overtredingen zal de straf met een categorie verhoogd worden.
 - Alle groeperingen mogen alleen samenwerken in politie-scenario's en eigen klant-scenario's die niet-rivaliserende groeperingen erbij betrekken.
 - Samenwerken op eiland is niet toegestaan, tenzij hier specifiek toestemming voor is gegeven door de onderwereld coordinatoren (denk aan events).
@@ -287,6 +294,9 @@
 - De onderhandelaar mag niet worden beschoten of worden gegijzeld tijdens een onderhandeling.
 - Vrienden als hostage nemen is niet toegestaan.
 - Een OV / massagijzeling mag niet gecounterd worden tot 1 uur na de OV/massagijzeling. Hieronder valt ook het rippen van de wapens. Van diegene die de OV/masssagijzeling gedaan hebben.
+- Indien de overval gestart is en-/of de Politie aanwezig is bij de overval mag er niet door een derde partij gemengd worden. Dit geldt ook voor de achtervolging opvolgend van de overval. Outsiders mogen wel gepakt worden.
+- Indien er een gijzeling plaatsvindt en de Politie is op locatie aanwezig met het scenario mag er niet gemend worden door een derde partij. Als jij bijvoorbeeld een foto of locatie deelt over de verzamelplaats van hostages mag er wel gemengd worden, totdat bovenstaande zin in gang is gezet. Dit geldt ook voor de opvolgende achtervolging van de gijzeling.
+- Zodra bovenstaande 2 punten (lid 7/8) niet van toepassing zijn en de groep dat achtervolgt wordt door de Politie heeft binnen een tijdsbestek van 10 minuten wel op de derde partij geschoten, mag de derde partij hierbij mengen. De derde partij moet binnen deze 10 minuten zijn aangesloten bij de achtervolging.
 
   | Type        | Min. aantal agenten | Max. hostages | Max outside shooters |
   | :---------- | :-----------------: | :-----------: | :------------------: |
@@ -326,6 +336,7 @@
 - Kills van de politie tellen ook mee in de gang war aangezien je dood gaat in hetzelfde scenario. 
 - Wanneer je dood bent gegaan tijdens een war met meerdere gangs mag je niet meer meedoen tot de war over is (ook niet met nieuwe redenen). Indien dit wel geconstateerd wordt, wordt dit bestraft met een straf uit de 2de categorie. Kortom, dood = dood (verkeersongevallen en dodelijke ongelukken vallen hier ook onder).
 - Indien je onbewust voor een 2de keer wordt doodgeschoten in een gangwar omdat je op een bepaalde plek bent, is dit op eigen risico. Indien men er vanaf weet en je bewust nog een keer shoot, zal dit vallen onder artikel 14.
+- Voor specificaties en extra informatie staan alle regels omtrent gangwars in de Zuiderveen Onderwereld Discord bij het kanaal [Gang-regels](https://discordapp.com/channels/777512381688709200/777515986567692308)
 
 ### **Artikel 32.2: Ontvoeren (Straf-categorie: 1)**
 - Het ontvoeren van burgers is toegestaan vanaf minimaal 2 politie in dienst.
@@ -348,18 +359,17 @@
 ### **Artikel 34: Rippen van wapens (Straf-categorie: 1)**
 - Het rippen van wapens mag met elk soort wapen.
 - Wanneer je een wapen wilt rippen moet deze fysiek gezien zijn, uitzonderingen hierop zijn:
-   * Rippen op het eiland;
-   * Indien je gezichtsbedekkende kleding, een kogelwerend vest of een holster draagt, mag je op elk moment gefouilleerd worden waarbij je wapen dus geript kan worden zonder dat deze fysiek gezien is;
-   * Als je zelf, of je groep, aangeeft dat je een wapen opzak hebt, kunnen jij of je groep geript worden van je wapen zonder deze fysiek gezien te hebben.
+  * Rippen op het eiland;
+  * Indien je gezichtsbedekkende kleding, een kogelwerend vest of een holster draagt, mag je op elk moment gefouilleerd worden waarbij je wapen dus geript kan worden zonder dat deze fysiek gezien is;
+  * Als je zelf, of je groep, aangeeft dat je een wapen opzak hebt, kunnen jij of je groep geript worden van je wapen zonder deze fysiek gezien te hebben.
      Het is je eigen verantwoordelijkheid indien je dit zelf aangeeft. Voorbeelden hiervan zijn: in een porto zeggen dat je een setup zet, of dat je gang in een deepweb gaat melden dat je 'op pad gaat met wapens.
-- Indien je gezichtsbedekkende kleding, een kogelwerend vest of een holster draagt, mag je op elk moment gefouilleerd worden waarbij je wapen dus geript kan worden zonder dat deze fysiek gezien is.
 - Als je een wapen, een holster, een kogelwerend vest of een masker fysiek gezien hebt, heb je maximaal 2 uur om het wapen van deze persoon te rippen. Daarna is de rip ongeldig, en dient het wapen teruggegeven te worden, of zal deze ingenomen worden door een stafflid.
 - Wanneer je op een motor rijdt geldt een helm niet als masker, anders wel. Het is je eigen verantwoordelijkheid om je helm af te zetten als je van je motor afstapt. Dit geldt voor elke soort helm!!
 - Een valse baard of snor wordt **niet** gezien als masker, ookal staat deze onder het kopje 'masker' in kledingmenu.
 - Attachments mogen geript worden wanneer je ze op een wapen ziet, op de rug, of tijdens het fouilleren.
 - Discord kanalen (behalve twitter media en instagram media) tellen niet mee als ‘’gezien hebben’’
 - Je bent verplicht te clippen vanaf het zien van het wapen tot aan het rippen van het wapen voor eventueel bewijs.
-- Wapens die in je kofferbak of dashboard zitten, mogen geript worden. Deze hoeven dus **niet** fysiek gezien te worden.
+- Wapens die in je kofferbak zitten, mogen geript worden. Deze hoeven dus **niet** fysiek gezien te worden.
 
 ### **Artikel 35: Officiële gangs (Straf-categorie: 5 + Gang-warn)**
 - Het misbruiken van het gang-menu is niet toegestaan.
@@ -368,6 +378,7 @@
 - Het is niet toegestaan om een persoon uit de auto te halen met je gang-menu. Dit mag alleen als de persoon geboeid is door de gang.
 - Het is voor een officiële gang niet toegestaan om een 2e gang te creëren om hieruit een groei te kunnen maken voor de eigen gang.
 - Het is niet toegestaan om items in te nemen door middel van /me. Dit dient te gebeuren met het F6 menu.
+- Een officiële groepering is verplicht minstens 1x per week een uitgebreid RP scenario uit te voeren. Indien dit niet mogelijk is omwille van uitzonderlijke gevallen, kan er een extra week de tijd gegeven worden. Dit moet altijd met een Onderwereld Coördinator besproken worden.
 
 ### **Artikel 36A: Wraakacties tegen whitelisted jobs (Straf-categorie: 5)**
 - Het is ten alle tijden verboden om wraakacties uit te voeren tegen whitelisted jobs.
@@ -388,13 +399,13 @@
 
 ### **Artikel 38.1: Ambulance (Straf-categorie: 2)**
 - Het is niet toegestaan om iemand te reviven als de desbetreffende persoon:
-   * niet meer aanspreekbaar is;
-   * minder dan 20% bloed heeft;
-   * een hartslag onder de 20 bpm heeft;
-   * is neergeschoten, gestoken, geknuppeld of geslagen met een boksbeugel. Bij deze regel maakt het niet uit of ze voldoende bloed/hartslag hebben;
-   * aangeeft dat diegene dood is door RDM, VDM, FailRP, bugs etc. Hierbij moet de persoon in kwestie een ticket maken.
-   * langer dan 5 minuten onderwater heeft gelegen.
-   * vanaf een hoogte van 5 verdiepingen of hoger is gevallen.
+  * niet meer aanspreekbaar is;
+  * minder dan 20% bloed heeft;
+  * een hartslag onder de 20 bpm heeft;
+  * is neergeschoten, gestoken, geknuppeld of geslagen met een boksbeugel. Bij deze regel maakt het niet uit of ze voldoende bloed/hartslag hebben;
+  * aangeeft dat diegene dood is door RDM, VDM, FailRP, bugs etc. Hierbij moet de persoon in kwestie een ticket maken.
+  * langer dan 5 minuten onderwater heeft gelegen.
+  * vanaf een hoogte van 5 verdiepingen of hoger is gevallen.
 - Het samenwerken met de onderwereld is niet toegestaan, dit valt onder corruptie.
 - Het betaald krijgen om iemand te reviven is niet toegestaan, dit valt onder corruptie.
 
@@ -460,26 +471,29 @@ Voorbeelden onder bovenstaand zijn uitspraken als "L" in Twitter.
 **Artikel 46.3: Voordoen als staff (straf-categorie: 6)**
  - Het voordoen en of uitspraken gebruiken om als staflid over te komen is niet toegestaan.
 
+**Artikel 46.4 : Voordoen als speler (straf-categorie: 2)**
+ - Het is verboden de naam van een andere speler in je eigen steamnaam te gebruiken. Je bent vrij om te kiezen welke steamnaam je gebruikt, alleen mag geen andere spelers benoemen in je eigen steamnaam.
+
 # Eilandregels
 
 ### **Artikel 47: Rippen eiland (Straf-categorie: 2)**
-- Op het eiland mag je 75 zakjes per persoon rippen. De regel op het vaste land blijft staan op het rippen van 20 zakjes.
-- Na het rippen mag je niet binnen 60 minuten (1uur) de zelfde persoon nogmaals rippen
-- Op het eiland mag je 30k aan zwart geld rippen. Geen witgeld, ook niet laten pinnen en dan rippen.
-- Ieder wapen mag ieder wapen rippen. Je mag diegene daarna ook doodschieten. Bij alle andere rips mag je iemand NIET daarna doodschieten.
-- Kom je wapens tegen met het fouilleren mag je deze afpakken (eigen risico van het meenemen op het eiland).
+   - Op het eiland mag je 75 zakjes per persoon rippen. De regel op het vaste land blijft staan op het rippen van 20 zakjes.
+   - Na het rippen mag je niet binnen 60 minuten (1uur) de zelfde persoon nogmaals rippen
+   - Op het eiland mag je 30k aan zwart geld rippen. Geen witgeld, ook niet laten pinnen en dan rippen.
+   - Ieder wapen mag ieder wapen rippen. Je mag diegene daarna ook doodschieten na het vermelden van de reden. Bij alle andere rips mag je iemand NIET daarna doodschieten.
+   - Kom je wapens tegen met het fouilleren mag je deze afpakken (eigen risico van het meenemen op het eiland).
 
 ### **Artikel 47.1: RDM eiland (Straf-categorie: 1, afhankelijk aantal bans)**
-- RDM regel iedereen die op het eiland komt en die geen zaken bij jou doet wegsturen. Indien de persoon in kwestie niet vertrekt sta je in je recht om de persoon te doden.
-- Mensen met wapens in de hand mag je direct doodschieten.
+   - Je mag iedereen die op het eiland komt en die geen zaken bij jou doet wegsturen. Indien de persoon in kwestie niet vertrekt sta je in je recht om de persoon te doden. Indien de persoon binnen het halfuur terug is, mag je hem/haar vermoorden.
+   - Mensen met wapens in de hand mag je direct doodschieten.
 
 ### **Artikel 48: Politie rond/op eiland (Straf-categorie: 2)**
-- Het is verboden om vanaf het eiland op de patrouillerende schepen of heli’s van de politie te schieten. 
-- Het is toegestaan om op binnenkomende schepen en boten te schieten die gang/burger gerelateerd zijn.
-- De DSI / KCT mag speciale operaties uitvoeren op het eiland.
-- De politie mag niet op het eiland komen.
-- Indien je agenten meeneemt naar het eiland, geldt bovenstaande regel niet. Dan staat de politie in hun recht om actie te ondernemen.
-- Bovenstaande geldt ook als je naar het eiland vlucht in een achtervolging met de politie.
+   - Het is verboden om vanaf het eiland op de patrouillerende schepen of heli’s van de politie te schieten. 
+   - Het is toegestaan om op binnenkomende schepen en boten te schieten die gang/burger gerelateerd zijn.
+   - De DSI / KCT mag speciale operaties uitvoeren op het eiland.
+   - De politie mag niet op het eiland komen.
+   - Indien je agenten meeneemt naar het eiland, geldt bovenstaande regel niet. Dan staat de politie in hun recht om actie te ondernemen.
+   - Bovenstaande geldt ook als je naar het eiland vlucht in een achtervolging met de politie.
 
 ### **Artikel 49: (Straf-categorie: 2 voor alle betrokkene)**
 - Op het eiland mogen gangs onderling niet samenwerken.
